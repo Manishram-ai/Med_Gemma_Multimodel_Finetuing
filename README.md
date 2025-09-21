@@ -93,3 +93,29 @@ The good news is that gliomas are a very treatable type of brain tumor, and ther
 ** Final thoughts:**
 This is a challenging diagnosis, but you are not alone. Your medical team will create a comprehensive plan to give you the best possible care and quality of life.
 ```
+
+# Using Grad Cam
+
+## Methodology
+
+   Data Loading: The notebook loads the image data from the specified Kaggle dataset directory.
+
+   Model Building: A pre-trained ResNet50 model is loaded with weights from ImageNet, and its final layers are replaced with a new classifier suitable for our 3-class problem.
+
+   Training: The model is trained for several epochs on the brain MRI dataset.
+
+  ### Grad-CAM Implementation:
+
+   A function is defined to compute the Grad-CAM heatmap. This involves calculating the gradient of the model's top predicted class output with respect to the feature maps of the final convolutional layer.
+
+   The gradients are pooled and weighted to create a heatmap that signifies regions of importance.
+
+   Visualization: The generated heatmap is color-mapped and superimposed on the original test image to visually demonstrate where the model "looks" to make its prediction.
+
+## How to Run
+
+   Environment: Ensure you have a Python environment with TensorFlow, Keras, and OpenCV installed.
+
+   Data: Download the dataset from the Kaggle link provided above and place it in the appropriate directory.
+
+   Execution: Open the GradCam_brain_MRI.ipynb notebook and run the cells sequentially. The final cells will display sample MRI images with their corresponding Grad-CAM overlays.
