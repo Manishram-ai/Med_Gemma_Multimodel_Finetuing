@@ -18,6 +18,8 @@ The notebook performs the following key steps:
       * **Images**: [Brain Cancer MRI Dataset from Kaggle](https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset), containing images classified into three categories: `brain_glioma`, `brain_menin`, and `brain_tumor`. 
       * **Text**: A custom-generated JSON file containing detailed explanations, next steps, and potential follow-up questions for each tumor type made by LLM!
 
+   * Model available here: https://huggingface.co/Manishram/medgemma-brain-cancer-adapter
+
 ## Methodology
 
 ### 1\. Data Loading and Preprocessing
