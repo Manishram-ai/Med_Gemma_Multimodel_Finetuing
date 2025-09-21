@@ -1,4 +1,5 @@
 # Fine-Tuning MedGemma on Brain Cancer MRI Data
+## ( with interoperability using Grad Cam!)
 
 This project demonstrates the process of fine-tuning `google/medgemma-4b-it`, a multimodal model, on a dataset of brain cancer MRI scans. The goal is to create a specialized vision-language assistant capable of identifying the type of brain tumor from an image and providing a detailed, empathetic explanation in response to a user's query.
 
