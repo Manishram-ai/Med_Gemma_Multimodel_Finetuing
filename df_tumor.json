@@ -1,0 +1,2279 @@
+{
+  "brain_scan_explanations": [
+    {
+      "id": "brain_tumor_001",
+      "topic": "brain_tumor",
+      "instruction": "My scan report says there's an 'intra-axial mass' and I need to see a specialist. What does that mean?",
+      "response": {
+        "finding": "The scan has identified what is called an intra-axial mass, which is a growth located within the tissue of the brain.",
+        "explanation_and_statistic": "This is a general term for a growth that arises from the brain cells themselves. The most important next step is to determine the specific type of cells involved, as this will guide all treatment decisions. It's helpful to remember that many types of brain tumors, both benign and malignant, are treatable with modern medicine.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neuro-oncology team.",
+            "The plan for getting a tissue sample for a definitive diagnosis (a biopsy).",
+            "Further advanced imaging to get more detail about the mass."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most important next steps to figure out what this is?",
+            "Based on the scan, how urgently do we need to act?"
+          ]
+        },
+        "closing_statement": "Receiving this news is the first step in a well-defined process. The immediate focus will be on gathering more information so your team can create the best possible plan for you. You are on the right path to getting answers."
+      }
+    },
+    {
+      "id": "brain_tumor_002",
+      "topic": "brain_tumor",
+      "instruction": "They found 'multiple brain lesions' on my MRI. What does that mean?",
+      "response": {
+        "finding": "The analysis of your scan shows the presence of multiple lesions, or spots, in different areas of your brain.",
+        "explanation_and_statistic": "When multiple spots are found, doctors need to investigate whether they started in the brain or if they could have come from somewhere else in the body. The next steps in your care will be focused on answering this question. Advances in both imaging and treatment have significantly improved the outlook for people with findings like this.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Additional imaging, such as a CT or PET scan of your chest, abdomen, and pelvis.",
+            "A consultation with both a neuro-oncologist and a medical oncologist.",
+            "A plan to biopsy one of the lesions to identify the cell type."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why do you need to scan the rest of my body?",
+            "What is the most important priority for my care right now?"
+          ]
+        },
+        "closing_statement": "It's understandable to be concerned by this finding. Your medical team will now act as detectives, gathering all the necessary information from these next tests to build a complete picture. You have a team ready to guide you."
+      }
+    },
+    {
+      "id": "brain_tumor_003",
+      "topic": "brain_tumor",
+      "instruction": "The report mentions a 'ring-enhancing lesion' in my brain.",
+      "response": {
+        "finding": "The scan shows a 'ring-enhancing lesion,' which is a specific pattern where a spot lights up with contrast dye in the shape of a ring.",
+        "explanation_and_statistic": "This pattern indicates an active process and gives your doctors a very clear target to investigate. While it can be caused by a number of things, including a tumor or an infection, there is a very standard and efficient process to determine the cause.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The need for a biopsy to get a tissue sample from the lesion's wall.",
+            "Blood tests to check for signs of infection in your body.",
+            "Starting medication like steroids to reduce the inflammation around the lesion."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most likely causes of a finding like this?",
+            "How will you tell the difference between a tumor and an infection?"
+          ]
+        },
+        "closing_statement": "This distinct pattern on your scan gives your doctors a clear path forward. They will move quickly to get the answers needed to ensure you start on the exact right treatment."
+      }
+    },
+    {
+      "id": "brain_tumor_004",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows a 'space-occupying lesion with significant edema'.",
+      "response": {
+        "finding": "The scan has identified a space-occupying lesion, or mass, which is surrounded by a significant amount of swelling, also known as edema.",
+        "explanation_and_statistic": "The swelling is the brain's reaction to the mass and is likely the cause of your symptoms. Fortunately, this swelling is very treatable with medication, and many people feel much better very quickly once they start treatment for it.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Starting steroid medication right away to reduce the swelling.",
+            "An urgent consultation with a neurosurgeon.",
+            "A plan to diagnose the underlying mass that is causing the swelling."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How quickly will the medication help my symptoms?",
+            "Is the swelling the most urgent problem to solve?"
+          ]
+        },
+        "closing_statement": "Your team has two clear goals: first, to make you feel better by treating the swelling, and second, to find out what the lesion is. They can work on both at the same time, and you are in good hands."
+      }
+    },
+    {
+      "id": "brain_tumor_005",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'hemorrhagic mass'.",
+      "response": {
+        "finding": "The analysis of your scan shows a mass within the brain that has a hemorrhagic component, meaning there has been some bleeding within it.",
+        "explanation_and_statistic": "A bleed into a mass can be what causes symptoms to appear suddenly. While this is a serious event, it also clearly unmasks the problem area for your doctors. There are several types of tumors that can bleed, and a thorough investigation will be needed.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An urgent consultation with a neurosurgeon to manage the bleed and the mass.",
+            "A plan for surgical removal of both the blood and the mass.",
+            "A discussion about why some tumors have a tendency to bleed."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the bleeding an ongoing emergency?",
+            "Does the presence of blood change the treatment plan?"
+          ]
+        },
+        "closing_statement": "The scan has provided a clear reason for your symptoms. Your team will act quickly to address the bleeding and then work to get a definitive diagnosis of the underlying mass to prevent it from happening again."
+      }
+    },
+    {
+      "id": "brain_tumor_006",
+      "topic": "brain_tumor",
+      "instruction": "They found a 'non-specific enhancing nodule'. What now?",
+      "response": {
+        "finding": "The scan identified a small, 'non-specific enhancing nodule' in your brain.",
+        "explanation_and_statistic": "This means a small spot lit up with contrast dye, but it doesn't have the classic features of one particular condition. It will require further investigation. It is important to remember that many small enhancing nodules can be related to benign processes or inflammation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A follow-up MRI in a short interval (e.g., 1-3 months) to check for any change.",
+            "A thorough review of your medical history for any potential causes.",
+            "A discussion about the pros and cons of a biopsy versus observation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the different things this nodule could be?",
+            "What changes would make you more concerned on the next scan?"
+          ]
+        },
+        "closing_statement": "It is wise for your team to be cautious and not jump to conclusions about a non-specific finding. This careful, observant approach is a sign of good medicine and ensures you only get the treatment you truly need."
+      }
+    },
+    {
+      "id": "brain_tumor_007",
+      "topic": "brain_tumor",
+      "instruction": "My scan after a fall showed an 'incidental brain mass'.",
+      "response": {
+        "finding": "The scan performed after your fall revealed an incidental mass in your brain that requires further evaluation.",
+        "explanation_and_statistic": "'Incidental' means the mass was discovered by chance and is unrelated to your fall. Finding things by accident is increasingly common with modern scans. This early discovery is a significant advantage, giving you time to investigate it properly.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A dedicated, high-resolution brain MRI to characterize the mass better.",
+            "A consultation with a neurologist or neurosurgeon.",
+            "A neurological exam to ensure it's not causing any subtle problems."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Are you sure the mass is not related to my fall?",
+            "What is the standard process for investigating an incidental finding like this?"
+          ]
+        },
+        "closing_statement": "While it's unsettling to find something unexpected, the fall has brought to light an issue that you can now address proactively. You are in a position of knowledge and can move forward with a careful, methodical plan."
+      }
+    },
+    {
+      "id": "brain_tumor_008",
+      "topic": "brain_tumor",
+      "instruction": "The report says 'findings suspicious for primary CNS lymphoma'.",
+      "response": {
+        "finding": "Your scan shows features that are suspicious for a condition called primary CNS lymphoma.",
+        "explanation_and_statistic": "This is a rare type of tumor that arises from immune cells (lymphocytes) in the brain. It is not like other brain tumors and is treated very differently, often without surgery. It typically responds very well to treatments like chemotherapy and radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neuro-oncologist who specializes in this condition.",
+            "A plan for a biopsy, which is essential for diagnosis.",
+            "A discussion on why steroids should be avoided before the biopsy if possible."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is this tumor treated differently from other brain tumors?",
+            "What is the standard treatment protocol for CNS lymphoma?"
+          ]
+        },
+        "closing_statement": "It is very good that your radiologist recognized the specific features of this rare condition. It ensures you are put on the correct diagnostic path from the very beginning. This is a treatable disease, and you will be connected with the right experts."
+      }
+    },
+    {
+      "id": "brain_tumor_009",
+      "topic": "brain_tumor",
+      "instruction": "My child's scan shows a 'posterior fossa tumor'.",
+      "response": {
+        "finding": "Your child's scan has identified a tumor in the posterior fossa, the lower-back portion of the brain.",
+        "explanation_and_statistic": "The posterior fossa contains the cerebellum and brainstem. This is the most common location for brain tumors in children. It's important to know that pediatric brain tumor treatment is a highly specialized field, and survival rates have improved dramatically over the last few decades.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An urgent consultation with a pediatric neuro-oncology team.",
+            "A plan for surgical removal of the tumor, which is often the first and most important step.",
+            "Connection with support services like social work and child life specialists."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common types of tumors in this location in a child?",
+            "What is your team's experience with this type of surgery?"
+          ]
+        },
+        "closing_statement": "This is very difficult news for a parent to hear. Please know your child will be cared for by a dedicated team of world-class experts who specialize in treating children with these tumors. You are not alone on this journey."
+      }
+    },
+    {
+      "id": "brain_tumor_010",
+      "topic": "brain_tumor",
+      "instruction": "Scan says 'findings concerning for metastatic disease'.",
+      "response": {
+        "finding": "The brain scan shows multiple spots with features that are concerning for metastatic disease.",
+        "explanation_and_statistic": "This suggests that the spots may have originated from a cancer elsewhere in the body and spread to the brain. Your medical team's top priority will now be to find the original source. Modern targeted therapies and immunotherapies have led to major breakthroughs in treating metastatic disease.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A full-body PET or CT scan to find the primary cancer.",
+            "A consultation with a medical oncologist and a radiation oncologist.",
+            "A plan to treat the brain lesions, often with highly focused radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How do we find the original source?",
+            "What is the plan to treat the spots in my brain right now?"
+          ]
+        },
+        "closing_statement": "This is a serious diagnosis, but your scan has given your team a clear road map. The investigation will be swift and thorough. You have an entire team of cancer specialists ready to create a comprehensive plan for you."
+      }
+    },
+    {
+      "id": "brain_tumor_011",
+      "topic": "brain_tumor",
+      "instruction": "I have a 'brainstem mass'. What are the options?",
+      "response": {
+        "finding": "The analysis reveals a mass located in your brainstem, a very delicate and critical part of the brain.",
+        "explanation_and_statistic": "The brainstem controls all of our basic life functions. Because of this, surgery is often not the first or safest option. Treatment is highly specialized and often relies on radiation and chemotherapy, with a focus on controlling the tumor while preserving your function.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A biopsy to determine the exact tumor type, which is critical for planning.",
+            "A consultation with a radiation oncologist and neuro-oncologist.",
+            "A detailed discussion about the goals and risks of treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the main goal of treatment if surgery is not possible?",
+            "What are the most common side effects of treating this area?"
+          ]
+        },
+        "closing_statement": "This is a very challenging location, and your care will be managed by a team of superspecialists. They will use their expertise to create a careful, precise plan that prioritizes your safety and quality of life above all else."
+      }
+    },
+    {
+      "id": "brain_tumor_012",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows 'leptomeningeal disease'.",
+      "response": {
+        "finding": "The scan shows enhancement of the leptomeninges, the thin layers covering the brain, which is a finding known as leptomeningeal disease.",
+        "explanation_and_statistic": "This suggests there are abnormal cells floating in the cerebrospinal fluid that surrounds the brain and spinal cord. The next step is to get a sample of that fluid to identify the cells. This is a serious condition, but there are specific treatments designed to target the entire nervous system.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A lumbar puncture (spinal tap) to analyze the spinal fluid.",
+            "An MRI of your entire spine to see the full extent of the disease.",
+            "A discussion about treatments like systemic or intrathecal chemotherapy."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Where did the cells in the fluid come from?",
+            "How do you treat a problem that is so widespread?"
+          ]
+        },
+        "closing_statement": "This scan finding gives your team a very specific problem to solve. They will focus on getting a fluid sample to make a definitive diagnosis, which will then unlock a set of specialized treatments designed for this exact situation."
+      }
+    },
+    {
+      "id": "brain_tumor_013",
+      "topic": "brain_tumor",
+      "instruction": "My scan is 'unremarkable' but I have symptoms. Could something have been missed?",
+      "response": {
+        "finding": "The analysis of your brain scan is described as 'unremarkable,' meaning it does not show any tumor, bleed, stroke, or other structural abnormality.",
+        "explanation_and_statistic": "This is very reassuring news, as it rules out many of the most serious causes of neurological symptoms. The brain is incredibly complex, and many conditions that cause symptoms, like migraines or some seizure disorders, do not show up on an MRI scan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion with a neurologist about 'functional' neurological disorders.",
+            "Further testing, such as an EEG to look at brain wave activity.",
+            "A focus on treating your symptoms now that serious structural causes are ruled out."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If the scan is normal, what could be causing my symptoms?",
+            "What is the next step in the investigation?"
+          ]
+        },
+        "closing_statement": "A normal scan is a very positive result. It allows your doctor to confidently rule out a brain tumor and focus on other possible causes. You are now on a different, and often less worrisome, diagnostic path."
+      }
+    },
+    {
+      "id": "brain_tumor_014",
+      "topic": "brain_tumor",
+      "instruction": "The report says 'dural-based mass'. What's the difference between that and a brain tumor?",
+      "response": {
+        "finding": "The scan shows a 'dural-based mass,' which is a growth attached to the dura, the tough outer covering of the brain.",
+        "explanation_and_statistic": "This is an important distinction. A dural-based mass grows from the brain's lining, not the brain tissue itself. The most common type is a meningioma, the vast majority of which are benign. The outlook for dural-based masses is generally much better than for tumors growing inside the brain.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the likely diagnosis of a meningioma.",
+            "A review of your options, which often include simple observation.",
+            "A consultation with a neurosurgeon to confirm the finding."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is it better for a tumor to be on the lining instead of in the brain?",
+            "What is the chance this is something other than a meningioma?"
+          ]
+        },
+        "closing_statement": "The location of this mass is a very reassuring sign. You can be optimistic as you move forward to confirm the diagnosis, as you are starting from a very favorable position."
+      }
+    },
+    {
+      "id": "brain_tumor_015",
+      "topic": "brain_tumor",
+      "instruction": "The scan mentions a finding and 'differential diagnosis'.",
+      "response": {
+        "finding": "The scan has identified an abnormal area, and the radiologist has provided a 'differential diagnosis'.",
+        "explanation_and_statistic": "A 'differential diagnosis' is simply a list of all the possible conditions that could explain the finding on your scan, ranked from most to least likely. It's the starting point for your medical team's investigation. It is a normal part of the process when a finding isn't a textbook example of one single thing.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of each possibility on the differential diagnosis list.",
+            "A discussion of the next tests needed to narrow down the possibilities.",
+            "A plan to arrive at a single, definitive diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is at the top of the list of possibilities?",
+            "How will we get from a list of possibilities to a certain answer?"
+          ]
+        },
+        "closing_statement": "While a list of possibilities can feel uncertain, it is a sign of a thoughtful and thorough radiologist. Your team will now proceed logically through that list to find the correct diagnosis for you."
+      }
+    },
+    {
+      "id": "brain_tumor_016",
+      "topic": "brain_tumor",
+      "instruction": "I have a tumor in my 'cerebellum'. What does that part of the brain do?",
+      "response": {
+        "finding": "The scan shows a mass located in your cerebellum, the part of the brain at the lower back of your head.",
+        "explanation_and_statistic": "The cerebellum is the brain's coordination center. It controls your balance, posture, and the smoothness of your movements. Symptoms from a cerebellar tumor often involve unsteadiness, dizziness, or clumsiness. The good news is that physical therapy is incredibly effective at helping people recover these functions.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon, as many cerebellar tumors can be removed.",
+            "A baseline evaluation with a physical therapist.",
+            "A discussion of the symptoms you've been experiencing."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How will treatment affect my balance and coordination?",
+            "What can I do to help with my recovery?"
+          ]
+        },
+        "closing_statement": "Your team will focus on two things: treating the tumor, and supporting your physical function. You will have a whole team, including therapists, dedicated to helping you regain your strength and balance."
+      }
+    },
+    {
+      "id": "brain_tumor_017",
+      "topic": "brain_tumor",
+      "instruction": "What is an 'extra-axial' mass?",
+      "response": {
+        "finding": "The scan reveals an 'extra-axial' mass, which is a growth located outside of the brain tissue itself.",
+        "explanation_and_statistic": "This is an important and generally positive distinction. 'Extra-axial' means it's growing from the linings of the brain (like a meningioma) or the nerves coming from it (like a schwannoma). These are typically benign and more easily separated from the brain than tumors growing inside it.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the most likely diagnoses, like meningioma.",
+            "A consultation with a neurosurgeon.",
+            "A review of whether observation or treatment is more appropriate."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does it mean for my prognosis that it's 'extra-axial'?",
+            "What is the most common type of extra-axial mass?"
+          ]
+        },
+        "closing_statement": "The classification of your mass as 'extra-axial' is reassuring. It points towards a more favorable set of possibilities and a more manageable path forward. You can be optimistic about the next steps."
+      }
+    },
+    {
+      "id": "brain_tumor_018",
+      "topic": "brain_tumor",
+      "instruction": "The report mentions a 'pineal gland tumor'.",
+      "response": {
+        "finding": "The analysis of your scan shows a tumor located in the pineal region, a small, deep structure in the center of the brain.",
+        "explanation_and_statistic": "Tumors in the pineal gland are rare and come in many different types, from benign cysts to more aggressive tumors. A key first step is to check for certain markers in the blood and spinal fluid, as this can sometimes diagnose the tumor without even needing a biopsy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Blood tests for specific tumor markers (AFP and beta-HCG).",
+            "A lumbar puncture (spinal tap) to check the spinal fluid.",
+            "A consultation with a neuro-oncology team at a major medical center."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common types of tumors in this specific spot?",
+            "Why are the blood and fluid tests so important?"
+          ]
+        },
+        "closing_statement": "This is a rare diagnosis that requires a very specific and specialized workup. You are on the right path to getting the tests that can provide a clear diagnosis and lead to the most effective treatment plan."
+      }
+    },
+    {
+      "id": "brain_tumor_019",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows a 'partially cystic' mass.",
+      "response": {
+        "finding": "The scan has identified a mass in your brain that is partially cystic, meaning it is a mix of solid tissue and a fluid-filled area.",
+        "explanation_and_statistic": "This mixed structure is common in many types of brain tumors. It provides useful information for a surgeon, as their plan will involve addressing both the solid and fluid components. Often, draining the fluid can provide rapid symptom relief.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss removing the mass.",
+            "A discussion on how the cystic component affects the surgical plan.",
+            "A plan to get a biopsy of the solid part of the wall, which holds the diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does having a cyst make the tumor more or less serious?",
+            "What is the goal of surgery in this case?"
+          ]
+        },
+        "closing_statement": "The scan has given your surgeon a clear road map of the lesion's structure. They will know exactly what to expect and can tailor the operation to safely manage both the solid and fluid parts."
+      }
+    },
+    {
+      "id": "brain_tumor_020",
+      "topic": "brain_tumor",
+      "instruction": "The scan found a tumor, and I have a history of breast cancer.",
+      "response": {
+        "finding": "The scan shows a new lesion in your brain, which, given your history of breast cancer, needs to be evaluated as a possible metastasis.",
+        "explanation_and_statistic": "When a new spot appears in someone with a prior cancer history, the primary concern is that it may be a spread, or metastasis, of that cancer. It is important to know that we have very effective treatments, particularly focused radiation, that have high rates of control for brain metastases.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with your medical oncologist and a radiation oncologist.",
+            "A discussion about Stereotactic Radiosurgery (SRS) to treat the spot.",
+            "A new staging scan of your body to check the status of your breast cancer."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the most effective treatment for a breast cancer metastasis in the brain?",
+            "Does this change the overall plan for my breast cancer?"
+          ]
+        },
+        "closing_statement": "This is an unwelcome development, but it is a challenge for which your oncology team is well-prepared. There is a clear and effective standard of care for this situation, and they will guide you through it."
+      }
+    },
+    {
+      "id": "brain_tumor_021",
+      "topic": "brain_tumor",
+      "instruction": "I have a tumor in my 'frontal lobe'. What should I expect?",
+      "response": {
+        "finding": "The scan indicates the presence of a tumor within the frontal lobe of your brain.",
+        "explanation_and_statistic": "The frontal lobe is the part of the brain responsible for personality, behavior, planning, and judgment. Depending on the exact location, a tumor here can sometimes cause subtle changes in these areas. Your team will monitor these functions closely.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A baseline neuro-psychological evaluation.",
+            "A discussion with your family about any personality changes they may have noticed.",
+            "A surgical plan that focuses on preserving your cognitive function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What specific cognitive changes should we be on the lookout for?",
+            "How can you protect my personality during surgery?"
+          ]
+        },
+        "closing_statement": "Your team will be focused on more than just the tumor; they will be focused on you as a person. Protecting your personality and cognitive health will be a top priority throughout your treatment."
+      }
+    },
+    {
+      "id": "brain_tumor_022",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows an 'ill-defined' abnormality.",
+      "response": {
+        "finding": "The scan reveals an 'ill-defined' abnormality, meaning an area of abnormal tissue without clear or distinct borders.",
+        "explanation_and_statistic": "An ill-defined appearance suggests an infiltrative process, where abnormal cells are intermixed with normal brain tissue. This can be seen in certain types of tumors or with inflammation. The next step is to get more information to narrow down the possibilities.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Advanced imaging, like MR spectroscopy, to analyze the tissue's chemistry.",
+            "A biopsy to get a definitive tissue diagnosis.",
+            "A consultation with a neuro-oncologist."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does the lack of clear borders mean?",
+            "How does this appearance affect treatment options?"
+          ]
+        },
+        "closing_statement": "The scan has given your team important information about the *behavior* of this lesion. They will use this clue to guide their next steps and ensure they arrive at the correct diagnosis."
+      }
+    },
+    {
+      "id": "brain_tumor_023",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows 'no evidence of residual tumor' after my operation.",
+      "response": {
+        "finding": "Your first post-operative scan shows 'no evidence of residual or recurrent tumor.'",
+        "explanation_and_statistic": "This is the best possible news following surgery. It means the surgeon was able to successfully remove all of the visible tumor, which is referred to as a 'gross total resection'. This outcome is a major milestone and is associated with the best long-term prognosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A celebration of this successful surgical outcome.",
+            "A discussion of what, if any, further treatment is recommended based on the final pathology.",
+            "A plan for your recovery and rehabilitation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Based on this scan, what is my chance of a cure?",
+            "What does my surveillance plan look like now?"
+          ]
+        },
+        "closing_statement": "Congratulations on this excellent result. This clear scan is a testament to the skill of your surgeon and a very positive sign for your future. You can feel very optimistic moving forward."
+      }
+    },
+    {
+      "id": "brain_tumor_024",
+      "topic": "brain_tumor",
+      "instruction": "I have a 'benign' brain tumor. Does that mean I don't need treatment?",
+      "response": {
+        "finding": "The investigation has concluded that you have a benign brain tumor.",
+        "explanation_and_statistic": "'Benign' is great news, as it means the tumor is not cancerous and won't spread. However, even benign tumors can cause problems by pressing on the brain. Treatment depends entirely on whether it is causing symptoms or growing.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on whether the tumor is causing any symptoms.",
+            "The pros and cons of treatment versus observation in your case.",
+            "A plan for monitoring the tumor with scans if you choose not to treat it now."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If it's benign, why would we ever treat it?",
+            "What is the risk that it will ever turn into something more serious?"
+          ]
+        },
+        "closing_statement": "Having a benign diagnosis puts you in the driver's seat. You have time and options. You can work with your doctor to make a calm, reasoned decision about what is truly best for your health and quality of life."
+      }
+    },
+    {
+      "id": "brain_tumor_025",
+      "topic": "brain_tumor",
+      "instruction": "The scan mentions a 'well-circumscribed' mass.",
+      "response": {
+        "finding": "The scan has identified a 'well-circumscribed' mass in your brain.",
+        "explanation_and_statistic": "'Well-circumscribed' means the mass has very sharp, clear borders and appears to be separate from the surrounding brain tissue. This is often a reassuring feature, as it can suggest a slower-growing or more benign process. It also makes a surgeon's job easier.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about how this feature points toward a more favorable diagnosis.",
+            "A consultation with a neurosurgeon to discuss removing it.",
+            "A review of the likely possibilities, such as a benign tumor."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does having clear borders make surgery safer?",
+            "What are the most likely things a well-circumscribed mass could be?"
+          ]
+        },
+        "closing_statement": "This is a positive feature to see on your scan report. It provides a strong clue that you may be dealing with a more manageable and treatable condition. You can be hopeful as you take the next steps."
+      }
+    },
+    {
+      "id": "brain_tumor_026",
+      "topic": "brain_tumor",
+      "instruction": "My child's scan shows a 'supratentorial' tumor.",
+      "response": {
+        "finding": "Your child's scan shows a tumor in the 'supratentorial' region of the brain.",
+        "explanation_and_statistic": "This is a general term for the upper part of the brain (the cerebrum). While tumors are more common in the lower part of the brain in children, they can occur here as well. The type of tumor varies greatly by the child's age and the specific location.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a pediatric neuro-oncology team.",
+            "A plan for biopsy or surgical removal to get a diagnosis.",
+            "A baseline neurological and cognitive assessment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common childhood tumors in this part of the brain?",
+            "How will this affect my child's development?"
+          ]
+        },
+        "closing_statement": "Your child will be cared for by a multidisciplinary team of pediatric experts. They will focus not only on treating the tumor, but on supporting your child's growth, learning, and emotional well-being throughout the entire process."
+      }
+    },
+    {
+      "id": "brain_tumor_027",
+      "topic": "brain_tumor",
+      "instruction": "The report says 'tumor of unknown primary'.",
+      "response": {
+        "finding": "The brain scan shows a lesion that is likely a metastasis, but the 'primary' or original cancer source is not yet known.",
+        "explanation_and_statistic": "In some cases, a cancer's spread to the brain is the very first sign of a problem. Your medical team will now start a comprehensive, detective-like search to find the original tumor. This is a common clinical situation, and there is a standard process for the investigation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A full-body PET/CT scan.",
+            "A consultation with a medical oncologist.",
+            "A biopsy of the brain lesion, as its tissue can provide clues to its origin."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common places for a primary cancer to hide?",
+            "Can we treat the brain spot even before we find the source?"
+          ]
+        },
+        "closing_statement": "While this is an uncertain time, you have a clear process ahead of you. Your team will work efficiently to solve this puzzle. The focus is on gathering information to ensure you get the right treatment for your specific situation."
+      }
+    },
+    {
+      "id": "brain_tumor_028",
+      "topic": "brain_tumor",
+      "instruction": "Scan says there's a 'sellar mass'.",
+      "response": {
+        "finding": "The scan has identified a 'sellar mass,' which is a growth in or around the sella turcica, the bony pocket where the pituitary gland sits.",
+        "explanation_and_statistic": "This is a very specific location. The most common tumor here is a benign pituitary adenoma. These tumors are often slow-growing and can cause symptoms by pressing on nerves for vision or by disrupting your body's hormones.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with an endocrinologist to test your hormone levels.",
+            "A detailed vision exam by a neuro-ophthalmologist.",
+            "A referral to a neurosurgeon who specializes in pituitary tumors."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Could this be the cause of the symptoms I'm experiencing?",
+            "What is the most common treatment for a tumor in this spot?"
+          ]
+        },
+        "closing_statement": "The location of this mass gives your team a very strong clue about what it is likely to be. You are now on a very specific diagnostic path that involves a team of specialists who are experts in this area."
+      }
+    },
+    {
+      "id": "brain_tumor_029",
+      "topic": "brain_tumor",
+      "instruction": "The report mentions 'calvarial metastasis'.",
+      "response": {
+        "finding": "The scan shows a lesion within the calvarium, or skull bone, that is suspicious for a metastasis.",
+        "explanation_and_statistic": "This means the finding is in the bone of the skull itself, not the brain. This is a common place for certain cancers (like breast, lung, or prostate) to spread. Treatment is often very effective at controlling pain and preventing further growth.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist.",
+            "A review of your overall cancer treatment plan with your medical oncologist.",
+            "A bone scan to check other bones in your body."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How is a tumor in the bone treated?",
+            "Is there a risk of it growing into the brain?"
+          ]
+        },
+        "closing_statement": "Your scan has pinpointed a specific problem area. The good news is that bone metastases are often very responsive to targeted radiation, which can provide excellent relief and control."
+      }
+    },
+    {
+      "id": "brain_tumor_030",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'tumor board review'?",
+      "response": {
+        "finding": "Now that your initial tests are complete, your case is going to be presented at the hospital's 'tumor board review'.",
+        "explanation_and_statistic": "A tumor board is a meeting where a team of different specialists\u2014neurosurgeons, neuro-oncologists, radiation oncologists, radiologists, and pathologists\u2014all come together to discuss a patient's case. It's a way to get many expert opinions at once to ensure the best possible treatment plan is created. It is a hallmark of excellent cancer care.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the consensus recommendation from the tumor board.",
+            "A confirmation of your final treatment plan.",
+            "An opportunity to ask questions about the team's decision."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What was the main topic of discussion about my case?",
+            "Was the decision unanimous among all the specialists?"
+          ]
+        },
+        "closing_statement": "Having your case presented to a tumor board is a very positive thing. It means you are benefiting from the collective wisdom of an entire team of experts, all focused on creating the ideal strategy for you."
+      }
+    },
+    {
+      "id": "brain_tumor_031",
+      "topic": "brain_tumor",
+      "instruction": "My scan suggests a 'benign cyst' but they still call it a tumor.",
+      "response": {
+        "finding": "The scan shows a well-defined, fluid-filled lesion that has the classic appearance of a benign cyst.",
+        "explanation_and_statistic": "The word 'tumor' technically just means 'swelling' or 'growth,' so a benign cyst is a type of non-cancerous tumor. Common examples are arachnoid cysts or colloid cysts. The vast majority of these never cause problems and don't require any treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a benign, non-cancerous finding.",
+            "A plan for long-term, infrequent monitoring just to be safe.",
+            "Reassurance that this is a very common and non-threatening finding."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the difference between a cyst and a solid tumor?",
+            "What is the chance this will ever cause a problem?"
+          ]
+        },
+        "closing_statement": "This is very good news. The features on your scan strongly point to a benign cyst, which is a common and non-worrisome finding. You can be very reassured by this result."
+      }
+    },
+    {
+      "id": "brain_tumor_032",
+      "topic": "brain_tumor",
+      "instruction": "The scan found a 'calcified brain lesion'.",
+      "response": {
+        "finding": "The analysis of your scan shows a calcified lesion within your brain.",
+        "explanation_and_statistic": "'Calcified' means there are deposits of calcium within the lesion. This is often a sign that the lesion has been present for a very long time and is likely a slow-growing or inactive process. It can be the result of a past infection, an old bleed, or a very slow-growing type of benign tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your medical history for any potential causes.",
+            "A plan for observation with a follow-up scan in the distant future.",
+            "A discussion about whether any further investigation is needed at all."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is calcification a good sign?",
+            "What are the most likely causes of a calcified spot like this?"
+          ]
+        },
+        "closing_statement": "The presence of calcification is often a reassuring feature, suggesting a long-standing and non-aggressive process. Your doctor will likely recommend a very conservative, watchful approach."
+      }
+    },
+    {
+      "id": "brain_tumor_033",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows a 'recurrent tumor'. I've been through this before.",
+      "response": {
+        "finding": "The follow-up scan indicates that there is evidence of tumor recurrence in the previously treated area.",
+        "explanation_and_statistic": "It is understandably devastating to face this again. Recurrence is a known possibility for many brain tumors. The important thing to focus on now is that there are often many effective second- and third-line treatments available, including new therapies that may not have existed during your first treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of all available second-line treatment options.",
+            "A discussion about enrolling in a clinical trial for a novel therapy.",
+            "A new biopsy to see if the tumor's biology has changed."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What has changed in the world of brain tumor treatment since my first diagnosis?",
+            "What is our most hopeful strategy now?"
+          ]
+        },
+        "closing_statement": "You have fought this battle before, and that experience has given you strength and knowledge. Your medical team will be your partners, exploring every available option and supporting you every step of the way. You are not starting from scratch."
+      }
+    },
+    {
+      "id": "brain_tumor_034",
+      "topic": "brain_tumor",
+      "instruction": "What is 'palliative treatment' for a brain tumor?",
+      "response": {
+        "finding": "For your advanced brain tumor, the team is recommending a shift in focus to palliative treatment.",
+        "explanation_and_statistic": "'Palliative care' is a specialized medical approach focused on providing relief from the symptoms and stress of a serious illness. The goal is to improve quality of life for both you and your family. It does not mean giving up; it means prioritizing comfort, dignity, and making every day as good as it can be.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A focus on symptom management (pain, nausea, fatigue).",
+            "A discussion about your goals and what is most important to you.",
+            "The role of hospice services in providing support at home."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What can be done to improve my quality of life right now?",
+            "How can we ensure my comfort is the top priority?"
+          ]
+        },
+        "closing_statement": "This is a shift in goals, to focus squarely on your comfort and well-being. You have a dedicated team of palliative care experts who will work to ensure you are supported, heard, and cared for with the utmost compassion and dignity."
+      }
+    },
+    {
+      "id": "brain_tumor_035",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'partially calcified, partially enhancing' mass.",
+      "response": {
+        "finding": "The scan shows a complex mass with mixed features, including areas of calcification and areas of contrast enhancement.",
+        "explanation_and_statistic": "This mixed appearance suggests a complex process that may have been present for a long time (the calcified part) but now has areas of more active growth (the enhancing part). Getting a tissue sample will be essential to understand the different components.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a biopsy or surgical removal to get a diagnosis.",
+            "A discussion about what the different parts of the mass might represent.",
+            "A consultation with a neuro-oncology team."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does it mean that the tumor has different parts to it?",
+            "Which part of the tumor is more concerning, the calcified or enhancing part?"
+          ]
+        },
+        "closing_statement": "Your scan has revealed a complex situation, but it also gives your doctors a lot of information. They will proceed with a careful investigation to understand each component of the mass and build the right treatment plan."
+      }
+    },
+    {
+      "id": "brain_tumor_036",
+      "topic": "brain_tumor",
+      "instruction": "What does a 'biopsy-proven' brain tumor mean?",
+      "response": {
+        "finding": "The results from your recent procedure have provided a 'biopsy-proven' diagnosis of your brain tumor.",
+        "explanation_and_statistic": "This means you now have the most definitive diagnosis possible. A pathologist has looked at the actual tumor cells under a microscope. All the uncertainty is gone, and your treatment plan will now be based on this concrete, cellular evidence. Having a precise diagnosis is the most critical step in getting the best care.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed review of the final pathology report.",
+            "A discussion of the specific treatment plan for this tumor type.",
+            "An overview of the prognosis based on this definite diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the exact name and grade of my tumor?",
+            "Now that we know what it is, what is the standard of care?"
+          ]
+        },
+        "closing_statement": "You have now moved from the world of 'possibilities' to the world of 'certainty.' This clarity is power. Your team knows exactly what they are fighting, and they can now deploy the most effective, evidence-based treatments for you."
+      }
+    },
+    {
+      "id": "brain_tumor_037",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows an 'intraventricular mass'.",
+      "response": {
+        "finding": "The scan reveals a mass located inside one of the brain's ventricles, the normal fluid-filled spaces.",
+        "explanation_and_statistic": "Tumors inside the ventricles are relatively rare. They can cause problems by blocking the flow of cerebrospinal fluid, leading to a condition called hydrocephalus. The type of tumor can range from benign cysts to more serious tumors, so a careful workup is needed.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss removing the mass.",
+            "A plan to manage any fluid buildup (hydrocephalus).",
+            "Tests to check for tumor markers in your blood or spinal fluid."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common tumors found in this location?",
+            "What are the risks of operating inside the ventricle?"
+          ]
+        },
+        "closing_statement": "The specific location of this mass gives your team a clear path for investigation. You will be cared for by specialists who are experts at navigating these deep, delicate structures of the brain."
+      }
+    },
+    {
+      "id": "brain_tumor_038",
+      "topic": "brain_tumor",
+      "instruction": "Can you explain 'radiation necrosis'?",
+      "response": {
+        "finding": "In the area where you previously had radiation, the new scan shows changes that could represent radiation necrosis.",
+        "explanation_and_statistic": "Radiation necrosis is a delayed side effect of successful radiation. It's an area of scar tissue and inflammation that can look just like a growing tumor on an MRI. It is NOT a recurrence of the tumor, but rather a sign that the radiation did its job.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Advanced imaging (like a PET scan or MR perfusion) to confirm it's not a tumor.",
+            "A discussion about treatments to calm down the inflammation, like steroids.",
+            "Reassurance that this is a known and manageable treatment effect."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How can you be sure this is just scar tissue?",
+            "If it's not a tumor, why is it lighting up on the scan?"
+          ]
+        },
+        "closing_statement": "It's understandable to be worried by a new spot on a scan. However, it is very likely this is a sign of successful past treatment, not a failure. Your team will do the right tests to confirm this and put your mind at ease."
+      }
+    },
+    {
+      "id": "brain_tumor_039",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a tumor 'involving the optic chiasm'.",
+      "response": {
+        "finding": "The scan shows a tumor at the base of the brain that appears to involve the optic chiasm.",
+        "explanation_and_statistic": "The optic chiasm is the critical structure where the optic nerves from both eyes cross. A tumor here poses a direct threat to vision. The entire goal of treatment will be to protect or improve your sight.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An urgent, detailed vision exam with a neuro-ophthalmologist.",
+            "A consultation with a specialized skull base surgery team.",
+            "A discussion of the risks and benefits of surgery versus radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the risk of permanent vision loss?",
+            "What is the safest way to treat this and protect my sight?"
+          ]
+        },
+        "closing_statement": "This is a very delicate situation, and the absolute top priority for everyone on your team will be your vision. Every decision will be made with the goal of protecting this precious function."
+      }
+    },
+    {
+      "id": "brain_tumor_040",
+      "topic": "brain_tumor",
+      "instruction": "My scan is 'equivocal'. What does that mean?",
+      "response": {
+        "finding": "The finding on your scan is described as 'equivocal,' which means it is uncertain or ambiguous.",
+        "explanation_and_statistic": "This means the spot doesn't have the classic appearance of any single condition. It could be an unusual tumor, an area of inflammation, or the result of a past injury. An equivocal finding requires further investigation to solve the puzzle.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a short-interval follow-up scan to look for any change.",
+            "A review of your full medical history for clues.",
+            "A discussion about whether a biopsy is needed to get a definite answer."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the top two or three things this could be?",
+            "What is the plan to resolve this uncertainty?"
+          ]
+        },
+        "closing_statement": "Living with uncertainty is difficult. However, your doctors are being commendably cautious by not jumping to conclusions. They will follow a logical process to bring you clarity."
+      }
+    },
+    {
+      "id": "brain_tumor_041",
+      "topic": "brain_tumor",
+      "instruction": "What is an 'ependymoma'?",
+      "response": {
+        "finding": "The scan shows a tumor located within or next to the brain's ventricles, and an ependymoma is a primary consideration.",
+        "explanation_and_statistic": "An ependymoma is a rare tumor that arises from the ependymal cells, which line the fluid-filled ventricles of the brain and the center of the spinal cord. The standard of care is to remove as much of the tumor as possible surgically, often followed by radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss maximal safe resection.",
+            "An MRI of the entire spine, as these tumors can sometimes spread through the spinal fluid.",
+            "A discussion with a radiation oncologist about post-operative treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the most important part of treating this type of tumor?",
+            "Why is an MRI of the spine necessary?"
+          ]
+        },
+        "closing_statement": "It is good that the scan suggests a specific possibility. This allows your team to follow a well-established and effective treatment protocol for this particular type of tumor."
+      }
+    },
+    {
+      "id": "brain_tumor_042",
+      "topic": "brain_tumor",
+      "instruction": "The scan notes 'midline shift'. What does that imply?",
+      "response": {
+        "finding": "The scan shows that the mass in your brain is causing a 'midline shift,' pushing the central structures of your brain to the side.",
+        "explanation_and_statistic": "A midline shift is a sign of significant pressure inside the skull. This pressure is likely the cause of your most severe symptoms. The immediate priority of your medical team will be to relieve this pressure.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An urgent plan to reduce the pressure, usually with high-dose steroids.",
+            "An emergency consultation with a neurosurgeon.",
+            "Admission to the hospital for close monitoring."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How dangerous is the pressure from this shift?",
+            "What is the fastest way to make me safer?"
+          ]
+        },
+        "closing_statement": "This is a serious finding, but one that your medical team has a very clear and immediate plan for. Their entire focus will be on relieving the pressure to get you out of danger while they plan to address the underlying mass."
+      }
+    },
+    {
+      "id": "brain_tumor_043",
+      "topic": "brain_tumor",
+      "instruction": "Can you explain what a 'schwannoma' is?",
+      "response": {
+        "finding": "The scan shows a well-defined, enhancing mass on a nerve coming from your brainstem, which is a classic appearance of a schwannoma.",
+        "explanation_and_statistic": "A schwannoma is a tumor that grows from the Schwann cells that form the insulation around nerves. They are not brain tumors, but tumors of the nerves next to the brain. The vast majority (over 95%) are benign and very slow-growing.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the specific nerve involved (often the hearing and balance nerve).",
+            "A review of your options: observation, radiation, or surgery.",
+            "A hearing test (audiogram) to check the nerve's function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the pros and cons of surgery versus radiation for me?",
+            "What is the risk to my hearing with each option?"
+          ]
+        },
+        "closing_statement": "This is a benign diagnosis with excellent, minimally invasive treatment options. You have time to consider all the possibilities and make a choice that best fits your goals and lifestyle."
+      }
+    },
+    {
+      "id": "brain_tumor_044",
+      "topic": "brain_tumor",
+      "instruction": "The report mentions a 'choroid plexus papilloma'.",
+      "response": {
+        "finding": "The scan shows a brightly enhancing tumor within one of the brain's ventricles, consistent with a choroid plexus papilloma.",
+        "explanation_and_statistic": "This is a rare, benign (WHO Grade 1) tumor that arises from the choroid plexus, the tissue inside the ventricles that produces your spinal fluid. It is most common in children and is typically cured by surgical removal alone.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss surgical removal.",
+            "A discussion about hydrocephalus, as these tumors can overproduce fluid.",
+            "Reassurance that this is a benign condition."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the success rate for surgery for this tumor?",
+            "Are there any long-term concerns after it's removed?"
+          ]
+        },
+        "closing_statement": "This is a rare but benign diagnosis with a very straightforward treatment path. The goal is a surgical cure, and you can be very optimistic about achieving a great outcome."
+      }
+    },
+    {
+      "id": "brain_tumor_045",
+      "topic": "brain_tumor",
+      "instruction": "I have a history of lung cancer and now have a 'solitary brain lesion'.",
+      "response": {
+        "finding": "Given your history of lung cancer, the new solitary (single) lesion in your brain must be considered a possible metastasis.",
+        "explanation_and_statistic": "A single brain metastasis is a very treatable condition. The standard of care is often Stereotactic Radiosurgery (SRS), a type of highly focused, non-invasive radiation that has control rates exceeding 90%. It is a very effective and well-tolerated treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist to plan SRS.",
+            "A discussion with your lung cancer oncologist about your systemic therapy.",
+            "A new staging scan to assess the status of the cancer in the rest of your body."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the success rate of radiation for this spot?",
+            "Is surgery an option as well?"
+          ]
+        },
+        "closing_statement": "Although this is a new challenge, there is a very clear and highly effective treatment for it. Your team will coordinate to treat the spot in your brain while ensuring your overall cancer care continues seamlessly."
+      }
+    },
+    {
+      "id": "brain_tumor_046",
+      "topic": "brain_tumor",
+      "instruction": "What is 'maximal safe resection'?",
+      "response": {
+        "finding": "For your brain tumor, the surgeon's goal will be to perform a 'maximal safe resection'.",
+        "explanation_and_statistic": "This is a core concept in brain surgery. It means the surgeon's goal is to remove the maximum amount of tumor possible *without* causing a new, permanent neurological injury. Patient safety and preserving function are always the top priorities over getting out every last cell. The cells that are safely left behind can then be treated with radiation or chemotherapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the specific risks of your surgery.",
+            "The surgeon's personal philosophy on safety versus extent of resection.",
+            "The plan for treating any 'residual' tumor left behind."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the most important function you are trying to protect during my surgery?",
+            "How will you know when to stop?"
+          ]
+        },
+        "closing_statement": "You can feel confident knowing that your surgeon's primary commitment is to your safety. A successful surgery is one where you wake up the same person you were before, and this principle will guide every decision made in the operating room."
+      }
+    },
+    {
+      "id": "brain_tumor_047",
+      "topic": "brain_tumor",
+      "instruction": "The scan notes a 'thalamic mass'.",
+      "response": {
+        "finding": "The scan has identified a mass located in the thalamus, a central, deep structure in your brain.",
+        "explanation_and_statistic": "The thalamus is like the main relay station for all sensory information in the brain. Due to its critical location and function, tumors here are often treated non-surgically. A biopsy is crucial to determine the exact tumor type, as this will guide treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a stereotactic needle biopsy to get a tissue diagnosis.",
+            "A consultation with a neuro-oncologist and radiation oncologist.",
+            "A detailed neurological exam focusing on your sensory function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is surgery so risky in this location?",
+            "What is the standard treatment for a tumor here once we have a diagnosis?"
+          ]
+        },
+        "closing_statement": "This is a challenging location, but the first step is clear: get a tissue diagnosis. Once your team knows exactly what kind of tumor it is, they can create a precise and effective non-surgical plan for you."
+      }
+    },
+    {
+      "id": "brain_tumor_048",
+      "topic": "brain_tumor",
+      "instruction": "I have a 'stable' finding on my scan. What does that mean?",
+      "response": {
+        "finding": "Your follow-up scan shows that the previously identified area in your brain is 'stable'.",
+        "explanation_and_statistic": "Stable is the word we want to hear on a surveillance scan. It means the area has not changed in size, shape, or appearance since your last scan. This suggests it is either a benign, non-growing lesion, or that your current treatment is working effectively to halt its growth.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that the current plan (whether observation or treatment) is working.",
+            "A decision to continue with the current plan.",
+            "Scheduling your next follow-up scan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How long does something need to be stable before we can worry less?",
+            "Does 'stable' mean it's cured?"
+          ]
+        },
+        "closing_statement": "This is a very reassuring result. It affirms that your current management plan is successful, and no changes are needed at this time. This is a positive outcome and a reason to feel optimistic."
+      }
+    },
+    {
+      "id": "brain_tumor_049",
+      "topic": "brain_tumor",
+      "instruction": "The pathology report is 'inconclusive'. What happens now?",
+      "response": {
+        "finding": "The pathology results from your recent biopsy are 'inconclusive,' meaning the sample did not provide a definitive diagnosis.",
+        "explanation_and_statistic": "This can sometimes happen if the tissue sample was very small, or if the lesion has a lot of inflammation or dead tissue. While this is frustrating, it is not uncommon. Your team will now regroup to decide on the best way to get a clear answer.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about performing a second, larger biopsy.",
+            "A review of your imaging with a fresh set of eyes.",
+            "A discussion at the hospital's tumor board for more opinions."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why was the sample not enough to get a diagnosis?",
+            "What is the next best step to get an answer?"
+          ]
+        },
+        "closing_statement": "It is understandably disappointing to not have an answer yet. Your team shares your frustration, and they will be persistent. They will pursue every avenue to get the diagnostic clarity needed to provide you with the best care."
+      }
+    },
+    {
+      "id": "brain_tumor_050",
+      "topic": "brain_tumor",
+      "instruction": "What is an 'awake craniotomy'?",
+      "response": {
+        "finding": "For your tumor, which is located near the brain's language or motor centers, your surgeon is recommending an 'awake craniotomy'.",
+        "explanation_and_statistic": "This is a remarkable surgical technique where you are woken up during the operation to help the surgeon map out critical areas of your brain. By having you speak or move while they stimulate the brain's surface, they can safely remove the maximum amount of tumor while leaving your important functions intact. It has become a very safe and standard procedure.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed explanation of what to expect during the surgery.",
+            "Meeting the team, including the neuro-anesthesiologist and neuro-psychologist.",
+            "A practice session of the tasks you will perform during surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does it feel like to be awake during brain surgery?",
+            "How does this technique improve the safety of my operation?"
+          ]
+        },
+        "closing_statement": "It sounds frightening, but this technique is designed entirely for your safety. It allows you to be an active participant in your own surgery, helping the surgeon protect what makes you, you. You will be in the hands of a highly skilled and practiced team."
+      }
+    },
+    {
+      "id": "brain_tumor_051",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'suprasellar mass'.",
+      "response": {
+        "finding": "The scan has identified a 'suprasellar mass', which is a growth in the area directly above the pituitary gland.",
+        "explanation_and_statistic": "This is a critical location, as it's where the optic nerves and pituitary stalk are located. Tumors here can be of several different types, including pituitary adenomas, meningiomas, or craniopharyngiomas. A thorough evaluation is needed to tell them apart.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A full set of hormone tests from an endocrinologist.",
+            "Detailed vision testing from a neuro-ophthalmologist.",
+            "A consultation with a neurosurgeon who specializes in this region."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What do you think is the most likely diagnosis based on the scan?",
+            "What is the first step in treatment?"
+          ]
+        },
+        "closing_statement": "The location of the tumor has given your team a clear, but short, list of possibilities to investigate. You are on a well-trodden path that involves a team of specialists working together to give you the best care."
+      }
+    },
+    {
+      "id": "brain_tumor_052",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'craniopharyngioma'?",
+      "response": {
+        "finding": "The scan shows a complex, partially cystic and calcified mass near your pituitary gland that is suspicious for a craniopharyngioma.",
+        "explanation_and_statistic": "A craniopharyngioma is a rare, benign tumor that arises from remnants of early development. While it is not cancerous, it can be very difficult to treat because it is often stuck to critical structures like the pituitary gland, hypothalamus, and optic nerves.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation at a major medical center with a team that specializes in these tumors.",
+            "A discussion about the goals of surgery, as complete removal can be risky.",
+            "The potential role for radiation therapy after surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the biggest long-term challenges of treating this tumor?",
+            "What is your team's experience with craniopharyngiomas?"
+          ]
+        },
+        "closing_statement": "This is a complex, benign tumor that requires expert care. The goal is to control the tumor while preserving your quality of life, particularly your hormone function and vision. You will have a large, dedicated team focused on this delicate balance."
+      }
+    },
+    {
+      "id": "brain_tumor_053",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'solitary fibrous tumor' in the meninges.",
+      "response": {
+        "finding": "The biopsy of the dural-based mass has identified it as a 'solitary fibrous tumor'.",
+        "explanation_and_statistic": "This is a very rare tumor of the brain's coverings. It can range from benign to more aggressive. The treatment and prognosis depend heavily on the grade determined by the pathologist. The standard approach is complete surgical removal if possible.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the final pathology and WHO grade.",
+            "A discussion about whether post-operative radiation is needed.",
+            "A plan for close, long-term surveillance."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does this differ from a typical meningioma?",
+            "What is the risk of this tumor coming back?"
+          ]
+        },
+        "closing_statement": "Getting this precise and rare diagnosis is the most important step. It allows your team to access the specialized knowledge about this tumor type and create a care plan that is perfectly tailored to it."
+      }
+    },
+    {
+      "id": "brain_tumor_054",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows 'no change' in the tumor after radiation. Did it not work?",
+      "response": {
+        "finding": "Your follow-up scan after radiation shows the tumor is stable with 'no change' in size.",
+        "explanation_and_statistic": "This is actually the expected and desired result. The goal of radiation for many brain tumors is not to make them disappear, but to stop them from growing. A stable scan is a sign of successful treatment, indicating that the tumor's growth has been arrested.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that 'no change' means the treatment was successful.",
+            "A plan for continued, but less frequent, monitoring.",
+            "A discussion about what to expect long-term."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Will the tumor ever shrink?",
+            "What is the chance it could start growing again someday?"
+          ]
+        },
+        "closing_statement": "It's natural to hope the tumor would vanish, but in the world of radiation oncology, 'stable' is a victory. It means the treatment has successfully achieved its goal of controlling the tumor. This is a positive outcome."
+      }
+    },
+    {
+      "id": "brain_tumor_055",
+      "topic": "brain_tumor",
+      "instruction": "I have a 'temporal lobe' tumor. What does that part of the brain control?",
+      "response": {
+        "finding": "The scan has identified a tumor located in the temporal lobe of your brain.",
+        "explanation_and_statistic": "The temporal lobe, located on the side of your head, is a crucial center for memory, hearing, and understanding language. It is also a very common site for seizures to begin. Your team will take every precaution to protect these functions.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss treatment.",
+            "A baseline memory and language test with a neuropsychologist.",
+            "An EEG to check for any seizure activity."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the risks to my memory or language with surgery?",
+            "What techniques will you use to protect those functions?"
+          ]
+        },
+        "closing_statement": "Your team is very aware of the important functions housed in this location. The plan they create will be centered around treating the tumor effectively while doing everything possible to preserve the abilities that are so important to you."
+      }
+    },
+    {
+      "id": "brain_tumor_056",
+      "topic": "brain_tumor",
+      "instruction": "My pathology report says 'necrosis'. What does that mean?",
+      "response": {
+        "finding": "The pathology report from your biopsy notes the presence of 'necrosis' within the tumor.",
+        "explanation_and_statistic": "Necrosis is a microscopic finding of dead cells within a tumor. It is typically a sign that the tumor is growing so rapidly that it is outstripping its own blood supply. This is a key feature that pathologists use to identify a high-grade, more aggressive tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this finding points to a high-grade diagnosis.",
+            "A review of the aggressive treatment plan that is warranted.",
+            "A discussion about the prognosis for this type of tumor."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does necrosis tell you about how the tumor will behave?",
+            "How does this affect the choice of treatment?"
+          ]
+        },
+        "closing_statement": "While this is a sign of a more serious tumor, it is a critical piece of information. It provides your team with certainty about the tumor's aggressive nature, ensuring they move forward with the most powerful and appropriate treatment plan from the start."
+      }
+    },
+    {
+      "id": "brain_tumor_057",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'gross total resection'?",
+      "response": {
+        "finding": "Following your operation, the surgeon has reported a 'gross total resection' of the tumor.",
+        "explanation_and_statistic": "This is the best possible surgical outcome. 'Gross total' means that, to the naked eye, the surgeon was able to remove 100% of the visible tumor. This is confirmed by a post-operative MRI scan. Achieving this goal is associated with the best long-term outcomes and a lower chance of recurrence.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your clean post-operative MRI.",
+            "A discussion of what follow-up treatment, if any, is needed based on the final pathology.",
+            "A celebration of this major milestone in your treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How certain are we that every cell was removed?",
+            "What does this mean for my prognosis?"
+          ]
+        },
+        "closing_statement": "This is a fantastic result and a testament to the skill of your surgical team. You have cleared the first major hurdle of your treatment with the best possible outcome. You should feel very encouraged."
+      }
+    },
+    {
+      "id": "brain_tumor_058",
+      "topic": "brain_tumor",
+      "instruction": "Scan shows an 'occipital lobe' tumor.",
+      "response": {
+        "finding": "The scan has identified a tumor in the occipital lobe, which is located at the very back of your brain.",
+        "explanation_and_statistic": "The occipital lobe is the brain's primary vision-processing center. A tumor here can cause visual disturbances, such as blurred vision or blind spots. Your treatment will be carefully planned to minimize any impact on your sight.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed visual field test with an ophthalmologist.",
+            "A surgical consultation to discuss removing the tumor.",
+            "A discussion of techniques to map the visual pathways before surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the risk that my vision will be permanently affected?",
+            "What specific visual symptoms should I watch out for?"
+          ]
+        },
+        "closing_statement": "Protecting your vision will be the highest priority for your medical team. They will use advanced mapping techniques and careful planning to treat the tumor while keeping your eyesight as safe as possible."
+      }
+    },
+    {
+      "id": "brain_tumor_059",
+      "topic": "brain_tumor",
+      "instruction": "My report says 'subtotal resection'. What does that mean?",
+      "response": {
+        "finding": "The post-operative report indicates that you had a 'subtotal resection' of the tumor.",
+        "explanation_and_statistic": "This means that a small portion of the tumor was intentionally and safely left behind because it was stuck to a critical part of the brain. This is not a failure, but a sign of a wise surgeon prioritizing your safety over a complete removal. The small remaining portion can now be effectively treated with follow-up therapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of where the residual tumor is and what it's attached to.",
+            "A consultation with a radiation oncologist to plan treatment for the remaining part.",
+            "Reassurance that this was the safest course of action for you."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What function was the surgeon trying to protect?",
+            "How effective is radiation at treating the part that's left?"
+          ]
+        },
+        "closing_statement": "Your surgeon made a critical judgment call in the operating room to keep you safe. Now, the plan moves to its second phase. The combination of safe surgery and focused radiation is a powerful and standard strategy."
+      }
+    },
+    {
+      "id": "brain_tumor_060",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'homogenously enhancing' nodule.",
+      "response": {
+        "finding": "The scan shows a 'homogenously enhancing' nodule in your brain.",
+        "explanation_and_statistic": "This is a radiological description meaning the spot lit up solidly and uniformly after you received contrast dye. This can be a feature of several types of tumors, most commonly a benign meningioma or a metastasis. Further investigation will be needed to differentiate the possibilities.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your medical history, especially any history of cancer.",
+            "A discussion about the most likely possibilities in your specific case.",
+            "A plan for either a biopsy or further imaging to get more information."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does the 'uniform' pattern suggest to you?",
+            "What is the next step to find out which one it is?"
+          ]
+        },
+        "closing_statement": "The way the nodule enhanced gives your doctor a clue, helping to narrow down the list of possibilities. Your team will now proceed with a logical workup to determine the exact diagnosis."
+      }
+    },
+    {
+      "id": "brain_tumor_061",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'pilocytic astrocytoma'?",
+      "response": {
+        "finding": "The biopsy results have confirmed the tumor is a 'pilocytic astrocytoma'.",
+        "explanation_and_statistic": "This is excellent news. A pilocytic astrocytoma is a WHO Grade 1 tumor, meaning it is benign, very slow-growing, and has distinct borders. It is most common in children and young adults and is often considered cured once it is completely removed surgically.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A celebration of this benign diagnosis.",
+            "A review of your post-operative MRI to confirm complete removal.",
+            "A discussion of the excellent long-term prognosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is any other treatment needed besides the surgery?",
+            "What is the chance of this ever coming back?"
+          ]
+        },
+        "closing_statement": "You have received a definitive and very favorable diagnosis. This is a benign condition that is typically cured with surgery. You can be very optimistic about your future."
+      }
+    },
+    {
+      "id": "brain_tumor_062",
+      "topic": "brain_tumor",
+      "instruction": "I have a tumor in my 'parietal lobe'. What function does that control?",
+      "response": {
+        "finding": "The scan has identified a tumor in the parietal lobe of your brain.",
+        "explanation_and_statistic": "The parietal lobe, at the top and back of the head, is a hub for processing sensory information. It helps you with things like sense of touch, spatial awareness, navigation, and understanding numbers. Your team will plan your treatment carefully to protect these functions.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed neurological exam focusing on sensation and coordination.",
+            "A discussion about how to protect these functions during treatment.",
+            "A consultation with a neurosurgeon and neuro-oncologist."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What specific symptoms might I experience from a tumor here?",
+            "Could this affect my ability to read or do math?"
+          ]
+        },
+        "closing_statement": "Your team will not just focus on the tumor, but on preserving the important functions managed by this part of your brain. Every effort will be made to protect your ability to navigate and interact with the world."
+      }
+    },
+    {
+      "id": "brain_tumor_063",
+      "topic": "brain_tumor",
+      "instruction": "What is 'Stereotactic Radiosurgery (SRS)'?",
+      "response": {
+        "finding": "For the small, well-defined tumor on your scan, your team is recommending Stereotactic Radiosurgery (SRS).",
+        "explanation_and_statistic": "SRS is not actually surgery. It is a highly advanced radiation technique that uses hundreds of precisely focused beams of radiation to treat a target in a single session. It is extremely effective for certain types of tumors, especially metastases and benign tumors like meningiomas, and has minimal impact on the surrounding healthy brain.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist who specializes in SRS.",
+            "A description of the treatment process, including the fitting of a custom mask or frame.",
+            "A review of the high success rates for this technology."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is this a better option for me than traditional surgery?",
+            "What are the potential side effects?"
+          ]
+        },
+        "closing_statement": "This technology is one of the great advances in modern neuro-oncology. It allows your team to treat your tumor with incredible precision in a non-invasive way. It is a very powerful and safe option."
+      }
+    },
+    {
+      "id": "brain_tumor_064",
+      "topic": "brain_tumor",
+      "instruction": "The scan showed a 'DNET' (dysembryoplastic neuroepithelial tumor).",
+      "response": {
+        "finding": "The scan shows a lesion with a bubbly appearance that, along with your history of seizures, is highly suggestive of a dysembryoplastic neuroepithelial tumor (DNET).",
+        "explanation_and_statistic": "A DNET is a rare, benign (WHO Grade 1), slow-growing tumor that is often a long-term cause of seizures in young people. The prognosis is excellent, and once the tumor is surgically removed, the seizures are often cured as well.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with an epilepsy surgeon.",
+            "A plan for surgical removal of the tumor.",
+            "A discussion about the high likelihood of curing your seizures."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is this tumor what has been causing my seizures all this time?",
+            "What is the chance I can come off my seizure medication after surgery?"
+          ]
+        },
+        "closing_statement": "This is a wonderful diagnosis to receive. It means you have a benign and treatable cause for your seizures. You can be very optimistic that surgery will not only remove the tumor but also give you back a life free from seizures."
+      }
+    },
+    {
+      "id": "brain_tumor_065",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows 'minimal residual enhancement' after treatment.",
+      "response": {
+        "finding": "Your follow-up scan shows 'minimal residual enhancement' in the treated area.",
+        "explanation_and_statistic": "This means there is a very small area that still lights up with contrast dye. This can represent a tiny bit of remaining tumor or, very commonly, post-treatment scarring and inflammation. The next step is to watch this small area closely.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a short-interval follow-up scan to ensure stability.",
+            "A discussion about the high likelihood that this is just scar tissue.",
+            "Reassurance that this is a common finding after treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How will you be able to tell if it's tumor or scar?",
+            "Should I be concerned about this spot?"
+          ]
+        },
+        "closing_statement": "It's very common to see small changes like this after treatment. Your team will follow it carefully, but you should be reassured that in most cases, these spots are just signs of healing and not a cause for concern."
+      }
+    },
+    {
+      "id": "brain_tumor_066",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'biopsy-proven metastasis'?",
+      "response": {
+        "finding": "The biopsy of the lesion in your brain has confirmed that it is a 'metastasis' from your known primary cancer.",
+        "explanation_and_statistic": "This means we now have a definitive, cellular diagnosis. The cells in the brain match the cells of your primary cancer. This certainty is crucial, as it allows your team to move forward with the most effective treatment plan, which is often highly focused radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist to plan treatment.",
+            "A discussion with your medical oncologist about your overall cancer care.",
+            "A review of the treatment options, like Stereotactic Radiosurgery (SRS)."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Now that we know what it is, what is the most effective treatment?",
+            "Does this change the chemotherapy I'm on?"
+          ]
+        },
+        "closing_statement": "Having a definitive diagnosis is a critical step forward. All uncertainty about the spot is gone. Your team knows exactly what they are treating and can now deploy the best, most evidence-based therapies to control it."
+      }
+    },
+    {
+      "id": "brain_tumor_067",
+      "topic": "brain_tumor",
+      "instruction": "My scan suggests a 'cavernous malformation'. Is that a tumor?",
+      "response": {
+        "finding": "The scan shows a lesion with a 'popcorn-like' appearance that is characteristic of a cavernous malformation, also known as a cavernoma.",
+        "explanation_and_statistic": "This is not a tumor, but rather a benign cluster of abnormal, leaky blood vessels. They are not cancerous and do not grow like tumors, but they can cause problems like seizures or bleeding. Many are found by chance and can be safely monitored.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the risk of bleeding from the lesion.",
+            "The pros and cons of observation versus surgical removal.",
+            "A consultation with a neurosurgeon who specializes in vascular lesions."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is my personal risk of this lesion ever bleeding?",
+            "What are the reasons to have surgery for this?"
+          ]
+        },
+        "closing_statement": "It is great news to learn that your finding is not a tumor. You can be reassured that this is a benign condition. You now have the time to have a thoughtful discussion with a specialist about the best way to manage it long-term."
+      }
+    },
+    {
+      "id": "brain_tumor_068",
+      "topic": "brain_tumor",
+      "instruction": "The pathology says 'high-grade tumor, further classification pending'.",
+      "response": {
+        "finding": "The initial biopsy results indicate that the tumor is 'high-grade,' and further specialized tests are now being performed to determine the exact type.",
+        "explanation_and_statistic": "This means the pathologist can tell the cells are aggressive, but more advanced molecular tests are needed to give it a precise name. This is a normal part of the process for complex tumors. This extra step ensures you get a treatment plan tailored to your specific tumor biology.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about starting general treatment (like steroids) while you wait.",
+            "An estimated timeline for when the final results will be ready.",
+            "A review of what the different possibilities are."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What kind of special tests are being done?",
+            "Why is the exact name of the tumor so important?"
+          ]
+        },
+        "closing_statement": "It is difficult to wait for a final answer. Please know that this extra time is being used to ensure your diagnosis is as precise as humanly possible. This diligence is essential for creating the best treatment plan for you."
+      }
+    },
+    {
+      "id": "brain_tumor_069",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows 'patchy enhancement' in a lesion.",
+      "response": {
+        "finding": "The scan reveals a lesion that demonstrates 'patchy' or irregular enhancement with contrast dye.",
+        "explanation_and_statistic": "This non-uniform pattern of enhancement is a non-specific finding, meaning it can be seen in a variety of conditions, including certain types of tumors or areas of inflammation. This appearance tells your doctors that a biopsy will be very important to determine the true nature of the lesion.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan to get a tissue sample for diagnosis.",
+            "A review of the differential diagnosis, or list of possibilities.",
+            "A consultation with a neuro-oncology team."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does the patchy pattern suggest to you?",
+            "Is biopsy the only way to know for sure what this is?"
+          ]
+        },
+        "closing_statement": "The scan has given your doctors a clear target but an unclear diagnosis. Therefore, the next logical step is to get a piece of the tissue. This is the standard and most reliable way to solve the puzzle and get you on the right treatment path."
+      }
+    },
+    {
+      "id": "brain_tumor_070",
+      "topic": "brain_tumor",
+      "instruction": "I have a 'benign, but inoperable' brain tumor.",
+      "response": {
+        "finding": "Your diagnosis is a benign tumor that is located in a part of the brain that is considered 'inoperable'.",
+        "explanation_and_statistic": "This means the tumor is not cancerous, but it is located in or stuck to a critical area (like the brainstem) where a surgeon cannot safely remove it. It is very important to know that 'inoperable' does not mean 'untreatable.' Highly focused radiation is an extremely effective treatment for controlling these tumors.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist to discuss stereotactic radiation.",
+            "A discussion about the high rate of success for radiation in this setting.",
+            "A plan for long-term monitoring after treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If it's benign, why do we need to treat it at all?",
+            "What are the risks of radiation to that part of my brain?"
+          ]
+        },
+        "closing_statement": "It can be discouraging to hear the word 'inoperable.' However, you have an excellent, powerful, non-invasive treatment option available. Radiation can provide durable, long-term control of the tumor and is the standard of care in this situation."
+      }
+    },
+    {
+      "id": "brain_tumor_071",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows an abnormality that could be a 'low-grade tumor'.",
+      "response": {
+        "finding": "The scan shows a non-enhancing, ill-defined abnormality that could represent a 'low-grade tumor'.",
+        "explanation_and_statistic": "'Low-grade' is a term that suggests a slow-growing, less aggressive process. These types of tumors often exist for years before they are discovered. The management of low-grade tumors is often a marathon, not a sprint, with a focus on long-term control.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the pros and cons of early surgery versus watchful waiting.",
+            "A plan for close surveillance with serial MRI scans.",
+            "A review of your symptoms and neurological function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the benefits of waiting to treat this?",
+            "What would be a sign that it's time to act?"
+          ]
+        },
+        "closing_statement": "The suspicion of a low-grade process is reassuring in many ways. It means you likely have time on your side to make a thoughtful, well-informed decision about how and when to proceed. There is no need to rush."
+      }
+    },
+    {
+      "id": "brain_tumor_072",
+      "topic": "brain_tumor",
+      "instruction": "My scan suggests a 'high-grade tumor'.",
+      "response": {
+        "finding": "The features on your scan, such as irregular enhancement and surrounding swelling, are concerning for a 'high-grade tumor'.",
+        "explanation_and_statistic": "'High-grade' suggests a more aggressive, faster-growing tumor that requires prompt and comprehensive treatment. While this is serious news, high-grade tumors have specific and powerful treatment protocols designed to combat them effectively.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An urgent plan for a biopsy or surgical resection.",
+            "A consultation with a full neuro-oncology team.",
+            "A discussion about a multi-modal treatment plan (surgery, radiation, and chemotherapy)."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What features on the scan make it look high-grade?",
+            "What is the standard of care for a tumor with this appearance?"
+          ]
+        },
+        "closing_statement": "It is understandable to be frightened by this finding. The most important thing now is that your team has a clear indication to act urgently. They will move quickly to get a diagnosis and start the most powerful treatments available."
+      }
+    },
+    {
+      "id": "brain_tumor_073",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a tumor 'abutting the motor strip'.",
+      "response": {
+        "finding": "The scan shows a tumor that is 'abutting,' or touching, the motor strip of your brain.",
+        "explanation_and_statistic": "The motor strip is the critical part of the brain that controls movement on the opposite side of your body. The location of your tumor requires extremely careful planning to treat it without causing weakness. Techniques like brain mapping are used to identify these areas precisely.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss the surgical risks.",
+            "A functional MRI (fMRI) to map the exact location of your motor function.",
+            "A discussion about an 'awake craniotomy' to monitor your movement during surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the risk of permanent weakness after surgery?",
+            "How do you protect the motor strip during the operation?"
+          ]
+        },
+        "closing_statement": "Your team's highest priority will be preserving your strength and movement. They will use the most advanced technology and techniques available to create a plan that removes the tumor as safely as possible."
+      }
+    },
+    {
+      "id": "brain_tumor_074",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'VP shunt' for a brain tumor?",
+      "response": {
+        "finding": "Because your tumor is blocking the normal flow of spinal fluid and causing pressure to build, your team is recommending a 'VP shunt'.",
+        "explanation_and_statistic": "A ventriculoperitoneal (VP) shunt is not a treatment for the tumor itself, but for the fluid buildup (hydrocephalus) it's causing. It's a thin, flexible tube placed by a neurosurgeon that drains the excess fluid from the brain's ventricles to the abdomen, where it's safely absorbed. It is a very common and effective procedure.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the shunt surgery.",
+            "How the shunt will relieve your symptoms of high pressure.",
+            "The plan to treat the underlying tumor after the pressure is controlled."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the shunt permanent?",
+            "What are the risks of the shunt procedure?"
+          ]
+        },
+        "closing_statement": "The shunt is a safe and effective way to relieve the pressure in your head and make you feel much better. Once your symptoms are controlled, you and your team can then focus all your energy on treating the tumor itself."
+      }
+    },
+    {
+      "id": "brain_tumor_075",
+      "topic": "brain_tumor",
+      "instruction": "The scan mentions a 'hemangioblastoma'.",
+      "response": {
+        "finding": "The scan shows a brightly enhancing, cystic mass with a small nodule, which is a classic appearance for a hemangioblastoma.",
+        "explanation_and_statistic": "This is a rare, benign tumor made of blood vessels. They are slow-growing but can cause symptoms by creating a large fluid cyst. They can sometimes be associated with a genetic condition called von Hippel-Lindau (VHL) disease.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical plan to remove the solid nodule, which is the source of the tumor.",
+            "A discussion about screening for von Hippel-Lindau disease.",
+            "A consultation with a neurosurgeon."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is this a cancerous tumor?",
+            "What is the chance of this being cured with surgery?"
+          ]
+        },
+        "closing_statement": "This is a rare but benign tumor with a very characteristic appearance and a straightforward treatment path. The goal of surgery is a complete cure, and you can be very optimistic about the outcome."
+      }
+    },
+    {
+      "id": "brain_tumor_076",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'midline tumor'.",
+      "response": {
+        "finding": "The scan has identified a tumor located in the 'midline' of your brain.",
+        "explanation_and_statistic": "Midline structures are the deep, central parts of the brain like the thalamus, brainstem, and pineal gland. Tumors in these locations are often challenging because they are surrounded by critical structures. Treatment is highly specialized and depends on the exact tumor type.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a biopsy, which is essential to determine the tumor type.",
+            "A consultation with a neuro-oncology team at a high-volume center.",
+            "A discussion of non-surgical treatments, as surgery is often not possible."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the different types of tumors that grow in the midline?",
+            "Why is a biopsy so important in this situation?"
+          ]
+        },
+        "closing_statement": "This is a challenging location, which makes getting a precise diagnosis the absolute highest priority. Your team will focus on getting a tissue sample safely, as that key piece of information will unlock the correct treatment plan for you."
+      }
+    },
+    {
+      "id": "brain_tumor_077",
+      "topic": "brain_tumor",
+      "instruction": "I have a tumor near my 'language area'.",
+      "response": {
+        "finding": "The scan shows a tumor located near the parts of your brain responsible for language, specifically Broca's or Wernicke's area.",
+        "explanation_and_statistic": "Your ability to speak and understand language is a precious function. Your entire medical team will be focused on creating a treatment plan that has the lowest possible risk to your language. Advanced techniques can map these areas with incredible precision.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A functional MRI (fMRI) to map your specific language centers.",
+            "A discussion about an awake craniotomy for surgery.",
+            "A baseline evaluation with a speech-language pathologist."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the risk of having permanent speech problems?",
+            "What happens during an awake surgery to protect my language?"
+          ]
+        },
+        "closing_statement": "Protecting your ability to communicate is a sacred trust for your medical team. They will use the most sophisticated technology and techniques available to treat the tumor while keeping you, and your voice, safe."
+      }
+    },
+    {
+      "id": "brain_tumor_078",
+      "topic": "brain_tumor",
+      "instruction": "My scan shows something 'of indeterminate etiology'.",
+      "response": {
+        "finding": "The scan shows a lesion 'of indeterminate etiology,' which means the cause is unclear from the imaging alone.",
+        "explanation_and_statistic": "This is a medical term for an uncertain finding. The list of possibilities is broad and could include a tumor, a stroke, an infection, or an inflammatory condition. A step-by-step investigation is needed to solve the mystery.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A thorough review of your symptoms and medical history for clues.",
+            "A plan for further testing, which may include more imaging, blood work, or a biopsy.",
+            "A discussion of the most likely possibilities."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is your plan to figure out what this is?",
+            "What is the most likely diagnosis on your list?"
+          ]
+        },
+        "closing_statement": "It's frustrating to have an unclear finding, but your doctors are wisely avoiding guesswork. They will now follow a logical, step-by-step process to bring you a clear and definite answer."
+      }
+    },
+    {
+      "id": "brain_tumor_079",
+      "topic": "brain_tumor",
+      "instruction": "What is 'LITT' (Laser Interstitial Thermal Therapy) for a brain tumor?",
+      "response": {
+        "finding": "For your small, deep-seated brain tumor, your team is considering a minimally invasive procedure called Laser Interstitial Thermal Therapy (LITT).",
+        "explanation_and_statistic": "LITT is a technique where a surgeon, guided by an MRI, inserts a tiny laser fiber into the tumor. The laser then heats up and destroys the tumor cells from the inside out. It's a powerful option for tumors that are difficult to reach with traditional surgery.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon who specializes in LITT.",
+            "A discussion on whether you are a good candidate for this procedure.",
+            "A review of the risks and potential benefits compared to open surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the main advantages of using a laser instead of surgery?",
+            "How effective is LITT at controlling the tumor?"
+          ]
+        },
+        "closing_statement": "This is a cutting-edge, minimally invasive technology that can treat tumors in hard-to-reach places with less risk. It's a wonderful example of how innovation is providing new hope and options for patients."
+      }
+    },
+    {
+      "id": "brain_tumor_080",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a 'well-differentiated' tumor.",
+      "response": {
+        "finding": "The pathology report from your biopsy describes the tumor as 'well-differentiated'.",
+        "explanation_and_statistic": "This is a very positive term in pathology. It means the tumor cells look very similar to the normal cells from which they grew. Well-differentiated tumors are typically slower-growing, less aggressive, and associated with a much better prognosis. This is a characteristic of a low-grade tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this points to a low-grade, less aggressive tumor.",
+            "A discussion about your favorable prognosis.",
+            "A review of less aggressive treatment options or even observation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does 'differentiated' actually mean?",
+            "How does this finding impact my long-term outlook?"
+          ]
+        },
+        "closing_statement": "This is a very reassuring finding from your pathology report. It provides strong evidence that you are dealing with a slow-growing process, which gives you more options and a very hopeful future."
+      }
+    },
+    {
+      "id": "brain_tumor_081",
+      "topic": "brain_tumor",
+      "instruction": "Scan says 'poorly-differentiated' tumor.",
+      "response": {
+        "finding": "The pathology from your biopsy describes the tumor cells as 'poorly-differentiated'.",
+        "explanation_and_statistic": "This is a microscopic description that means the tumor cells look very abnormal and have lost resemblance to normal cells. It is a hallmark of a high-grade, more aggressive tumor, and it confirms the need for an aggressive, multi-modal treatment plan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this indicates a high-grade tumor.",
+            "A review of the standard-of-care aggressive treatment protocol.",
+            "A discussion about your prognosis and the goals of treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does this finding affect the treatment choices?",
+            "What does this tell us about how the tumor is likely to behave?"
+          ]
+        },
+        "closing_statement": "While this news confirms a more serious diagnosis, it also provides critical clarity. Your team knows exactly the nature of the cells they are fighting and can move forward with confidence using the most powerful and appropriate therapies."
+      }
+    },
+    {
+      "id": "brain_tumor_082",
+      "topic": "brain_tumor",
+      "instruction": "I have a 'stable brain metastasis'. Does that mean it's cured?",
+      "response": {
+        "finding": "Your follow-up scan shows that the treated brain metastasis is stable, with no signs of growth.",
+        "explanation_and_statistic": "'Stable' is the goal of treatment with radiation. It means the treatment successfully stopped the tumor from growing. While we don't typically use the word 'cured' for metastatic disease, achieving stable control is a major victory and can last for a very long time.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that the treatment was successful.",
+            "A plan for continued monitoring of both your brain and the rest of your body.",
+            "A discussion with your medical oncologist about your systemic therapy."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance of this spot growing again in the future?",
+            "What is the chance of new spots appearing?"
+          ]
+        },
+        "closing_statement": "This is a great result. The treatment has done exactly what it was supposed to do: control the tumor in your brain. This allows you and your oncology team to focus on controlling the cancer in the rest of your body."
+      }
+    },
+    {
+      "id": "brain_tumor_083",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a possible tumor 'with no significant mass effect'.",
+      "response": {
+        "finding": "The scan has identified a possible tumor that is currently causing 'no significant mass effect'.",
+        "explanation_and_statistic": "This is a reassuring detail. 'Mass effect' is the pressure a tumor exerts on the brain. The fact that yours isn't causing much pressure suggests it may be small or slow-growing, and it's less likely to be the cause of any major symptoms right now.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about whether this can be safely observed.",
+            "A plan for a follow-up scan to establish a growth rate.",
+            "A review of any very subtle symptoms you might be having."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If there's no pressure, is there any urgency to treat it?",
+            "What would make you change your mind from observation to treatment?"
+          ]
+        },
+        "closing_statement": "This finding gives you the gift of time. Since the tumor is not causing any significant pressure, you and your doctor can make a calm, unhurried, and thoughtful decision about the best path forward."
+      }
+    },
+    {
+      "id": "brain_tumor_084",
+      "topic": "brain_tumor",
+      "instruction": "Is chemotherapy effective for brain tumors?",
+      "response": {
+        "finding": "For your specific type of brain tumor, your team is recommending chemotherapy as part of your treatment.",
+        "explanation_and_statistic": "The effectiveness of chemotherapy depends entirely on the tumor type. For some tumors, like lymphomas and certain gliomas (especially oligodendrogliomas), chemotherapy is a cornerstone of treatment and works very well. For others, it is less effective. The blood-brain barrier, a protective lining in the brain's blood vessels, can make it hard for some drugs to get in.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about how effective chemotherapy is for your specific diagnosis.",
+            "A review of the specific chemotherapy drugs you will receive.",
+            "A plan to manage the potential side effects."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the goal of chemotherapy in my case?",
+            "How do you get the chemotherapy past the blood-brain barrier?"
+          ]
+        },
+        "closing_statement": "Your treatment plan is being built on decades of research. If chemotherapy is being recommended, it is because it has been proven to be an effective weapon against your specific type of tumor. Your team will support you through the process."
+      }
+    },
+    {
+      "id": "brain_tumor_085",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'central neurocytoma'?",
+      "response": {
+        "finding": "The biopsy of the mass inside your ventricle has identified it as a 'central neurocytoma'.",
+        "explanation_and_statistic": "This is a rare, benign, and slow-growing tumor (WHO Grade 2) that typically occurs in the ventricles of young adults. The prognosis is generally very good, especially after a complete surgical removal.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your post-operative MRI to confirm the extent of resection.",
+            "A discussion about your excellent long-term outlook.",
+            "A plan for surveillance imaging to monitor for any recurrence."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance of this benign tumor coming back?",
+            "Will I need any treatment besides surgery?"
+          ]
+        },
+        "closing_statement": "You have received a definitive diagnosis of a rare but benign tumor. The main treatment is surgery, and you can be very optimistic about having a great long-term outcome."
+      }
+    },
+    {
+      "id": "brain_tumor_086",
+      "topic": "brain_tumor",
+      "instruction": "What is a 'subependymoma'?",
+      "response": {
+        "finding": "The scan shows a non-enhancing nodule in one of your ventricles, which has the classic appearance of a subependymoma.",
+        "explanation_and_statistic": "A subependymoma is a very benign (WHO Grade 1), slow-growing tumor that is often found by accident in adults. They rarely cause symptoms, and the standard of care is almost always to simply observe them with periodic scans.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a benign and incidental finding.",
+            "A recommendation to simply leave it alone and monitor it.",
+            "Reassurance that no treatment is needed."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance this will ever grow or cause a problem?",
+            "Do I need to tell other doctors about this?"
+          ]
+        },
+        "closing_statement": "This is great news. The scan has found a common, benign, and inactive finding that you can safely ignore with your doctor's supervision. You can be very reassured by this result."
+      }
+    },
+    {
+      "id": "brain_tumor_087",
+      "topic": "brain_tumor",
+      "instruction": "The scan shows a tumor 'inoperable due to location'.",
+      "response": {
+        "finding": "The scan shows the tumor is located in a part of the brain that is considered 'inoperable'.",
+        "explanation_and_statistic": "This means the tumor is in a location so critical (like the brainstem) that attempting to remove it surgically would cause unacceptable harm. It is very important to understand that 'inoperable' does not mean 'untreatable'. There are often excellent non-surgical options like radiation and chemotherapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a biopsy, which is essential if it can be done safely.",
+            "A consultation with a radiation oncologist and a medical oncologist.",
+            "A discussion about the goals and expectations of non-surgical treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes the location inoperable?",
+            "What is the most effective treatment if we cannot do surgery?"
+          ]
+        },
+        "closing_statement": "Hearing the word 'inoperable' is very difficult. The focus now shifts entirely to the other powerful tools we have to fight this. Your team will create a comprehensive plan using therapies like radiation and chemotherapy to give you the best possible outcome."
+      }
+    },
+    {
+      "id": "brain_tumor_088",
+      "topic": "brain_tumor",
+      "instruction": "Scan says 'complete response to treatment'.",
+      "response": {
+        "finding": "Your latest scan shows a 'complete response' to your treatment, meaning there is no longer any detectable evidence of the tumor.",
+        "explanation_and_statistic": "This is the best possible news you can receive. A complete response means the treatments have been exceptionally effective. This is a major milestone and a reason for significant celebration and optimism.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A celebration of this outstanding result.",
+            "A discussion about the next phase of your care, which may be observation or consolidation therapy.",
+            "A plan for your long-term survivorship and monitoring."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance of the tumor coming back after a complete response?",
+            "What does my follow-up schedule look like now?"
+          ]
+        },
+        "closing_statement": "Congratulations on this wonderful achievement. Your strength and your medical team's skill have led to an exceptional outcome. You can and should feel immense hope and pride in this result."
+      }
+    },
+    {
+      "id": "brain_tumor_089",
+      "topic": "brain_tumor",
+      "instruction": "Scan says 'partial response to treatment'.",
+      "response": {
+        "finding": "Your follow-up scan shows a 'partial response' to treatment, meaning the tumor has significantly shrunken in size.",
+        "explanation_and_statistic": "This is very good news. A partial response indicates that the treatment is working effectively and the tumor is vulnerable to the therapy you are receiving. The goal now will be to continue this momentum.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the percentage of shrinkage.",
+            "A decision to continue with your current treatment plan.",
+            "A discussion about the plan to treat the remaining tumor."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is a partial response a good outcome?",
+            "What is the next goal of treatment now that it has shrunk?"
+          ]
+        },
+        "closing_statement": "This is a very encouraging result. The tumor is responding, and the treatment is working. You are on the right track, and your team will continue to build on this success."
+      }
+    },
+    {
+      "id": "brain_tumor_090",
+      "topic": "brain_tumor",
+      "instruction": "Scan says 'progressive disease'.",
+      "response": {
+        "finding": "Your follow-up scan unfortunately shows that the tumor has grown, which is described as 'progressive disease'.",
+        "explanation_and_statistic": "This is difficult news. It means your current treatment is no longer effective at controlling the tumor. This is a clear signal that it is time to change the treatment strategy. It is important to know that there are often several different 'lines' of therapy available to try.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of all available second-line treatment options.",
+            "A discussion about potentially enrolling in a clinical trial.",
+            "A plan for managing any new symptoms you may be having."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why did the first treatment stop working?",
+            "What is our most hopeful plan now?"
+          ]
+        },
+        "closing_statement": "It is disheartening to learn that the tumor has grown. The most important thing now is to pivot to a new plan. Your team has been anticipating this possibility and is ready to discuss the next set of options with you. You have not run out of road."
+      }
+    },
+    {
+      "id": "brain_tumor_091",
+      "topic": "brain_tumor",
+      "instruction": "Scan shows a possible tumor 'of glial origin'.",
+      "response": {
+        "finding": "The scan shows an infiltrative mass that appears to be 'of glial origin'.",
+        "explanation_and_statistic": "This is a way for the radiologist to say they believe the tumor is arising from the glial cells, the supportive tissue of the brain. This means it is likely a type of glioma. The next step will be a biopsy to determine the specific type and grade, which is the most important factor for your prognosis and treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the different types of gliomas (e.g., astrocytoma, oligodendroglioma).",
+            "A plan to get a tissue sample for a definitive diagnosis.",
+            "A consultation with a neuro-oncologist."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does it mean if a tumor comes from glial cells?",
+            "What is the most important thing we need to find out from the biopsy?"
+          ]
+        },
+        "closing_statement": "The scan has provided a strong clue, pointing your team in the right direction. The focus now sharpens onto getting a piece of tissue, as this will unlock all the information needed to create a precise and effective treatment plan for you."
+      }
+    }
+  ]
+}

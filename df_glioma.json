@@ -1,0 +1,2279 @@
+{
+  "brain_scan_explanations": [
+    {
+      "id": "glioma_001",
+      "topic": "brain_glioma",
+      "instruction": "Explain my brain scan. It mentions findings 'highly characteristic' of a glioma.",
+      "response": {
+        "finding": "The analysis of your scan reveals an area with features that are highly characteristic of a growth known as a glioma.",
+        "explanation_and_statistic": "A glioma is a tumor that originates from the glial cells, which are the supportive tissues of the brain. It's important to know that treatment approaches are continually being refined, and many are tailored to the specific genetic makeup of the cells.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss surgical options.",
+            "The role of molecular testing on the tissue to guide therapy.",
+            "An overview of radiation and chemotherapy possibilities."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the primary goal of the recommended next step?",
+            "What kind of team will be managing my care?"
+          ]
+        },
+        "closing_statement": "Receiving this information is the first step toward getting clarity. Your medical team will work with you to create a comprehensive and personalized plan."
+      }
+    },
+    {
+      "id": "glioma_002",
+      "topic": "brain_glioma",
+      "instruction": "My report says there's an 'infiltrative lesion' that could be a glioma. What does 'infiltrative' mean?",
+      "response": {
+        "finding": "The scan shows what appears to be an infiltrative lesion, which has features consistent with a glioma.",
+        "explanation_and_statistic": "The term 'infiltrative' means the cells appear to mix with normal brain tissue rather than forming a solid, separate ball. It may be reassuring to know that many modern treatments, like radiation, are designed to target these types of areas effectively.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The extent of the area involved and what it means.",
+            "A plan for obtaining a tissue sample for diagnosis (biopsy).",
+            "Symptom management, particularly for things like headaches or seizures."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does the 'infiltrative' nature of this affect treatment options?",
+            "What is the most urgent priority for my care right now?"
+          ]
+        },
+        "closing_statement": "Understanding the specific features of this finding is key, and your doctors now have the detailed information they need to plan the best course of action. You are in capable hands."
+      }
+    },
+    {
+      "id": "glioma_003",
+      "topic": "brain_glioma",
+      "instruction": "There's a note on my scan about a 'mass with surrounding edema' suggesting a glioma. Please explain.",
+      "response": {
+        "finding": "The analysis identified a mass with surrounding swelling, or edema, a pattern which can be indicative of a glioma.",
+        "explanation_and_statistic": "A mass is a growth of cells, and the swelling is the brain's natural reaction to it. It is helpful to know that medications, often steroids, can be very effective at reducing this swelling quickly and relieving associated symptoms.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Starting medication to manage the swelling.",
+            "Definitive diagnostic steps, such as a biopsy.",
+            "A referral to a neuro-oncologist for specialized care."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How soon can we start addressing the swelling?",
+            "Is the swelling or the mass the more immediate concern?"
+          ]
+        },
+        "closing_statement": "Your scan has provided clear information for your doctors to act on. They can address your symptoms while simultaneously planning the next steps for diagnosis. Take it one day at a time."
+      }
+    },
+    {
+      "id": "glioma_004",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a 'non-specific abnormality' but the doctor mentioned glioma as a possibility. I'm confused.",
+      "response": {
+        "finding": "Your scan highlights a non-specific abnormality in the brain tissue, for which a glioma is one of several possibilities.",
+        "explanation_and_statistic": "This means there is an area that doesn't look normal, but it lacks the classic features of one specific condition. It's helpful to remember that advances in imaging are able to detect very subtle changes, and further testing is often needed for a precise diagnosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Follow-up imaging, perhaps with contrast or different techniques.",
+            "A thorough review of your symptoms and neurological health.",
+            "A 'watch and wait' approach versus immediate further testing."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What other things could this finding represent?",
+            "What is the timeline for getting a more definitive answer?"
+          ]
+        },
+        "closing_statement": "It's understandable to feel uncertain when a finding isn't perfectly clear. This is a normal part of the diagnostic process, allowing your doctor to be careful and thorough. You have time to gather information."
+      }
+    },
+    {
+      "id": "glioma_005",
+      "topic": "brain_glioma",
+      "instruction": "What does a 'faint area of high signal' possibly indicating a low-grade glioma mean?",
+      "response": {
+        "finding": "The scan revealed a faint area of high signal, a subtle finding that could potentially indicate a low-grade glioma.",
+        "explanation_and_statistic": "'High signal' is just the term for an area that appears brighter on an MRI scan, and 'low-grade' suggests that if it is a tumor, the cells are likely slow-growing. For perspective, some low-grade gliomas are monitored for years before they require any treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A strategy of active surveillance with periodic MRI scans.",
+            "Discussion of any symptoms to monitor at home.",
+            "Consultation with a specialist for a baseline evaluation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the likelihood that this will change over time?",
+            "Are there any lifestyle restrictions or recommendations for me?"
+          ]
+        },
+        "closing_statement": "Detecting such a subtle change early is a positive thing. It gives you and your medical team the advantage of time and the ability to monitor the situation proactively."
+      }
+    },
+    {
+      "id": "glioma_006",
+      "topic": "brain_glioma",
+      "instruction": "My scan report mentions a 'contrast-enhancing lesion' and glioma is on the list of possibilities.",
+      "response": {
+        "finding": "The analysis shows a lesion that enhances with contrast dye, a feature that can be associated with a glioma.",
+        "explanation_and_statistic": "'Contrast-enhancing' means the area 'lit up' after you received an IV dye, suggesting it has a rich blood supply, which is common in growths. This feature, while serious, provides doctors with vital information, as many modern therapies are designed to target a tumor's blood supply.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The need for a tissue diagnosis to confirm the finding.",
+            "Discussion with a neurosurgeon about the feasibility of removal.",
+            "Potential use of medications to control brain swelling."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does the 'enhancing' part tell us about this lesion?",
+            "What are the next steps in order of importance?"
+          ]
+        },
+        "closing_statement": "This finding provides a clear target for your medical team. They will use this information to create a focused plan to get a definite answer and determine the best path forward."
+      }
+    },
+    {
+      "id": "glioma_007",
+      "topic": "brain_glioma",
+      "instruction": "Please explain a finding of a 'small, well-circumscribed' area that could be a glioma.",
+      "response": {
+        "finding": "Your scan identified a small, well-circumscribed area within the brain tissue that could represent a type of glioma.",
+        "explanation_and_statistic": "'Well-circumscribed' means the spot has clear, defined borders, which can be a positive sign. While any new finding is a concern, it's worth noting that the field of neuro-oncology is making significant progress, with outcomes for patients improving steadily.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The possibility of surgical resection (removal).",
+            "Advanced imaging like functional MRI to map brain function nearby.",
+            "A 'watchful waiting' approach if it is very small and not causing symptoms."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does the 'well-circumscribed' nature make treatment easier?",
+            "What are the risks of observation versus intervention?"
+          ]
+        },
+        "closing_statement": "Having a clear and defined finding on your scan is a solid starting point. You and your team can now have a very focused discussion about the pros and cons of each possible next step."
+      }
+    },
+    {
+      "id": "glioma_008",
+      "topic": "brain_glioma",
+      "instruction": "The report indicates a 'large, diffuse abnormality' in my frontal lobe, possibly a glioma. What does this mean?",
+      "response": {
+        "finding": "The scan shows a large, diffuse abnormality in the frontal lobe of your brain, and a glioma is a primary consideration.",
+        "explanation_and_statistic": "'Diffuse' means the abnormality is spread out and blends with the normal brain, and the frontal lobe is the area at the front of your head. It may be helpful to know that many treatments, including radiation and chemotherapy, are specifically designed to treat diffuse tumors.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "How the location might affect personality, mood, or planning.",
+            "The steps for getting a definitive tissue diagnosis.",
+            "A baseline assessment of your neurological function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What specific symptoms should my family and I watch for given the location?",
+            "How do you treat something that is 'diffuse' rather than a solid lump?"
+          ]
+        },
+        "closing_statement": "This level of detail from your scan is critical. It allows your care team to anticipate potential issues and create a plan that is highly specific to your situation. You are not alone in this."
+      }
+    },
+    {
+      "id": "glioma_009",
+      "topic": "brain_glioma",
+      "instruction": "My scan after a seizure showed an 'underlying lesion' that might be a glioma. Can you clarify?",
+      "response": {
+        "finding": "Following your seizure, the scan has revealed an underlying lesion in the brain that has features that could indicate a glioma.",
+        "explanation_and_statistic": "It's very common for a seizure to be the first sign that leads to the discovery of a lesion, which is a general term for an area of abnormal tissue. The good news is that now that the source has been identified, your doctors can address both the seizures and the lesion itself.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Anti-seizure medication management.",
+            "A plan to diagnose the lesion, likely with a biopsy.",
+            "Consultation with a neuro-oncology team."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the lesion what caused the seizure?",
+            "What is the plan to prevent more seizures?"
+          ]
+        },
+        "closing_statement": "While the seizure must have been frightening, it led to an important discovery. Now your medical team can be proactive and create a plan to manage your health comprehensively. Focus on controlling the seizures first."
+      }
+    },
+    {
+      "id": "glioma_010",
+      "topic": "brain_glioma",
+      "instruction": "What does it mean if my scan shows changes 'suggestive of glioma progression'?",
+      "response": {
+        "finding": "This follow-up scan shows changes in a previously known area that are suggestive of glioma progression.",
+        "explanation_and_statistic": "This means the area your doctors have been monitoring shows some signs of growth or change since your last scan. It's important to remember that 'progression' is a signal to act, and there are often many different treatment options available at this stage.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A change in your current treatment plan.",
+            "The possibility of starting a new therapy (like targeted therapy or immunotherapy).",
+            "Enrollment in a clinical trial for access to novel treatments."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are all of my treatment options now?",
+            "How has the science changed since my initial diagnosis?"
+          ]
+        },
+        "closing_statement": "This is not unexpected in the journey of managing a glioma, and it provides a clear sign for your team to adjust the strategy. You have been vigilant, and this monitoring allows you to stay one step ahead."
+      }
+    },
+    {
+      "id": "glioma_011",
+      "topic": "brain_glioma",
+      "instruction": "My report says there is a 'lesion in the temporal lobe' that could be a glioma.",
+      "response": {
+        "finding": "The analysis of your scan points to a lesion in the temporal lobe area of your brain which has features consistent with a glioma.",
+        "explanation_and_statistic": "The temporal lobe is located on the side of the head, and it's involved in memory and language. Knowing the precise location is key, as personalized medicine approaches can help preserve function during treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Functional MRI (fMRI) to map language and memory centers.",
+            "A neuro-psychological evaluation to get a baseline of your cognitive function.",
+            "Discussion of surgical approaches that minimize impact on nearby tissue."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What specific functions could be affected by this location?",
+            "What steps can be taken to protect my memory and speech?"
+          ]
+        },
+        "closing_statement": "Identifying the exact location is a crucial part of forming the best plan. Your team will use this information to be as precise as possible in every recommendation they make."
+      }
+    },
+    {
+      "id": "glioma_012",
+      "topic": "brain_glioma",
+      "instruction": "The scan mentions a finding in the 'parietal lobe' with glioma characteristics.",
+      "response": {
+        "finding": "The scan reveals an area within the parietal lobe of your brain that has characteristics suggestive of a glioma.",
+        "explanation_and_statistic": "The parietal lobe, located at the upper back of the head, helps process sensory information like touch, temperature, and spatial awareness. Many people with findings in this area undergo successful treatment and adapt well to any changes.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed neurological exam focusing on sensation and coordination.",
+            "Surgical consultation to review the feasibility of removing the lesion.",
+            "Potential for occupational therapy to support daily activities."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What kind of sensory or coordination changes should I look out for?",
+            "How will we monitor the functions related to this brain area?"
+          ]
+        },
+        "closing_statement": "This detailed finding allows your medical team to provide you with highly tailored care. They will not only focus on the lesion but also on supporting all related brain functions."
+      }
+    },
+    {
+      "id": "glioma_013",
+      "topic": "brain_glioma",
+      "instruction": "What is a 'cystic mass' that might be a glioma?",
+      "response": {
+        "finding": "Your scan shows a mass with a fluid-filled center, known as a cystic mass, which has features that could indicate a type of glioma.",
+        "explanation_and_statistic": "A cystic mass is like a small balloon, with a solid outer wall and a fluid-filled interior. This structure can sometimes be a positive feature, as draining the fluid can relieve pressure, and the solid part provides a clear target for treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Surgical options to drain the cyst and remove the solid wall.",
+            "A biopsy of the solid portion to confirm the diagnosis.",
+            "Use of steroids to reduce any surrounding inflammation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does the cystic nature of the mass affect the prognosis?",
+            "What are the benefits of addressing the fluid part of the mass?"
+          ]
+        },
+        "closing_statement": "The specific structure seen on your scan gives your doctors valuable information. They can now create a multi-step plan that addresses each component of the finding effectively."
+      }
+    },
+    {
+      "id": "glioma_014",
+      "topic": "brain_glioma",
+      "instruction": "My scan mentions the 'corpus callosum' and a possible glioma.",
+      "response": {
+        "finding": "The analysis identified a lesion involving the corpus callosum, the band of nerve fibers connecting the two halves of your brain, which could represent a glioma.",
+        "explanation_and_statistic": "Because this area connects both sides of the brain, it's a complex location. However, treatments like radiation and chemotherapy are often used effectively here, and clinical trials are actively exploring new drugs that can cross into this area.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on non-surgical treatment options as a first step.",
+            "A biopsy to confirm the cell type and guide therapy.",
+            "Cognitive testing to establish a baseline of function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is surgery an option in this location?",
+            "What is the primary goal of treatment for a lesion here?"
+          ]
+        },
+        "closing_statement": "This is a challenging location, but your medical team has a wealth of experience with these cases. They will focus on a personalized treatment that prioritizes your safety and quality of life."
+      }
+    },
+    {
+      "id": "glioma_015",
+      "topic": "brain_glioma",
+      "instruction": "The scan found an abnormality in my 'occipital lobe' suggestive of a glioma.",
+      "response": {
+        "finding": "The scan highlights an abnormality located in the occipital lobe at the back of your brain which is suggestive of a glioma.",
+        "explanation_and_statistic": "The occipital lobe is the brain's main center for processing vision. It is important to remember that the brain has a remarkable ability to adapt, a quality known as neuroplasticity, which can help it recover from injury or treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed vision test with an ophthalmologist.",
+            "Surgical planning that may involve mapping the visual pathways.",
+            "Discussion of potential risks to your field of vision."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What specific changes in my vision should I report immediately?",
+            "How can we minimize the risk to my eyesight during treatment?"
+          ]
+        },
+        "closing_statement": "Having this precise location helps your team anticipate and plan for any potential impact on your vision. They will take every precaution to protect this important function."
+      }
+    },
+    {
+      "id": "glioma_016",
+      "topic": "brain_glioma",
+      "instruction": "I have a finding 'deep in the white matter' possibly related to a glioma. What is 'white matter'?",
+      "response": {
+        "finding": "The analysis reveals a lesion located deep within the brain's white matter, a finding that could be consistent with a glioma.",
+        "explanation_and_statistic": "White matter is the network of nerve fibers that acts like the brain's wiring, connecting different areas. While surgery can be more complex in this area, treatments like focused radiation and newer medications are often very effective at reaching these deep locations.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A type of imaging called Diffusion Tensor Imaging (DTI) to map the white matter tracts.",
+            "A consultation with a neurosurgeon to discuss the risks and benefits of a biopsy.",
+            "A review of systemic therapies (like chemotherapy) that treat the whole brain."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What functions are controlled by the wiring in this specific area?",
+            "What are the main challenges of treating a lesion in this location?"
+          ]
+        },
+        "closing_statement": "Modern imaging gives us a remarkable view of the brain's inner structures. This detailed information is exactly what your team needs to create a safe and effective plan for you."
+      }
+    },
+    {
+      "id": "glioma_017",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a 'recurrent glioma'. I thought my treatment was successful.",
+      "response": {
+        "finding": "The new scan indicates the presence of tissue that appears to be a recurrent glioma.",
+        "explanation_and_statistic": "Recurrence means that despite initial treatment, some tumor cells have grown back. This is unfortunately a known possibility with gliomas, but it is not a sign of failure; it is a signal to begin the next phase of your management plan, and many patients go through multiple lines of successful therapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of second-line treatment options.",
+            "The possibility of re-operation or additional radiation.",
+            "Exploring clinical trials for recurrent disease."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Are the cells in this recurrence expected to behave like the original tumor?",
+            "What new treatments are available now that were not available before?"
+          ]
+        },
+        "closing_statement": "It is completely understandable to feel discouraged by this news. Please know that your medical team has been preparing for this possibility, and there is a road map for this situation. You have faced this before, and you can face it again with their support."
+      }
+    },
+    {
+      "id": "glioma_018",
+      "topic": "brain_glioma",
+      "instruction": "The report says 'multifocal disease', suggesting glioma. Does that mean it's in multiple places?",
+      "response": {
+        "finding": "The scan shows several distinct areas of abnormal tissue, which is described as multifocal disease and could be indicative of a glioma.",
+        "explanation_and_statistic": "Yes, 'multifocal' means the finding appears in more than one spot. This typically points toward a treatment approach that can address the entire brain, such as chemotherapy or certain types of radiation, rather than surgery focused on one lesion.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The role of systemic therapies as the primary treatment.",
+            "Getting a biopsy from one of the lesions to confirm the diagnosis.",
+            "Managing symptoms that may arise from the different locations."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does having multiple spots change the overall treatment strategy?",
+            "Do we need to get a biopsy from more than one spot?"
+          ]
+        },
+        "closing_statement": "Seeing the full picture is a critical advantage. This comprehensive view allows your doctors to choose a strategy that addresses everything at once, which can be the most effective path forward."
+      }
+    },
+    {
+      "id": "glioma_019",
+      "topic": "brain_glioma",
+      "instruction": "My scan mentioned a 'T2/FLAIR mismatch sign' and a possible glioma.",
+      "response": {
+        "finding": "Your scan shows a specific imaging pattern known as a T2/FLAIR mismatch, which is strongly associated with a certain type of glioma.",
+        "explanation_and_statistic": "This is a highly technical imaging sign that radiologists look for, and it often points to a specific molecular marker (called IDH mutation) in the tumor cells. This is actually helpful information, as gliomas with this marker often respond better to treatment and have a more favorable prognosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation of the IDH-mutation status through a biopsy.",
+            "A treatment plan that may involve chemotherapy and radiation.",
+            "Long-term monitoring strategies."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is it a good thing to have this specific imaging sign?",
+            "How does knowing the molecular marker change my treatment plan?"
+          ]
+        },
+        "closing_statement": "This specific detail from your scan is a perfect example of how advanced imaging can help predict tumor behavior. It gives your team a valuable clue about the nature of the lesion, even before a biopsy."
+      }
+    },
+    {
+      "id": "glioma_020",
+      "topic": "brain_glioma",
+      "instruction": "Explain the term 'post-treatment changes vs. tumor recurrence' in my report about a possible glioma.",
+      "response": {
+        "finding": "The scan shows changes in the area where you were treated, and the analysis is considering whether this represents post-treatment effects or a recurrence of the glioma.",
+        "explanation_and_statistic": "After radiation, an effect called 'radionecrosis' can occur, which is dead tissue that can look very similar to a growing tumor on a scan. Disentangling these two possibilities is a common challenge, and advanced imaging techniques can often help clarify the situation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Specialized imaging, like a PET scan or MR spectroscopy, to differentiate.",
+            "A period of close observation with another scan in a few months.",
+            "A discussion of the pros and cons of a re-biopsy."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How will you be able to tell the difference between scar tissue and recurrence?",
+            "What happens if we can't be 100% sure?"
+          ]
+        },
+        "closing_statement": "It's good that your radiological team is being so careful with this interpretation. This thoughtful, cautious approach ensures you won't be over-treated for something that might just be a side effect of the successful therapy you've already had."
+      }
+    },
+    {
+      "id": "glioma_021",
+      "topic": "brain_glioma",
+      "instruction": "My scan mentions a possible glioma near the brainstem. That sounds serious.",
+      "response": {
+        "finding": "The analysis shows a lesion located near the brainstem which has features that could indicate a glioma.",
+        "explanation_and_statistic": "The brainstem controls vital functions, so any finding there is handled with extreme care. Because surgery is often risky in this location, treatments like highly focused radiation (radiosurgery) and chemotherapy are key, and have been used successfully for many patients.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist.",
+            "A biopsy to determine the exact cell type, which is critical for non-surgical plans.",
+            "Close monitoring of vital functions like breathing and heart rate."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the biggest risks associated with this location?",
+            "What is the main goal of treatment if surgery isn't an option?"
+          ]
+        },
+        "closing_statement": "Precision is paramount when dealing with this area of the brain. You will have a team of specialists dedicated to creating a plan that is as safe and effective as possible. You are in expert hands."
+      }
+    },
+    {
+      "id": "glioma_022",
+      "topic": "brain_glioma",
+      "instruction": "My report notes a 'small, non-enhancing lesion' that might be a low-grade glioma.",
+      "response": {
+        "finding": "The scan reveals a small, non-enhancing lesion in your brain, an appearance consistent with a possible low-grade glioma.",
+        "explanation_and_statistic": "'Non-enhancing' means the area did not light up with contrast dye, which often suggests it's less aggressive and slower-growing. Many low-grade gliomas are monitored for years without progression, a strategy known as 'active surveillance'.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The pros and cons of watchful waiting versus immediate action.",
+            "A schedule for follow-up MRI scans (e.g., every 6 or 12 months).",
+            "A baseline neurological exam to track any future changes."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What signs would tell us it's time to switch from watching to treating?",
+            "Does 'non-enhancing' mean it's not a concern?"
+          ]
+        },
+        "closing_statement": "This is the kind of finding where time is on your side. You have the opportunity to monitor things closely with your doctor and make unhurried, well-informed decisions about your health."
+      }
+    },
+    {
+      "id": "glioma_023",
+      "topic": "brain_glioma",
+      "instruction": "The scan mentions a finding in the 'cerebellum' with features of a glioma.",
+      "response": {
+        "finding": "The scan has identified an area of concern within the cerebellum that has features suggestive of a glioma.",
+        "explanation_and_statistic": "The cerebellum is at the back of the brain and is crucial for coordinating movement, balance, and posture. It's helpful to know that physical therapy can be extremely effective in helping patients regain balance and coordination after treatment in this area.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Consultation with a neurosurgeon, as cerebellar lesions can sometimes be surgically accessible.",
+            "A baseline assessment with a physical therapist.",
+            "Discussion of potential symptoms like dizziness or unsteadiness."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How might this affect my ability to walk, drive, or do other physical activities?",
+            "What can I do to maintain my balance and strength?"
+          ]
+        },
+        "closing_statement": "Your team will focus not just on treating the lesion, but on supporting your physical function every step of the way. They will connect you with all the right resources to help you stay active and safe."
+      }
+    },
+    {
+      "id": "glioma_024",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows 'periventricular' changes that could be a glioma. Where is that?",
+      "response": {
+        "finding": "The analysis shows abnormal changes in the periventricular region, which could represent a glioma.",
+        "explanation_and_statistic": "'Periventricular' means the finding is located next to the ventricles, which are the fluid-filled spaces deep inside the brain. Research suggests that cells in this area may be more sensitive to therapies like radiation, which can be an advantage.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "How the location affects surgical possibilities.",
+            "A review of radiation therapy as a primary option.",
+            "Monitoring of cerebrospinal fluid (CSF) flow."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Are there any special risks because it's near the brain's fluid spaces?",
+            "What is the experience of your team in treating lesions in this specific area?"
+          ]
+        },
+        "closing_statement": "The precision of your scan gives your doctors the exact coordinates they need to plan. Every aspect of your brain's unique anatomy will be considered in their recommendations."
+      }
+    },
+    {
+      "id": "glioma_025",
+      "topic": "brain_glioma",
+      "instruction": "I was told there's an 'intra-axial mass' on my scan, and glioma is a possibility.",
+      "response": {
+        "finding": "The scan reveals what is known as an intra-axial mass, and its features raise the possibility of a glioma.",
+        "explanation_and_statistic": "'Intra-axial' is simply a term meaning the mass is within the brain tissue itself, rather than on its outer covering. This is the characteristic location for gliomas, as they arise from the brain's own supportive cells.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The standard process for diagnosing an intra-axial mass, starting with a biopsy.",
+            "A detailed MRI with contrast to better define its borders.",
+            "Meeting with a neuro-oncologist to oversee your care."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the difference between an intra-axial and extra-axial mass?",
+            "What are the typical next steps when an intra-axial mass is found?"
+          ]
+        },
+        "closing_statement": "This term simply helps classify the finding for your doctors. It confirms that the next steps will involve specialists in conditions that arise from within the brain. You are on the right path to getting answers."
+      }
+    },
+    {
+      "id": "glioma_026",
+      "topic": "brain_glioma",
+      "instruction": "My MRI shows a 'space-occupying lesion' that my doctor thinks could be a glioma.",
+      "response": {
+        "finding": "Your MRI shows a finding described as a 'space-occupying lesion' that will require further evaluation, with glioma being a possible cause.",
+        "explanation_and_statistic": "'Space-occupying lesion' is a general radiological term for any abnormal growth that is taking up space inside the skull. The key now is to determine what the lesion is made of. The vast majority of diagnoses lead to a clear treatment plan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Managing symptoms caused by pressure, like headaches.",
+            "Planning for a biopsy to get a definitive cellular diagnosis.",
+            "Consulting with a neurosurgery team to review the scan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the most important information we need to get next?",
+            "How do we manage the pressure symptoms while we investigate?"
+          ]
+        },
+        "closing_statement": "While the terminology can be intimidating, it simply describes what the image shows. The next steps are all about moving from a general picture to a specific diagnosis, and your team knows exactly how to do that."
+      }
+    },
+    {
+      "id": "glioma_027",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a lesion with 'central necrosis', possibly a glioma. What is necrosis?",
+      "response": {
+        "finding": "The scan reveals a lesion with an area of central necrosis, a feature that can be seen in certain types of glioma.",
+        "explanation_and_statistic": "'Necrosis' refers to an area of dead cells in the middle of a rapidly growing mass, which can happen when a tumor outgrows its blood supply. While this can be a sign of a more aggressive tumor, it's also a feature that new treatments are being designed to target.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The need for an urgent consultation with a neuro-oncology team.",
+            "A discussion about more aggressive treatment regimens.",
+            "Getting a biopsy to confirm the grade and molecular type."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does the presence of necrosis tell us about the tumor's behavior?",
+            "How does this feature impact the treatment plan?"
+          ]
+        },
+        "closing_statement": "This detail, while concerning, provides crucial information about the lesion's biology. It allows your doctors to classify it more accurately and choose a treatment plan with the appropriate level of intensity right from the start."
+      }
+    },
+    {
+      "id": "glioma_028",
+      "topic": "brain_glioma",
+      "instruction": "I have an appointment to discuss a scan showing 'vasogenic edema' linked to a possible glioma.",
+      "response": {
+        "finding": "Your scan shows an area of vasogenic edema surrounding a mass, which is a common finding with a potential glioma.",
+        "explanation_and_statistic": "'Vasogenic edema' is a specific type of brain swelling caused by leaky blood vessels around a tumor. It is very responsive to treatment with steroids, and many patients feel significantly better within a day or two of starting medication.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A prescription for dexamethasone or a similar steroid.",
+            "The plan for diagnosing the underlying mass causing the edema.",
+            "Side effects to watch for from the steroid medication."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How quickly will the medication help with my symptoms?",
+            "Does the amount of swelling relate to the seriousness of the tumor?"
+          ]
+        },
+        "closing_statement": "Your team has a very effective tool to manage the swelling and make you more comfortable right away. This allows you to feel better while you all take the next steps to address the source of the problem."
+      }
+    },
+    {
+      "id": "glioma_029",
+      "topic": "brain_glioma",
+      "instruction": "The scan notes 'architectural distortion' in my brain, possibly from a glioma.",
+      "response": {
+        "finding": "The scan shows an area of what's called 'architectural distortion,' which means the normal structure of the brain tissue is disrupted, possibly by an underlying glioma.",
+        "explanation_and_statistic": "This is a subtle finding, suggesting that something is slowly growing and pushing the normal brain structures aside. Discovering this at a subtle stage is beneficial, as it often means there are more options and time to plan treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Advanced imaging to better visualize the extent of the distortion.",
+            "A neurological exam to see if the distortion is affecting function.",
+            "A discussion about the pros and cons of early biopsy versus observation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does 'architectural distortion' mean for my brain's function?",
+            "How do you decide when is the right time to intervene?"
+          ]
+        },
+        "closing_statement": "Your scan has picked up a very subtle clue, giving you and your doctors a head start. You can now proceed carefully and methodically to figure out exactly what this means and what to do next."
+      }
+    },
+    {
+      "id": "glioma_030",
+      "topic": "brain_glioma",
+      "instruction": "Can you explain a finding that's 'equivocal for glioma'?",
+      "response": {
+        "finding": "The analysis of your scan is described as 'equivocal,' meaning that while a glioma is a possibility, the features are not clear enough to be certain.",
+        "explanation_and_statistic": "An equivocal finding is an uncertain one. It could be an early-stage glioma, but it could also be the result of other processes like inflammation or a prior tiny stroke. Follow-up is key, as watching how the area changes over time is often the best way to find the answer.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Scheduling a repeat MRI in a short time frame (e.g., 3 months).",
+            "Reviewing your medical history for other possible causes.",
+            "Discussing what changes on the next scan would be significant."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most likely possibilities other than a glioma?",
+            "Is there anything I can do in the meantime while we wait?"
+          ]
+        },
+        "closing_statement": "It is wise for your team to be cautious and not jump to conclusions. This careful, wait-and-see approach is a sign of good medical practice and prevents unnecessary tests or treatments."
+      }
+    },
+    {
+      "id": "glioma_031",
+      "topic": "brain_glioma",
+      "instruction": "Scan says there's a 'ring-enhancing lesion'. Glioma is mentioned as a cause.",
+      "response": {
+        "finding": "The scan shows a 'ring-enhancing lesion,' which is a finding that requires careful evaluation and could be caused by a high-grade glioma.",
+        "explanation_and_statistic": "This means that after receiving contrast dye, the lesion lit up in the shape of a ring. While this is a serious finding, it is also a very specific pattern that directs your doctors toward a clear and immediate diagnostic plan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The need for a stereotactic biopsy to get a tissue sample.",
+            "Ruling out other causes of ring-enhancing lesions, like infection.",
+            "Starting steroids to reduce inflammation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why does it enhance in a ring shape?",
+            "What is the first step to telling the difference between a tumor and an infection?"
+          ]
+        },
+        "closing_statement": "This distinct pattern on your scan gives your doctors a very clear, albeit urgent, path forward. They will move quickly to get the answers needed to start the right treatment."
+      }
+    },
+    {
+      "id": "glioma_032",
+      "topic": "brain_glioma",
+      "instruction": "I was told I have a 'stable lesion' but they are still calling it a possible low-grade glioma. What does 'stable' mean?",
+      "response": {
+        "finding": "Your latest scan shows that a known lesion is stable, meaning it has not changed in size or appearance since your previous scan, and it continues to be monitored as a possible low-grade glioma.",
+        "explanation_and_statistic": "'Stable' is very good news. It suggests the lesion is inactive or extremely slow-growing, reinforcing the current 'watch and wait' strategy. Many people live their entire lives with stable, low-grade lesions without ever needing treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Continuing with the current surveillance schedule.",
+            "A review of any new or changing symptoms (even if none are expected).",
+            "Reinforcing the plan for what would trigger a change in management."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How long can a lesion like this remain stable?",
+            "Does 'stable' make it less likely to be a serious issue?"
+          ]
+        },
+        "closing_statement": "A stable scan is a reassuring result and an affirmation that your current monitoring plan is working perfectly. You can feel confident in continuing this path with your medical team."
+      }
+    },
+    {
+      "id": "glioma_033",
+      "topic": "brain_glioma",
+      "instruction": "My scan mentions 'gyral expansion' as a sign of a possible glioma.",
+      "response": {
+        "finding": "The scan shows 'gyral expansion' in one area of your brain, a finding that can be a subtle sign of an underlying, slow-growing glioma.",
+        "explanation_and_statistic": "The surface of the brain has folds, and the crests of these folds are called 'gyri'. 'Gyral expansion' means one of these folds looks swollen or thicker than the others. This is often a sign of a very slow, infiltrative process.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Comparing with any previous brain scans you may have had.",
+            "A plan for close monitoring with follow-up MRIs.",
+            "A detailed neurological exam to check for very subtle functional changes."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is this a common way for a glioma to present?",
+            "What is the likelihood that this will change or grow?"
+          ]
+        },
+        "closing_statement": "This is a very nuanced finding, and it's a credit to your radiologist for spotting it. Detecting these changes at such an early and subtle stage gives you a significant advantage in managing your health long-term."
+      }
+    },
+    {
+      "id": "glioma_034",
+      "topic": "brain_glioma",
+      "instruction": "Please explain a finding of 'restricted diffusion' on my MRI and how it relates to a possible glioma.",
+      "response": {
+        "finding": "The MRI shows an area of 'restricted diffusion,' which can be a sign of a highly cellular lesion, and a high-grade glioma is one possibility.",
+        "explanation_and_statistic": "'Restricted diffusion' is a technical term that means water molecules aren't moving freely in that spot, usually because cells are very densely packed together. While this can indicate a more aggressive tumor, it's also a very clear signal that helps doctors to characterize the lesion and plan a biopsy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The need for a timely biopsy for definitive diagnosis.",
+            "Consultation with a neuro-oncologist and neurosurgeon.",
+            "Imaging of the rest of the brain and spine to ensure there are no other spots."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does 'densely packed cells' imply about the lesion?",
+            "Are there other conditions that cause restricted diffusion?"
+          ]
+        },
+        "closing_statement": "This specific technical finding gives your doctors a lot of information about the microstructure of the lesion. They will use this clue to guide their next steps and get you answers quickly."
+      }
+    },
+    {
+      "id": "glioma_035",
+      "topic": "brain_glioma",
+      "instruction": "My child's brain scan shows a lesion in the 'posterior fossa' that could be a glioma.",
+      "response": {
+        "finding": "Your child's scan shows a lesion in the posterior fossa, the lower-back part of the skull, which has features that will be evaluated for a type of glioma.",
+        "explanation_and_statistic": "The posterior fossa contains the cerebellum and brainstem. While this news is very difficult, it's important to know that pediatric brain tumors are a major focus of research, and survival rates for many types have improved dramatically over the years.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Meeting with a pediatric neuro-oncology team.",
+            "Surgical consultation to see if the lesion can be removed safely.",
+            "Support services for your child and your entire family."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common types of gliomas in children in this location?",
+            "What is the standard treatment protocol for a finding like this at your hospital?"
+          ]
+        },
+        "closing_statement": "Your child will receive care from a team of experts who specialize in treating children. They will be there to guide and support your family through every step of this journey. You are not alone."
+      }
+    },
+    {
+      "id": "glioma_036",
+      "topic": "brain_glioma",
+      "instruction": "I'm pregnant and a scan showed a possible glioma. How does this work?",
+      "response": {
+        "finding": "The brain scan has revealed a lesion with features suggestive of a glioma, and its management will be planned carefully in the context of your pregnancy.",
+        "explanation_and_statistic": "Hormonal changes during pregnancy can sometimes stimulate the growth of certain tumors. Your care will be managed by a multidisciplinary team, including a high-risk obstetrician, to ensure the safety of both you and your baby.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for monitoring the lesion during the pregnancy.",
+            "A discussion about the timing of any potential treatment (before or after delivery).",
+            "Choosing diagnostic or treatment options that are safest for the baby."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the risks to me and the baby if we wait to treat this?",
+            "Which specialists will be involved in coordinating my care?"
+          ]
+        },
+        "closing_statement": "This is a complex situation, but you will have a dedicated team of experts focused on two equally important goals: your health and your baby's. They will work together to find the safest path forward for both of you."
+      }
+    },
+    {
+      "id": "glioma_037",
+      "topic": "brain_glioma",
+      "instruction": "As an older adult, what does a finding of a possible glioma mean for me?",
+      "response": {
+        "finding": "The scan shows an area in your brain that is suspicious for a glioma, which will be evaluated in the context of your overall health.",
+        "explanation_and_statistic": "Diagnosing a glioma in an older adult involves carefully weighing the risks and benefits of treatment against factors like other health conditions. It's important to know that many treatment options, like shorter courses of radiation, are specifically designed to be effective while maintaining quality of life.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A comprehensive geriatric assessment to evaluate your overall health.",
+            "A discussion about treatment goals (e.g., symptom control vs. cure).",
+            "A review of less intensive treatment options."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How will my other health conditions affect my treatment options?",
+            "What is the most important outcome we should be aiming for?"
+          ]
+        },
+        "closing_statement": "Your care plan will be uniquely tailored to you, with a strong focus on your personal preferences and quality of life. Your doctors will work with you to make a decision that feels right for you."
+      }
+    },
+    {
+      "id": "glioma_038",
+      "topic": "brain_glioma",
+      "instruction": "My scan suggests a 'calcified' lesion, possibly a low-grade glioma. Is calcification good or bad?",
+      "response": {
+        "finding": "The scan shows a lesion containing areas of calcification, a feature that can be seen in some types of slow-growing or low-grade gliomas.",
+        "explanation_and_statistic": "Calcification means there are deposits of calcium in the lesion, which is often a sign that the process has been there for a very long time and is likely slow-growing. In many cases, this is considered a favorable sign.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A 'watchful waiting' approach with periodic scans.",
+            "A discussion about the very long-term prognosis.",
+            "Getting a baseline neurological exam."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does the calcification make it less likely to be something dangerous?",
+            "What would make you decide to move from watching to treating this?"
+          ]
+        },
+        "closing_statement": "This is a feature that often points toward a slow-growing process, which is reassuring. You and your doctor can likely take a calm, measured approach to monitoring this over time."
+      }
+    },
+    {
+      "id": "glioma_039",
+      "topic": "brain_glioma",
+      "instruction": "The report says there is a 'hemorrhagic' component to a mass that could be a glioma.",
+      "response": {
+        "finding": "The scan shows a mass that has a hemorrhagic component, meaning there has been some bleeding into it, which needs to be investigated as a possible glioma.",
+        "explanation_and_statistic": "Bleeding can sometimes occur within a tumor. While this can cause sudden symptoms, it also provides a very clear signal on the scan that directs your doctors to the problem area immediately.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Managing the immediate effects of the bleed, like headache or neurological changes.",
+            "Urgent consultation with a neurosurgeon.",
+            "A plan to identify and treat the underlying cause of the bleed."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the bleeding an ongoing problem?",
+            "Does a bleed make the situation more urgent?"
+          ]
+        },
+        "closing_statement": "The scan has given your team a clear reason for your symptoms and a precise location to focus on. They will work quickly to ensure you are safe and to create a plan to address the underlying lesion."
+      }
+    },
+    {
+      "id": "glioma_040",
+      "topic": "brain_glioma",
+      "instruction": "What is an 'atypical' finding that is still being considered as a possible glioma?",
+      "response": {
+        "finding": "The analysis shows a finding with 'atypical' features, meaning it doesn't look like a classic example, but a glioma is still a consideration.",
+        "explanation_and_statistic": "Atypical simply means the lesion has some unusual characteristics. The brain can react to many things, and not all findings fit neatly into a textbook picture. Your team will need to be medical detectives, gathering more clues to solve the puzzle.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A broader range of tests to rule out other conditions (like infection or inflammation).",
+            "Possibly getting opinions from multiple specialists.",
+            "The need for a biopsy as the ultimate diagnostic tool."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes this finding 'atypical'?",
+            "What is your process for investigating an unusual finding like this?"
+          ]
+        },
+        "closing_statement": "It's good that your team is acknowledging the uncertainty. This ensures they will be extra thorough in their investigation before making any final conclusions. You are in thoughtful, careful hands."
+      }
+    },
+    {
+      "id": "glioma_041",
+      "topic": "brain_glioma",
+      "instruction": "Explain my scan finding, described as a 'subtle cortical thickening' possibly representing a glioma.",
+      "response": {
+        "finding": "The scan highlights a subtle thickening of the cortex, or the outer layer of the brain, which could represent an early, infiltrative glioma.",
+        "explanation_and_statistic": "This is a very nuanced finding, where a small area of the brain's folded surface appears slightly thicker than normal. Catching such an early change is a testament to modern imaging quality and gives you the maximum amount of time to plan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A high-resolution MRI focused on that specific area.",
+            "Active monitoring to see if the thickening changes over time.",
+            "A magnetoencephalography (MEG) scan to check for abnormal electrical activity."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How confident can we be that this is a real finding and not just normal variation?",
+            "What are we looking for on the follow-up scans?"
+          ]
+        },
+        "closing_statement": "This is likely the earliest possible sign of a potential issue, which is a significant advantage. You and your team can now be vigilant observers, ready to act if and when it becomes necessary."
+      }
+    },
+    {
+      "id": "glioma_042",
+      "topic": "brain_glioma",
+      "instruction": "My report mentions a 'T1 hypointense' lesion that could be a glioma.",
+      "response": {
+        "finding": "The scan reveals a lesion that is 'T1 hypointense,' meaning it appears darker than the surrounding tissue on one type of MRI sequence, which can be a feature of a glioma.",
+        "explanation_and_statistic": "The different MRI sequences (T1, T2, FLAIR) are like different filters that give radiologists clues. A dark spot on a T1 scan is a common but non-specific sign that tells your doctor 'look here.' It's one piece of the puzzle they will assemble.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "How this finding looks on the other MRI sequences.",
+            "The need for a biopsy if other features are also concerning.",
+            "A plan for surveillance if the finding is isolated."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does the combination of findings on all the MRI sequences suggest?",
+            "Is a 'dark spot' on its own enough to be worried?"
+          ]
+        },
+        "closing_statement": "This is a technical observation that helps the radiologist focus their attention. It's a starting point for a deeper analysis, not an answer in itself. Your doctor will put all these clues together for you."
+      }
+    },
+    {
+      "id": "glioma_043",
+      "topic": "brain_glioma",
+      "instruction": "The scan from my ER visit for a headache shows a 'parenchymal abnormality' that might be a glioma.",
+      "response": {
+        "finding": "The scan from your visit shows a 'parenchymal abnormality,' and a glioma is being considered as a possible cause.",
+        "explanation_and_statistic": "'Parenchymal' just means 'in the tissue' of the brain. It's a very general term for a finding that originates within the brain itself. While a headache can have many causes, this finding gives your doctors a specific area to investigate further.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A more detailed, dedicated brain MRI protocol.",
+            "Consultation with a neurologist to discuss your headaches and the finding.",
+            "A plan to get a definitive diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is it certain that this finding is the cause of my headaches?",
+            "What is the standard procedure for evaluating a finding like this?"
+          ]
+        },
+        "closing_statement": "While it's unsettling to get this kind of news from an ER visit, the scan has provided a valuable clue that might otherwise have been missed. You are now on a path to getting concrete answers."
+      }
+    },
+    {
+      "id": "glioma_044",
+      "topic": "brain_glioma",
+      "instruction": "My scan suggests a 'possible glial neoplasm'. Is that the same as a glioma?",
+      "response": {
+        "finding": "Your scan indicates a finding that could represent a 'glial neoplasm.'",
+        "explanation_and_statistic": "Yes, 'glial neoplasm' is the more formal, technical term for a glioma. 'Neoplasm' means new growth, and 'glial' refers to the glial cells of the brain. It may be helpful to know that research into targeted therapies for these neoplasms is one of the most active areas in cancer medicine.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Understanding the specific type and grade through a biopsy.",
+            "Meeting the multidisciplinary team who will manage your care.",
+            "An overview of the standard treatment pathway."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the difference between a neoplasm and a tumor?",
+            "What are the most important questions I should be asking right now?"
+          ]
+        },
+        "closing_statement": "Don't get too caught up in the technical terms. The important thing is that your doctors have identified a clear area of concern and have a standard process to investigate it and recommend the best care for you."
+      }
+    },
+    {
+      "id": "glioma_045",
+      "topic": "brain_glioma",
+      "instruction": "What does a 'solid and cystic' glioma finding mean?",
+      "response": {
+        "finding": "The scan reveals a lesion with both solid and cystic (fluid-filled) components, a pattern which can be seen in some gliomas.",
+        "explanation_and_statistic": "This means the lesion is a mix of dense tissue and a fluid pocket. This is useful information for a surgeon, as the plan might involve addressing both components. It's a common presentation, and surgeons have clear techniques for managing it.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical plan to remove the solid part and drain the cystic part.",
+            "A discussion on how this mixed nature affects the treatment choice.",
+            "A biopsy of the solid wall of the lesion, which contains the key diagnostic information."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is it better or worse to have a mixed solid and cystic lesion?",
+            "What is the goal of surgery in this case?"
+          ]
+        },
+        "closing_statement": "This detailed description of the lesion's structure gives your surgeon a clear road map. They will know exactly what to expect and how to approach the procedure for the best possible outcome."
+      }
+    },
+    {
+      "id": "glioma_046",
+      "topic": "brain_glioma",
+      "instruction": "Scan says 'findings concerning for a high-grade glioma'. This sounds bad.",
+      "response": {
+        "finding": "The scan shows several features that are concerning for a high-grade glioma.",
+        "explanation_and_statistic": "'High-grade' suggests the cells may be faster-growing, which is why your doctors will recommend moving quickly. It's important to focus on the fact that 'high-grade' also has specific, aggressive treatments to match it, and many people respond well to these protocols.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An expedited schedule for surgery or biopsy.",
+            "A discussion about a combined treatment approach (e.g., surgery, radiation, and chemotherapy).",
+            "Starting medications like steroids immediately to manage symptoms."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes you suspect it's 'high-grade' based on the scan?",
+            "What is the most effective treatment combination for this type of finding?"
+          ]
+        },
+        "closing_statement": "It is completely understandable to be scared by these words. The key message from your team is that they have a clear, evidence-based, and urgent plan of action. They are ready to move fast, and they will be with you every step of the way."
+      }
+    },
+    {
+      "id": "glioma_047",
+      "topic": "brain_glioma",
+      "instruction": "There is a finding in my 'insula' or 'insular cortex' that may be a glioma. Where is that?",
+      "response": {
+        "finding": "The scan indicates a lesion in the insular cortex, a region deep within the brain, which has the characteristics of a glioma.",
+        "explanation_and_statistic": "The insula is a complex area involved in emotions, self-awareness, and regulating the body. Surgery in this area requires immense skill, and specialists often use 'awake brain surgery' to map functions and remove the tumor safely.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Consultation with a neurosurgeon who specializes in insular tumors.",
+            "A discussion about the possibility of awake brain surgery.",
+            "A detailed functional MRI to map the eloquent cortex nearby."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the primary risks of operating in this specific location?",
+            "What is your team's experience with tumors in the insula?"
+          ]
+        },
+        "closing_statement": "Treating a lesion in this location requires a superspecialist team, and it's good this has been identified. You will be connected with experts who have dedicated their careers to safely managing these complex cases."
+      }
+    },
+    {
+      "id": "glioma_048",
+      "topic": "brain_glioma",
+      "instruction": "My scan notes 'leptomeningeal enhancement' and mentions glioma as a possibility.",
+      "response": {
+        "finding": "The scan shows leptomeningeal enhancement, which suggests there may be abnormal cells in the thin layers covering your brain, possibly related to a glioma.",
+        "explanation_and_statistic": "This means the contrast dye highlighted the very thin membranes (leptomeninges) around the brain, suggesting inflammation or cells have spread there. To get a definitive answer, your doctor may need to sample the cerebrospinal fluid (CSF) that bathes these layers.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A lumbar puncture (spinal tap) to analyze the CSF.",
+            "A discussion of treatments that can penetrate the CSF, like specific types of chemotherapy.",
+            "Imaging of your full spine to check the extent of the enhancement."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does it mean if there are cells in the spinal fluid?",
+            "How does this finding change the overall treatment plan?"
+          ]
+        },
+        "closing_statement": "This finding gives your doctor a very specific area to investigate next. The spinal tap is a straightforward procedure that can provide a wealth of information and guide your team to the correct diagnosis and treatment."
+      }
+    },
+    {
+      "id": "glioma_049",
+      "topic": "brain_glioma",
+      "instruction": "What does a 'bithalamic' glioma finding mean?",
+      "response": {
+        "finding": "The scan shows abnormal tissue that appears to involve both sides of the thalamus, a finding described as a bithalamic glioma.",
+        "explanation_and_statistic": "The thalamus is a pair of structures deep in the brain that acts as a central relay station for sensory information. Because it involves both sides and is a critical location, treatment typically focuses on non-surgical options like radiation and chemotherapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A needle biopsy to confirm the diagnosis and molecular type.",
+            "Consultation with radiation and neuro-oncology specialists.",
+            "A plan to manage symptoms like confusion, memory issues, or sleepiness."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the main goal of treatment for a tumor in this location?",
+            "What quality of life can I expect with treatment?"
+          ]
+        },
+        "closing_statement": "This is a rare and challenging diagnosis, and it's important to find a major medical center with experience in these cases. Your team will focus on a plan that offers the best possible outcome while prioritizing your comfort and function."
+      }
+    },
+    {
+      "id": "glioma_050",
+      "topic": "brain_glioma",
+      "instruction": "I have a family history of brain tumors. My scan now shows a possible glioma.",
+      "response": {
+        "finding": "Given your family history, the finding of a lesion on your scan that is suspicious for a glioma warrants a thorough evaluation.",
+        "explanation_and_statistic": "While most gliomas are sporadic, a small percentage can be linked to inherited genetic syndromes. Knowing your family history is a vital piece of the puzzle for your medical team.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a genetic counselor.",
+            "A discussion about genetic testing for you and potentially for family members.",
+            "How a genetic link might influence your treatment choices."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If this is genetic, what does that mean for my children or siblings?",
+            "Are there specific treatments that work better for genetic types of glioma?"
+          ]
+        },
+        "closing_statement": "You have provided your doctors with a crucial piece of information that can help them understand your situation on a deeper level. This may open up new avenues for personalized treatment and is valuable for your family's health as well."
+      }
+    },
+    {
+      "id": "glioma_051",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a tiny spot, 'incidental finding', but they're mentioning glioma.",
+      "response": {
+        "finding": "Your scan, done for other reasons, revealed a tiny, incidental spot that has features requiring it to be considered as a possible early glioma.",
+        "explanation_and_statistic": "'Incidental' means it was found by accident and isn't causing your current symptoms. As MRI technology gets better, we find these tiny spots more often. The vast majority of these will be monitored and may never require treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A strategy of 'active surveillance' with a follow-up scan in 6-12 months.",
+            "A review of what tiny changes on the next scan might mean.",
+            "Reassurance that no immediate action is likely needed."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What percentage of findings like this ever turn into a problem?",
+            "Should I change anything about my lifestyle while we monitor this?"
+          ]
+        },
+        "closing_statement": "Finding something this small, this early, is truly a best-case scenario for detection. You have the gift of time and can work with your doctor to watch it carefully without any rush to intervene."
+      }
+    },
+    {
+      "id": "glioma_052",
+      "topic": "brain_glioma",
+      "instruction": "The report suggests a glioma and mentions 'mass effect'. What is that?",
+      "response": {
+        "finding": "The scan shows a lesion consistent with a possible glioma that is causing 'mass effect' on the surrounding brain structures.",
+        "explanation_and_statistic": "'Mass effect' is the term for the pushing or displacement of normal brain tissue by the lesion. The brain is in a fixed box (the skull), so anything new taking up space can cause this. Addressing the mass effect with medication or surgery is often a top priority to relieve symptoms.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Use of steroids to decrease swelling and mass effect.",
+            "Surgical consultation to discuss 'debulking' the lesion.",
+            "A neurological exam to assess the impact of the mass effect."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What symptoms are being caused by the mass effect?",
+            "How quickly can we relieve the pressure?"
+          ]
+        },
+        "closing_statement": "Your scan has clearly identified not just the lesion, but its effect on your brain. Your doctors can now tackle both problems\u2014relieving the pressure to make you feel better, while planning how to treat the source."
+      }
+    },
+    {
+      "id": "glioma_053",
+      "topic": "brain_glioma",
+      "instruction": "Explain a 'hypothalamic glioma' finding from my child's scan.",
+      "response": {
+        "finding": "Your child's scan indicates a lesion in the hypothalamus, a finding that could represent a hypothalamic glioma.",
+        "explanation_and_statistic": "The hypothalamus is a tiny but critical area of the brain that controls hormones, appetite, and body temperature. Tumors here are often low-grade, and treatments are carefully planned to preserve these vital functions. These are rare tumors, and are best managed at a major pediatric center.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Consultation with a pediatric endocrinologist to manage hormone issues.",
+            "A discussion of chemotherapy as it is often preferred over surgery in this area.",
+            "A baseline evaluation of your child's growth and development."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What hormonal or appetite changes should we watch for?",
+            "What are the long-term effects of treatment in this area on my child's growth?"
+          ]
+        },
+        "closing_statement": "This is a very delicate area, and your child's care team will be a large one, with many specialists working together. They will focus on a gentle approach that controls the tumor while protecting your child's future development."
+      }
+    },
+    {
+      "id": "glioma_054",
+      "topic": "brain_glioma",
+      "instruction": "My scan suggests a glioma and mentions 'subependymal spread'.",
+      "response": {
+        "finding": "The scan shows features of a glioma with evidence of 'subependymal spread,' meaning abnormal cells may be present along the lining of the brain's ventricles.",
+        "explanation_and_statistic": "The ventricles are fluid-filled spaces lined by a layer of cells called the ependyma. 'Subependymal spread' suggests the tumor is using this lining as a pathway. This information is key for a radiation oncologist when designing their treatment fields to ensure they cover all affected areas.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the radiation plan to include the ventricular lining.",
+            "A lumbar puncture to check for cells in the spinal fluid.",
+            "A discussion of systemic chemotherapy that can treat the entire central nervous system."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does this finding change the scope of my treatment?",
+            "Is this considered a form of metastasis within the brain?"
+          ]
+        },
+        "closing_statement": "This detailed finding is crucial for effective treatment planning. It gives your radiation team the precise information they need to design a comprehensive plan that leaves no stone unturned. This is how modern, precise medicine works."
+      }
+    },
+    {
+      "id": "glioma_055",
+      "topic": "brain_glioma",
+      "instruction": "What does a 'gliomatosis cerebri' pattern on my scan mean?",
+      "response": {
+        "finding": "The scan demonstrates a diffuse pattern of infiltration throughout a large portion of the brain, which is characteristic of a rare condition known as gliomatosis cerebri.",
+        "explanation_and_statistic": "This is a rare growth pattern where the glioma cells are widely spread through at least two lobes of the brain, rather than forming a distinct lump. Because it's so widespread, the primary treatment is never surgery, but rather systemic therapies like chemotherapy and radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A biopsy to confirm the diagnosis and determine the underlying molecular type.",
+            "Consultation with a neuro-oncologist at a center specializing in rare tumors.",
+            "A plan for managing symptoms and preserving neurological function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the main goal of treatment for such a diffuse condition?",
+            "Are there clinical trials specifically for gliomatosis cerebri?"
+          ]
+        },
+        "closing_statement": "Receiving a rare diagnosis can feel isolating, but it also means your care will be highly specialized. You will be connected with national experts who have the most experience with this specific pattern of glioma."
+      }
+    },
+    {
+      "id": "glioma_056",
+      "topic": "brain_glioma",
+      "instruction": "My post-op scan says 'residual tumor' after my glioma surgery.",
+      "response": {
+        "finding": "The post-operative scan shows an area of 'residual tumor,' indicating that some of the glioma tissue remains after your surgery.",
+        "explanation_and_statistic": "It is very common and often expected that surgeons cannot safely remove 100% of a glioma, especially if it's near critical brain areas. The goal of surgery is 'maximal safe resection,' and the remaining cells are what follow-up treatments like radiation and chemotherapy are designed to target.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist to plan the next phase of treatment.",
+            "A discussion with your medical oncologist about chemotherapy.",
+            "A review of your surgical recovery and symptom management."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Was the amount of residual tumor what you expected?",
+            "How does the remaining tumor affect the plan for my next treatment?"
+          ]
+        },
+        "closing_statement": "Please do not see this as a failure of the surgery. This is a normal, expected part of a multi-stage treatment plan. The surgery has done its job of 'debulking' the tumor, and now it's time for the next players on your team to step in."
+      }
+    },
+    {
+      "id": "glioma_057",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a 'calvarial lesion' that could be related to a glioma. Is that in the skull?",
+      "response": {
+        "finding": "The scan shows a lesion in the calvarium, or skull bone, which needs to be evaluated for a possible connection to a glioma inside the brain.",
+        "explanation_and_statistic": "Yes, the calvarium is the skull. It is rare, but sometimes a glioma can grow through the brain's outer layers and involve the bone. This is important information for surgical planning.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical plan that may involve both a neurosurgeon and a plastic or craniofacial surgeon.",
+            "High-resolution imaging of the bone itself.",
+            "A biopsy to confirm if the cells in the bone are the same as inside the brain."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does involvement of the skull change the surgery?",
+            "Is this a sign that the tumor is more aggressive?"
+          ]
+        },
+        "closing_statement": "This specific finding allows your team to assemble all the right experts from the very beginning. They can create a comprehensive surgical plan that addresses both the brain and the skull at the same time for the best result."
+      }
+    },
+    {
+      "id": "glioma_058",
+      "topic": "brain_glioma",
+      "instruction": "What is 'pseudo-progression' on a brain scan for a glioma?",
+      "response": {
+        "finding": "Your scan shows changes in the treatment area that could represent 'pseudo-progression,' a treatment effect that can mimic tumor growth.",
+        "explanation_and_statistic": "'Pseudo' means false. This is a known and common reaction to combined radiation and chemotherapy, where the treated area becomes inflamed and swollen, looking worse on a scan before it gets better. It is often a sign the treatment is working.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Continuing with your current treatment plan despite the scan appearance.",
+            "A short-term follow-up scan to confirm the area starts to improve.",
+            "Managing any symptoms caused by the inflammation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How can you be sure it's pseudo-progression and not real progression?",
+            "If it's a sign of treatment working, is it a good sign?"
+          ]
+        },
+        "closing_statement": "It's completely counter-intuitive, but this is one of those times in medicine where something that looks worse on a scan can actually be a positive signal. Your team will be very familiar with this pattern and will guide you through this phase with reassurance."
+      }
+    },
+    {
+      "id": "glioma_059",
+      "topic": "brain_glioma",
+      "instruction": "My MRI report mentions a possible glioma and something called 'GRE blooming'.",
+      "response": {
+        "finding": "The scan shows a lesion suspicious for a glioma that also demonstrates 'GRE blooming,' suggesting the presence of tiny amounts of blood.",
+        "explanation_and_statistic": "'GRE' is a type of MRI sequence that is very sensitive to blood products. 'Blooming' means the dark spot from the blood looks bigger on this sequence. It can be a sign of leaky, abnormal blood vessels within a tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on how this feature helps characterize the lesion's grade.",
+            "A consultation with a neurosurgeon, as these vessels can affect surgery.",
+            "Getting a biopsy to confirm the diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the significance of having these micro-hemorrhages?",
+            "Does this feature affect what kind of treatment I might receive?"
+          ]
+        },
+        "closing_statement": "This is another example of a highly technical clue that your radiologists use. It adds another layer of information to the picture, helping your team build a more complete understanding of the finding before they even have a tissue sample."
+      }
+    },
+    {
+      "id": "glioma_060",
+      "topic": "brain_glioma",
+      "instruction": "Scan indicates an 'exophytic' glioma. What does that mean?",
+      "response": {
+        "finding": "The analysis shows a finding consistent with an 'exophytic' glioma, meaning it grows outward from its point of origin.",
+        "explanation_and_statistic": "An exophytic glioma, for example in the brainstem, is one that grows outward into the surrounding fluid spaces, rather than inward into the delicate nerve tissue. This growth pattern can sometimes be a favorable feature, as it may be more accessible to a surgeon or cause fewer direct symptoms.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical consultation to see if the exophytic portion can be safely removed.",
+            "A review of how this growth pattern impacts the overall prognosis.",
+            "A biopsy to determine the grade and cell type."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is it good that the tumor is growing 'out' instead of 'in'?",
+            "How does this shape affect the surgical approach?"
+          ]
+        },
+        "closing_statement": "The specific shape and growth pattern of a lesion provides vital clues. In this case, it might present a unique opportunity for your care team. They will explore every angle to find the best approach for you."
+      }
+    },
+    {
+      "id": "glioma_061",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a lesion with 'minimal mass effect', possibly a glioma. Is minimal good?",
+      "response": {
+        "finding": "Your scan shows a lesion, possibly a glioma, that is causing only minimal mass effect on the surrounding brain.",
+        "explanation_and_statistic": "Yes, 'minimal mass effect' is generally a positive finding. It means that despite its presence, the lesion is not significantly pushing or squishing the nearby brain tissue. This often correlates with fewer symptoms and may suggest a slower-growing process.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about whether immediate treatment is necessary.",
+            "A plan for active monitoring with future scans.",
+            "Establishing a baseline of your neurological function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If it's not causing much pressure, can we just watch it?",
+            "What would cause us to change from watching to treating?"
+          ]
+        },
+        "closing_statement": "This is a reassuring detail in the report. It suggests that you have time to make careful, unhurried decisions with your medical team about the best path forward."
+      }
+    },
+    {
+      "id": "glioma_062",
+      "topic": "brain_glioma",
+      "instruction": "What is an 'optic pathway glioma'?",
+      "response": {
+        "finding": "The scan reveals a lesion along the optic pathway, a finding that is characteristic of an optic pathway glioma.",
+        "explanation_and_statistic": "The optic pathway is the nerve system that connects the eyes to the brain. These are typically slow-growing, low-grade tumors that occur most often in children, sometimes in association with a genetic condition called neurofibromatosis type 1 (NF1).",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A comprehensive eye exam with a neuro-ophthalmologist.",
+            "A consultation with a pediatric oncologist.",
+            "A discussion about chemotherapy, which is often the preferred treatment to preserve vision."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the risk to my child's vision?",
+            "Should my child be tested for NF1?"
+          ]
+        },
+        "closing_statement": "The primary goal of treatment here is to protect your child's sight. You will have a team of eye specialists and cancer specialists working together to create a gentle but effective plan to do just that."
+      }
+    },
+    {
+      "id": "glioma_063",
+      "topic": "brain_glioma",
+      "instruction": "My report mentions 'ependymal involvement' from a possible glioma.",
+      "response": {
+        "finding": "The scan suggests a glioma that shows signs of 'ependymal involvement,' meaning it is touching or interacting with the lining of the brain's ventricles.",
+        "explanation_and_statistic": "The ependyma is the thin membrane lining the fluid-filled ventricles. When a tumor touches this lining, there's a potential for cells to travel through the spinal fluid. This is important information that helps your doctor decide the scope of treatment, particularly for radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Whether imaging of the spine is needed.",
+            "A discussion about the radiation field design.",
+            "The potential need for a lumbar puncture (spinal tap)."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does touching this lining change my prognosis or treatment?",
+            "What are the chances cells have spread from this contact?"
+          ]
+        },
+        "closing_statement": "This level of detail is exactly what your team needs to be thorough. It allows them to plan for possibilities and ensure your treatment is comprehensive enough to cover all the areas at risk."
+      }
+    },
+    {
+      "id": "glioma_064",
+      "topic": "brain_glioma",
+      "instruction": "The scan says 'no significant interval change' for my suspected low-grade glioma. What does that mean?",
+      "response": {
+        "finding": "Your follow-up scan shows no significant interval change in the area being monitored as a suspected low-grade glioma.",
+        "explanation_and_statistic": "This is the ideal result for a surveillance scan. It means that since your last MRI, the area has not grown, changed, or developed any worrisome features. This confirms that the 'watch and wait' approach is working.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Continuing with the established schedule of follow-up scans.",
+            "A brief check-in about any symptoms (or lack thereof).",
+            "Confirmation that the plan remains the same."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How many stable scans would I need before we can worry less?",
+            "Is it possible this will just never change?"
+          ]
+        },
+        "closing_statement": "This is excellent news. A stable scan provides peace of mind and reinforces that you and your team are on the right track. You can confidently continue with your current plan."
+      }
+    },
+    {
+      "id": "glioma_065",
+      "topic": "brain_glioma",
+      "instruction": "What is a 'pleomorphic xanthoastrocytoma' (PXA)? They said it's a type of glioma.",
+      "response": {
+        "finding": "The biopsy results of the lesion are in, and they are consistent with a pleomorphic xanthoastrocytoma, or PXA, which is a rare, typically low-grade type of glioma.",
+        "explanation_and_statistic": "This is a very specific diagnosis. PXAs most often occur in younger people and usually have a very good prognosis, especially after complete surgical removal. The name sounds complex, but the outlook is often quite positive.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the post-operative scan to confirm complete removal.",
+            "A discussion about whether any further treatment is needed (often, it is not).",
+            "A long-term plan for surveillance imaging."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the recurrence rate for this specific tumor type?",
+            "Now that we know what it is, what is the long-term outlook?"
+          ]
+        },
+        "closing_statement": "Receiving a specific diagnosis, especially one that carries a good prognosis, is a major step forward. You now have clarity, and the path ahead is much clearer and often very reassuring."
+      }
+    },
+    {
+      "id": "glioma_066",
+      "topic": "brain_glioma",
+      "instruction": "The report notes a 'midline shift'. What does that have to do with the glioma they suspect?",
+      "response": {
+        "finding": "The scan shows that a suspected glioma is causing a 'midline shift,' meaning the pressure is pushing the center of your brain off to one side.",
+        "explanation_and_statistic": "The brain is normally symmetrical. A midline shift is a sign of significant pressure, or mass effect, that needs to be addressed urgently. Relieving this pressure is the immediate priority for your medical team.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Urgent admission to the hospital for management.",
+            "Immediate start of high-dose steroids to reduce swelling.",
+            "An emergency consultation with a neurosurgeon."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the dangers of a midline shift?",
+            "What is the fastest way to relieve this pressure?"
+          ]
+        },
+        "closing_statement": "This is a serious finding on your scan, and it explains why you may be feeling very unwell. The good news is that it gives your doctors a very clear and urgent problem to solve. They will act quickly to get the pressure under control."
+      }
+    },
+    {
+      "id": "glioma_067",
+      "topic": "brain_glioma",
+      "instruction": "My scan suggests a glioma, and they want to do 'MR spectroscopy'. What is that?",
+      "response": {
+        "finding": "In addition to the lesion suspicious for a glioma, your doctors have recommended MR spectroscopy to learn more about it.",
+        "explanation_and_statistic": "MR spectroscopy is a special type of MRI that doesn't take a picture, but instead analyzes the chemical makeup of the lesion. It can detect certain metabolites that are common in tumors, helping to differentiate them from other things like scar tissue or infection, all without a biopsy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Reviewing the results of the spectroscopy.",
+            "How the chemical profile of the lesion impacts the diagnosis.",
+            "Deciding if a biopsy is still necessary after this test."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What specific chemicals are you looking for?",
+            "How accurate is this test in predicting the grade of a tumor?"
+          ]
+        },
+        "closing_statement": "This is a powerful, non-invasive tool that can give your team another layer of valuable information. It's a great example of how technology is used to learn as much as possible about your situation in the safest way."
+      }
+    },
+    {
+      "id": "glioma_068",
+      "topic": "brain_glioma",
+      "instruction": "What is an 'anaplastic' glioma?",
+      "response": {
+        "finding": "The pathology results from your biopsy are consistent with an anaplastic glioma.",
+        "explanation_and_statistic": "'Anaplastic' is a term pathologists use that corresponds to a grade 3 (out of 4) tumor. It means the cells are more abnormal than a low-grade tumor, and it is considered a high-grade glioma that requires aggressive treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the standard treatment protocol, typically radiation and chemotherapy.",
+            "A discussion about the molecular markers of your specific tumor.",
+            "Connecting with support services for you and your family."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the difference between grade 3 and grade 4?",
+            "What is the goal of the recommended treatment plan?"
+          ]
+        },
+        "closing_statement": "You now have a specific diagnosis, and with that comes a clear, evidence-based treatment plan. Your team knows what they are up against, and they will bring all the best tools to bear. You have a path forward."
+      }
+    },
+    {
+      "id": "glioma_069",
+      "topic": "brain_glioma",
+      "instruction": "Scan suggests a 'tectal plate glioma'. Where is that?",
+      "response": {
+        "finding": "The scan shows a lesion in the tectal plate of your brainstem, which is a characteristic finding of a tectal plate glioma.",
+        "explanation_and_statistic": "The tectal plate is a small part of the midbrain. These are typically very slow-growing, low-grade gliomas that often cause problems by blocking the flow of spinal fluid, leading to a condition called hydrocephalus. Treatment often focuses on managing the fluid blockage rather than the tumor itself.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about treating hydrocephalus, possibly with a shunt or a procedure called ETV.",
+            "A plan for long-term observation of the tumor itself.",
+            "A baseline eye movement exam."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the tumor or the fluid blockage the bigger problem?",
+            "What are the chances I will ever need treatment for the tumor itself?"
+          ]
+        },
+        "closing_statement": "This is a very specific diagnosis with a very specific management plan. Your team's focus will be on the most immediate issue\u2014the fluid build-up\u2014which can often be resolved effectively, leading to a great improvement in your symptoms."
+      }
+    },
+    {
+      "id": "glioma_070",
+      "topic": "brain_glioma",
+      "instruction": "Can you explain 'glioblastoma'? The report says it's a type of glioma.",
+      "response": {
+        "finding": "The analysis of the scan and subsequent biopsy are consistent with a diagnosis of glioblastoma.",
+        "explanation_and_statistic": "Glioblastoma is the most common type of high-grade glioma in adults, and it is a grade 4 tumor. It is a serious and challenging diagnosis, but it's important to know that treatment standards and research are moving forward constantly, with new therapies being tested all the time.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The standard of care treatment, which involves surgery followed by radiation and chemotherapy.",
+            "The importance of molecular markers (like MGMT) in predicting treatment response.",
+            "The possibility of enrolling in a clinical trial."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the primary goal of treatment?",
+            "What can we do to maintain my quality of life during treatment?"
+          ]
+        },
+        "closing_statement": "This is very difficult news to hear, and it's okay to take a moment to process it. Your medical team is going to rally around you, providing a clear plan and supporting you every step of the way. You do not have to face this alone."
+      }
+    },
+    {
+      "id": "glioma_071",
+      "topic": "brain_glioma",
+      "instruction": "My scan notes a lesion with 'minimal surrounding vasogenic edema', possibly a glioma.",
+      "response": {
+        "finding": "The scan reveals a brain lesion, potentially a glioma, with only minimal surrounding vasogenic edema.",
+        "explanation_and_statistic": "Vasogenic edema is a type of swelling. The fact that there is very little of it can be a subtle but positive sign, sometimes suggesting a slower-growing, lower-grade process. It indicates the lesion isn't causing a large inflammatory reaction in the brain.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on how this feature fits with the overall picture.",
+            "Comparing this with other features to decide on the best next step.",
+            "The possibility of a 'watch and wait' approach if other features are also reassuring."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the significance of having very little swelling?",
+            "Does this change how urgently we need to act?"
+          ]
+        },
+        "closing_statement": "Your radiology report is full of small clues, and this is one that leans in a more reassuring direction. Your doctor will weigh all these clues together to help you make a wise decision."
+      }
+    },
+    {
+      "id": "glioma_072",
+      "topic": "brain_glioma",
+      "instruction": "What is an 'oligodendroglioma'? They say it is a type of glioma.",
+      "response": {
+        "finding": "The biopsy results indicate the tumor is an oligodendroglioma, which is a specific type of glioma.",
+        "explanation_and_statistic": "Oligodendrogliomas arise from a type of glial cell that makes myelin, the insulation for nerve cells. This is a very important diagnosis to make, because these tumors, particularly those with a specific genetic signature ('1p/19q co-deletion'), are known to be exceptionally responsive to chemotherapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the genetic markers of your tumor.",
+            "A discussion about a treatment plan that will likely include chemotherapy.",
+            "The excellent prognosis often associated with this tumor type."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does it mean to have the '1p/19q co-deletion'?",
+            "Why is this type of tumor so responsive to treatment?"
+          ]
+        },
+        "closing_statement": "Getting this specific diagnosis is very good news. It moves you out of a world of uncertainty and into a category of tumors that we have very effective treatments for. This is a very hopeful situation."
+      }
+    },
+    {
+      "id": "glioma_073",
+      "topic": "brain_glioma",
+      "instruction": "My scan mentioned a 'dorsally exophytic brainstem glioma'. Can you break that down?",
+      "response": {
+        "finding": "The scan describes a dorsally exophytic brainstem glioma, meaning a tumor growing outward from the back part of the brainstem.",
+        "explanation_and_statistic": "'Dorsally' means on the back side, and 'exophytic' means it grows out into the spinal fluid space rather than into the brainstem itself. This can be an important distinction, as this growth pattern sometimes makes a tumor more accessible for a biopsy or even partial removal, which is often not possible with other brainstem gliomas.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon who specializes in brainstem tumors.",
+            "A discussion on whether a biopsy is safe and feasible.",
+            "A review of radiation therapy, which remains a key treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this specific growth pattern change the typical prognosis?",
+            "What are the goals of surgery if it's possible?"
+          ]
+        },
+        "closing_statement": "This specific anatomical description provides a glimmer of opportunity. Your specialized team will carefully evaluate if this unique growth pattern allows for options that are not usually available for brainstem lesions."
+      }
+    },
+    {
+      "id": "glioma_074",
+      "topic": "brain_glioma",
+      "instruction": "The pathology report for my glioma mentions a 'high Ki-67 index'. What is that?",
+      "response": {
+        "finding": "Your pathology report notes a high Ki-67 index, which is a marker of how quickly the glioma cells are dividing.",
+        "explanation_and_statistic": "Ki-67 is a protein in cells that are actively dividing. A higher percentage (or index) suggests a faster-growing, more aggressive tumor, and it helps to confirm that it is a high-grade glioma. This information reinforces the need for aggressive treatment but doesn't change the type of treatment, just the urgency.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "How this marker fits with the tumor's overall grade.",
+            "Confirmation of the standard treatment plan for a high-grade glioma.",
+            "A discussion on the importance of starting treatment promptly."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the Ki-67 number the most important prognostic factor?",
+            "Does a high Ki-67 mean the tumor will be more resistant to treatment?"
+          ]
+        },
+        "closing_statement": "This is one of several molecular clues that pathologists use to build a complete profile of the tumor. It provides your team with more certainty about the tumor's behavior and reinforces their decision to proceed with a comprehensive treatment plan."
+      }
+    },
+    {
+      "id": "glioma_075",
+      "topic": "brain_glioma",
+      "instruction": "What is a 'radiation-induced glioma'? I had radiation for another cancer years ago.",
+      "response": {
+        "finding": "Given your history of therapeutic radiation, the new lesion found in the brain needs to be evaluated for a possible radiation-induced glioma.",
+        "explanation_and_statistic": "In very rare cases, radiation used to treat a previous cancer can cause a new, secondary cancer like a glioma to develop many years later. While this is a rare side effect, it's a known phenomenon that oncologists are very familiar with managing.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your original radiation treatment fields and dose.",
+            "A biopsy, which is essential for diagnosis.",
+            "A discussion on treatment options, as treating a previously irradiated area is complex."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does the previous radiation affect my current treatment options?",
+            "Are radiation-induced tumors different from spontaneous ones?"
+          ]
+        },
+        "closing_statement": "It can feel incredibly unfair to face another cancer diagnosis. Your medical team understands this and will approach your care with great sensitivity, using their expertise to navigate the complexities of your treatment history."
+      }
+    },
+    {
+      "id": "glioma_076",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows a lesion with 'pial invasion', potentially a glioma.",
+      "response": {
+        "finding": "The scan shows a lesion suspicious for a glioma that appears to have 'pial invasion,' meaning it may be attached to the brain's surface.",
+        "explanation_and_statistic": "The pia is the innermost, delicate layer covering the brain. When a tumor involves this layer, it is an important detail for a neurosurgeon, as it can affect how they approach the removal. It's a common finding in gliomas located near the brain's surface.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical plan that takes the pial involvement into account.",
+            "A discussion about whether this impacts the risk of seizure activity.",
+            "A review of high-resolution imaging to see the exact points of attachment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does invading this layer make the surgery more difficult?",
+            "What does this tell you about how the tumor is growing?"
+          ]
+        },
+        "closing_statement": "This is a key detail for surgical planning. Your surgeon will use this information to meticulously plan their approach, ensuring they can safely work around these delicate surface structures."
+      }
+    },
+    {
+      "id": "glioma_077",
+      "topic": "brain_glioma",
+      "instruction": "I have a 'residual non-enhancing' glioma on my post-op scan.",
+      "response": {
+        "finding": "Your post-operative scan shows some residual non-enhancing tumor, which is a common finding after glioma surgery.",
+        "explanation_and_statistic": "'Residual' means some is left, and 'non-enhancing' means the part that's left doesn't light up with contrast dye. This non-enhancing part represents the more diffuse, infiltrative component of the tumor that cannot be safely removed. This is exactly what follow-up radiation is designed to treat.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Starting the next phase of treatment: radiation therapy.",
+            "A discussion about chemotherapy to be given alongside radiation.",
+            "Confirmation that this finding was expected after surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If it's non-enhancing, how do we know radiation will work on it?",
+            "Is it better that the leftover part is non-enhancing?"
+          ]
+        },
+        "closing_statement": "This scan result confirms that the surgery did its job by removing the bulkiest part of the tumor. Now the plan transitions smoothly to the next stage, designed specifically to address the type of tissue that remains. This is all part of the process."
+      }
+    },
+    {
+      "id": "glioma_078",
+      "topic": "brain_glioma",
+      "instruction": "What is an 'astrocytoma'? The biopsy says it's a type of glioma.",
+      "response": {
+        "finding": "The biopsy has confirmed the lesion is an astrocytoma, which is the most common type of glioma.",
+        "explanation_and_statistic": "Astrocytomas arise from star-shaped glial cells called astrocytes, which are the most abundant cells in the brain. They are categorized by grades (from 1 to 4), and this grade is the most important factor in determining your treatment and outlook.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed review of the tumor's grade (e.g., Pilocytic Astrocytoma Grade 1, Diffuse Astrocytoma Grade 2, etc.).",
+            "A discussion of the molecular markers (like IDH status).",
+            "A treatment plan based on the specific grade and markers."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What grade is my astrocytoma?",
+            "What does the IDH status mean for my prognosis?"
+          ]
+        },
+        "closing_statement": "You now have a much more specific name for your diagnosis. This is the key that unlocks a wealth of information for your doctors, allowing them to predict its behavior and choose the most effective, evidence-based treatments for you."
+      }
+    },
+    {
+      "id": "glioma_079",
+      "topic": "brain_glioma",
+      "instruction": "My scan shows 'perineuronal satellitosis' on pathology. What does that mean for a glioma?",
+      "response": {
+        "finding": "The pathology report from your glioma biopsy notes the presence of 'perineuronal satellitosis'.",
+        "explanation_and_statistic": "This is a microscopic finding where tumor cells are seen clustered around normal brain neurons. It's a hallmark of how gliomas infiltrate brain tissue. While it sounds complex, it's a classic feature that helps the pathologist be confident in the diagnosis of a glioma.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this finding is expected for a glioma.",
+            "How this infiltrative nature informs the radiation plan.",
+            "A review of the other, more critical, molecular markers."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this finding make my glioma different or more difficult to treat?",
+            "Is this something the surgeon could see during the operation?"
+          ]
+        },
+        "closing_statement": "This is a very technical, microscopic detail that confirms what your team already suspected about the tumor's behavior. It doesn't change the plan, but rather adds another layer of certainty to the diagnosis."
+      }
+    },
+    {
+      "id": "glioma_080",
+      "topic": "brain_glioma",
+      "instruction": "What does it mean if my glioma biopsy shows 'low MIB-1' labeling?",
+      "response": {
+        "finding": "The pathology report for your glioma indicates a low MIB-1 labeling index.",
+        "explanation_and_statistic": "The MIB-1 antibody is used to measure the Ki-67 protein, which is a marker of cell division. A 'low' MIB-1 or Ki-67 index is a positive sign, suggesting the tumor is slow-growing and likely a lower grade. This is a key piece of data that points toward a better prognosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this aligns with a low-grade diagnosis.",
+            "A discussion about a less aggressive treatment or surveillance plan.",
+            "A review of the long-term outlook based on this finding."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How much does this low number impact my prognosis?",
+            "Can this number change over time?"
+          ]
+        },
+        "closing_statement": "This is a very reassuring piece of objective data from your pathology report. It provides strong evidence that the tumor is slow-growing, which gives you more options and a more favorable outlook."
+      }
+    },
+    {
+      "id": "glioma_081",
+      "topic": "brain_glioma",
+      "instruction": "The scan notes 'subtle parenchymal distortion' as a sign of possible glioma.",
+      "response": {
+        "finding": "The scan shows an area of subtle parenchymal distortion, which is a very early and nuanced sign that could indicate an underlying low-grade glioma.",
+        "explanation_and_statistic": "This means the normal architecture of the brain tissue is just slightly warped or pushed aside, without a distinct mass being visible. Spotting this requires a very high-quality scan and a sharp-eyed radiologist. Finding it at this stage is advantageous.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A 'wait and re-scan' approach to see if the distortion progresses.",
+            "A discussion of the subtle nature of the finding.",
+            "A baseline neurological exam to ensure no function is affected."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Could this distortion be from something else, like an old injury?",
+            "How will we know if it's time to do more than just watch?"
+          ]
+        },
+        "closing_statement": "This is a situation where being cautious and observant is the wisest course of action. You have the benefit of very early detection, and you can work with your team to monitor it without having to make any hasty decisions."
+      }
+    },
+    {
+      "id": "glioma_082",
+      "topic": "brain_glioma",
+      "instruction": "My scan suggests a glioma with 'significant vasogenic edema'. What does that mean for my symptoms?",
+      "response": {
+        "finding": "The scan reveals a suspected glioma that is surrounded by a significant amount of vasogenic edema, or swelling.",
+        "explanation_and_statistic": "This amount of swelling is likely the primary cause of the symptoms you are experiencing, such as headache, nausea, or neurological changes. The great news is that this swelling is very treatable with steroid medication, which can lead to a dramatic improvement in how you feel, often in just a day or two.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Starting steroid treatment immediately to relieve your symptoms.",
+            "A plan to investigate the underlying lesion once you are feeling better.",
+            "Managing the side effects of the steroids."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How soon will I feel relief from the steroids?",
+            "Is the amount of swelling related to how bad the tumor is?"
+          ]
+        },
+        "closing_statement": "Your team's first priority is to make you feel better, and they have very effective tools to manage this swelling. This will give you the comfort and clarity to face the next steps in diagnosing the lesion itself."
+      }
+    },
+    {
+      "id": "glioma_083",
+      "topic": "brain_glioma",
+      "instruction": "Explain a 'multicentric glioma' versus a 'multifocal' one.",
+      "response": {
+        "finding": "The scan shows multiple, separate lesions that could represent either a multicentric or multifocal glioma.",
+        "explanation_and_statistic": "These are technical terms to describe multiple tumors. 'Multifocal' implies they are connected by microscopic pathways, while 'multicentric' suggests they arose independently. While this distinction is of interest to researchers, it doesn't significantly change your treatment, which will be a systemic therapy (like chemotherapy or radiation) designed to treat the entire brain.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that treatment will be systemic, not surgical.",
+            "A biopsy of one of the lesions to establish a definitive diagnosis.",
+            "A discussion of the goals of whole-brain therapy."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does it matter for my prognosis if it's multicentric or multifocal?",
+            "How do you choose which lesion to biopsy?"
+          ]
+        },
+        "closing_statement": "Don't get too bogged down in the subtle terminology. The key takeaway is that the finding is in multiple locations, and therefore the treatment plan will be designed to be broad and comprehensive, addressing all the spots at once."
+      }
+    },
+    {
+      "id": "glioma_084",
+      "topic": "brain_glioma",
+      "instruction": "The pathology mentions 'microvascular proliferation' in my glioma.",
+      "response": {
+        "finding": "The pathology report on your glioma notes the presence of 'microvascular proliferation.'",
+        "explanation_and_statistic": "This is a key microscopic feature that pathologists look for. It means the tumor is creating a dense network of new, abnormal blood vessels to feed itself. It is one of the defining characteristics of a high-grade glioma (specifically, glioblastoma) and confirms the need for aggressive treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this finding corresponds to a grade 4 diagnosis.",
+            "A discussion of treatments that can target tumor blood vessels (anti-angiogenic therapy).",
+            "A review of the standard, aggressive treatment protocol."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does this finding tell us about how the tumor behaves?",
+            "Are there treatments that specifically attack these blood vessels?"
+          ]
+        },
+        "closing_statement": "This microscopic finding, while confirming a serious diagnosis, is crucial for getting it right. It gives your team complete certainty about the tumor's grade and behavior, ensuring they can move forward with the most appropriate and powerful treatment plan."
+      }
+    },
+    {
+      "id": "glioma_085",
+      "topic": "brain_glioma",
+      "instruction": "What's the difference between a 'primary' and 'secondary' glioblastoma?",
+      "response": {
+        "finding": "Your doctors will be working to determine if your glioblastoma is 'primary' or 'secondary'.",
+        "explanation_and_statistic": "A 'primary' glioblastoma arises suddenly as a grade 4 tumor, usually in older adults. A 'secondary' glioblastoma starts as a lower-grade glioma and transforms into a glioblastoma over time, usually in younger patients. They are genetically different, but the final treatment is often very similar.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your IDH gene status, which is the key differentiator.",
+            "Whether you have any past scans to see if a lower-grade tumor existed before.",
+            "How this distinction might influence long-term prognosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is one type 'better' or 'worse' to have?",
+            "Does the treatment change depending on which type it is?"
+          ]
+        },
+        "closing_statement": "This is a biological distinction that helps your team understand the history of the tumor. Regardless of the path it took, the destination is the same, and your team will confront it with the best-established treatments we have."
+      }
+    },
+    {
+      "id": "glioma_086",
+      "topic": "brain_glioma",
+      "instruction": "My scan notes 'sulcal effacement' as a possible sign of glioma.",
+      "response": {
+        "finding": "The scan shows 'sulcal effacement' in one region, a subtle sign that could indicate an underlying glioma.",
+        "explanation_and_statistic": "The brain has grooves and valleys called 'sulci'. 'Effacement' means these grooves appear flattened or pushed out, which can be caused by swelling or a slow-growing, infiltrative tumor underneath. It's a very subtle sign of mass effect.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A high-resolution MRI to get a better look at the underlying tissue.",
+            "A plan for monitoring to see if the effacement changes.",
+            "A detailed neurological exam."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How do you distinguish this from just normal variations in brain shape?",
+            "What symptoms might be caused by this kind of subtle pressure?"
+          ]
+        },
+        "closing_statement": "It's a credit to your radiologist that they noticed such a subtle change. This early-stage detection gives you the luxury of time to monitor the situation carefully and act only if it becomes necessary."
+      }
+    },
+    {
+      "id": "glioma_087",
+      "topic": "brain_glioma",
+      "instruction": "The report says 'no evidence of recurrence' for my glioma. Can I stop worrying?",
+      "response": {
+        "finding": "Your latest surveillance scan shows no evidence of recurrence of your glioma.",
+        "explanation_and_statistic": "This is wonderful news and the best possible result from a follow-up scan. It means that as of today, there are no detectable signs of the tumor. While continued monitoring is always necessary with gliomas, you can take great comfort and encouragement from this result.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Celebrating this positive milestone.",
+            "Scheduling your next follow-up scan per the standard protocol.",
+            "A discussion on transitioning to a longer-term survivorship plan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does my long-term surveillance schedule look like now?",
+            "Are there any long-term effects of my treatment I should be watching for?"
+          ]
+        },
+        "closing_statement": "Take a deep breath and enjoy this moment. Your treatment has been successful, and today's scan confirms that. You have done everything right, and you can and should feel very positive about this result."
+      }
+    },
+    {
+      "id": "glioma_088",
+      "topic": "brain_glioma",
+      "instruction": "The scan mentions a 'pineal region' mass that could be a glioma.",
+      "response": {
+        "finding": "The scan has identified a mass in the pineal region of your brain, which will require evaluation for several possibilities, including a type of glioma.",
+        "explanation_and_statistic": "The pineal region is a very small, deep, and complex area of the brain. Tumors here are rare and varied. Because of the location, they often cause hydrocephalus (fluid build-up) by blocking spinal fluid pathways.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A workup to rule out other pineal tumor types (like germ cell tumors).",
+            "A surgical plan that focuses on getting a biopsy and relieving fluid blockage.",
+            "Consultation at a major medical center with expertise in these rare tumors."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the most common tumors in this specific location?",
+            "What is your team's experience with surgery in the pineal region?"
+          ]
+        },
+        "closing_statement": "This is a rare and specialized diagnosis that requires a team of experts. The good news is that such teams exist, and you will be referred to specialists who have dedicated their careers to managing tumors in this exact location."
+      }
+    },
+    {
+      "id": "glioma_089",
+      "topic": "brain_glioma",
+      "instruction": "My glioma pathology says 'IDH-wildtype'. What does that mean?",
+      "response": {
+        "finding": "The molecular testing of your glioma shows it is 'IDH-wildtype'.",
+        "explanation_and_statistic": "IDH is a gene that is often mutated in lower-grade, slower-growing gliomas. 'Wildtype' means your tumor does *not* have this mutation, which is more typical for primary glioblastoma or gliomas that behave more aggressively. This information is critical and helps confirm a high-grade diagnosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this result aligns with a high-grade diagnosis.",
+            "A review of the standard treatment for IDH-wildtype tumors.",
+            "A discussion of clinical trials, some of which are specific to this genetic profile."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does being IDH-wildtype affect my prognosis?",
+            "Why is it 'worse' to not have the mutation?"
+          ]
+        },
+        "closing_statement": "This genetic information is a vital part of modern diagnosis. While it may confirm a more serious diagnosis, it also provides absolute clarity for your team, removing any doubt about the tumor's biology and ensuring you get the correct, most aggressive treatment from day one."
+      }
+    },
+    {
+      "id": "glioma_090",
+      "topic": "brain_glioma",
+      "instruction": "My glioma biopsy shows it is 'MGMT promoter methylated'. Is that good or bad?",
+      "response": {
+        "finding": "The molecular analysis of your glioma shows that the MGMT promoter is methylated.",
+        "explanation_and_statistic": "This is a very important and positive prognostic finding. MGMT is a gene that helps tumor cells repair themselves from damage. 'Methylated' means that gene has been silenced or turned off, making the tumor less able to repair itself and therefore much more vulnerable to certain types of chemotherapy (specifically temozolomide).",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of how this strongly supports using temozolomide chemotherapy.",
+            "A discussion about the more favorable prognosis associated with this marker.",
+            "Confirmation of your full treatment plan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How much does this improve the chances of the chemotherapy working?",
+            "Does this change the radiation part of my treatment at all?"
+          ]
+        },
+        "closing_statement": "This is excellent news from your pathology report. It's like finding out the enemy has a critical weakness that we know exactly how to exploit. This gives you and your team a significant advantage as you begin treatment."
+      }
+    },
+    {
+      "id": "glioma_091",
+      "topic": "brain_glioma",
+      "instruction": "The scan shows a 'ventricular mass' that might be a glioma.",
+      "response": {
+        "finding": "The scan reveals a mass located within one of the brain's ventricles, which will be investigated as a possible glioma or other ventricular tumor.",
+        "explanation_and_statistic": "The ventricles are the fluid-filled chambers inside the brain. Tumors that arise here are rare and have a unique set of challenges, often related to blocking the flow of spinal fluid. However, their location can sometimes make them more accessible to a neurosurgeon.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical consultation to discuss removal of the mass.",
+            "A plan to manage or prevent hydrocephalus (fluid build-up).",
+            "Tests to rule out other tumors that grow in the ventricles, like ependymomas."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the main risks of operating inside the ventricle?",
+            "What are the most common types of tumors found in this location?"
+          ]
+        },
+        "closing_statement": "The location of this mass is very specific, which allows your team to narrow down the possibilities and create a very focused plan. You will be cared for by specialists who are experts in navigating these delicate internal structures of the brain."
+      }
+    }
+  ]
+}

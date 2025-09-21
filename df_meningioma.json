@@ -1,0 +1,2279 @@
+{
+  "brain_scan_explanations": [
+    {
+      "id": "meningioma_001",
+      "topic": "brain_meningioma",
+      "instruction": "Can you explain my brain scan results? The report mentions a finding 'characteristic of a meningioma'.",
+      "response": {
+        "finding": "The scan reveals a well-defined growth on the outer lining of your brain, which is a characteristic appearance of a meningioma.",
+        "explanation_and_statistic": "A meningioma is a growth that arises from the meninges, the protective layers covering the brain, not from the brain tissue itself. It's important to know that these are the most common primary brain tumors, and the vast majority\u2014over 85%\u2014are benign (not cancerous).",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A 'watch and wait' or active surveillance approach.",
+            "A consultation with a neurosurgeon to discuss all options.",
+            "A schedule for follow-up imaging to monitor for any changes."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Given its appearance, is this likely to be slow-growing?",
+            "What symptoms, if any, should I watch for?"
+          ]
+        },
+        "closing_statement": "This is a very common type of finding, and in many cases, the best course of action is simply to keep an eye on it. Your doctor will help you make a calm, unhurried decision that is right for you."
+      }
+    },
+    {
+      "id": "meningioma_002",
+      "topic": "brain_meningioma",
+      "instruction": "I had a scan for migraines and they found an 'incidental dural-based lesion' that they think is a meningioma.",
+      "response": {
+        "finding": "Your scan showed what is called an incidental dural-based lesion, a finding that is highly consistent with a small meningioma.",
+        "explanation_and_statistic": "'Incidental' means it was found by chance and is likely unrelated to your migraines. These growths arise from the dura, the tough outer layer covering the brain. Many people have these without ever knowing, as they are often discovered during scans for other issues.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirming that observation is the standard approach for a small finding like this.",
+            "Establishing a timeline for your next follow-up scan.",
+            "A review of your overall neurological health."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the probability that this will ever need treatment?",
+            "Are there any lifestyle restrictions I should be aware of?"
+          ]
+        },
+        "closing_statement": "Finding this early by chance is a good thing. It puts you in a position of knowledge and allows you and your doctor to be proactive with a simple monitoring plan."
+      }
+    },
+    {
+      "id": "meningioma_003",
+      "topic": "brain_meningioma",
+      "instruction": "My report mentions a 'calcified convexity meningioma'. What does that mean?",
+      "response": {
+        "finding": "The scan identified a calcified growth on the upper surface of your brain, a finding that is a classic example of a convexity meningioma.",
+        "explanation_and_statistic": "A 'convexity' meningioma is one located on the curve of the brain's surface, and 'calcified' means it contains calcium deposits, often a sign it has been there for a very long time and is slow-growing. This is a very common location and presentation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The pros and cons of surgical removal versus observation.",
+            "How the location might make surgery a straightforward option if needed.",
+            "A discussion on whether treatment is needed at all given its likely slow-growing nature."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the calcification a good sign?",
+            "What are the success rates for surgery in this location?"
+          ]
+        },
+        "closing_statement": "The features seen on your scan are very reassuring and point towards a slow-growing process. You have plenty of time to discuss all the options with your care team."
+      }
+    },
+    {
+      "id": "meningioma_004",
+      "topic": "brain_meningioma",
+      "instruction": "The scan shows a large meningioma causing 'mass effect'.",
+      "response": {
+        "finding": "The analysis reveals a large meningioma that is causing 'mass effect,' meaning it is pressing on the adjacent brain tissue.",
+        "explanation_and_statistic": "While the growth itself is likely benign, its size is causing pressure on the brain, which can lead to symptoms. The primary goal of treatment in this case is to relieve that pressure. Surgical removal of meningiomas is very successful, with high rates of cure.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss removing the growth.",
+            "The use of steroid medication to reduce brain swelling before surgery.",
+            "A review of the symptoms the mass effect is causing."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How quickly do we need to act to relieve this pressure?",
+            "What is the expected recovery time after surgery?"
+          ]
+        },
+        "closing_statement": "Your scan has clearly identified the cause of your symptoms, and there is a very clear path to addressing it. Relieving the pressure from the growth should lead to a significant improvement in how you feel."
+      }
+    },
+    {
+      "id": "meningioma_005",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'parasagittal meningioma'?",
+      "response": {
+        "finding": "Your scan shows a growth consistent with a parasagittal meningioma, located near the midline at the top of your head.",
+        "explanation_and_statistic": "This means the meningioma is attached to the falx, the tough fold of tissue that runs between the right and left halves of the brain. A key concern in this location is its relationship to a large vein called the superior sagittal sinus, which your doctors will evaluate carefully.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of an MRA or MRV scan, which looks closely at blood vessels.",
+            "A surgical plan that focuses on protecting the nearby vein.",
+            "A discussion of radiation as an alternative if the vein is heavily involved."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the tumor invading or just pushing on the large vein?",
+            "What are the risks if that vein is affected?"
+          ]
+        },
+        "closing_statement": "The detailed imaging has given your team the exact information they need to plan the safest approach. Protecting the important structures nearby will be their highest priority."
+      }
+    },
+    {
+      "id": "meningioma_006",
+      "topic": "brain_meningioma",
+      "instruction": "My report mentions a 'sphenoid wing meningioma'.",
+      "response": {
+        "finding": "The scan shows a growth arising from the sphenoid wing, a ridge of bone deep in your skull, which is a classic location for a meningioma.",
+        "explanation_and_statistic": "This location is near the nerves that control vision and eye movement. Even small tumors here can cause symptoms. Fortunately, outcomes for surgery in this area have improved dramatically with modern techniques like image guidance.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed eye exam with a neuro-ophthalmologist.",
+            "Consultation with a neurosurgeon who has experience with 'skull base' tumors.",
+            "A discussion of the risks and benefits of surgery versus focused radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How close is the tumor to my optic nerve?",
+            "What approach would you use to reach a tumor in this location?"
+          ]
+        },
+        "closing_statement": "This is a complex area, but it's one that neurosurgeons are very familiar with. You will be connected with a specialist team that has the expertise to manage this delicate location safely."
+      }
+    },
+    {
+      "id": "meningioma_007",
+      "topic": "brain_meningioma",
+      "instruction": "They found a possible meningioma with a 'dural tail'. What's that?",
+      "response": {
+        "finding": "The scan shows a lesion with a 'dural tail,' a feature that strongly suggests the diagnosis of a meningioma.",
+        "explanation_and_statistic": "The 'dural tail' is a classic radiological sign where the lining of the brain (the dura) appears thickened next to the tumor, resembling a tail. It's not part of the tumor itself but is a sign of the brain's reaction to it. Seeing this sign makes your doctors very confident in the diagnosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this sign points away from more serious diagnoses.",
+            "A plan for either observation or treatment based on the tumor's size and your symptoms.",
+            "A review of the risks and benefits of your options."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the dural tail a good or bad sign to have?",
+            "Does the presence of the tail change the treatment plan?"
+          ]
+        },
+        "closing_statement": "This is a helpful, clarifying feature on your scan. It gives your doctors a high degree of confidence about what they are looking at, which makes planning the next steps much more straightforward."
+      }
+    },
+    {
+      "id": "meningioma_008",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests an 'atypical meningioma'. How is that different?",
+      "response": {
+        "finding": "The scan shows some features, such as rapid growth or less defined borders, that raise the possibility of an atypical meningioma.",
+        "explanation_and_statistic": "Most meningiomas are Grade 1 (benign). 'Atypical' corresponds to Grade 2. These are still not cancerous but have a higher chance of growing back after treatment. It's important to know that even for atypical meningiomas, treatment is often very successful.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The importance of getting a tissue sample to confirm the grade.",
+            "A discussion that surgery followed by radiation is often recommended.",
+            "A plan for more frequent follow-up scans after treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What on the scan makes you suspect it might be Grade 2?",
+            "How does the treatment plan change if it is confirmed to be atypical?"
+          ]
+        },
+        "closing_statement": "While the possibility of a higher grade can be concerning, your scan has given your doctors a warning that allows them to be more aggressive with treatment from the start. This proactive approach gives you the best chance of a successful long-term outcome."
+      }
+    },
+    {
+      "id": "meningioma_009",
+      "topic": "brain_meningioma",
+      "instruction": "What is an 'olfactory groove meningioma'?",
+      "response": {
+        "finding": "The analysis indicates a growth located at the front base of your skull consistent with an olfactory groove meningioma.",
+        "explanation_and_statistic": "This type of meningioma grows along the nerves for your sense of smell (the olfactory nerves) at the very front of the brain. It is a common location for meningiomas and they are nearly always benign. Often, the first symptom is a change in the sense of smell.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A test to formally check your sense of smell.",
+            "Consultation with a neurosurgeon to discuss surgical removal.",
+            "A discussion about how surgery might impact your sense of smell."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Can my sense of smell be saved?",
+            "What is the success rate of surgery for this specific type?"
+          ]
+        },
+        "closing_statement": "This is a very treatable condition with a high rate of surgical success. Your team will focus on a plan that removes the tumor while doing everything possible to preserve your neurological function."
+      }
+    },
+    {
+      "id": "meningioma_010",
+      "topic": "brain_meningioma",
+      "instruction": "My follow-up scan shows my meningioma is 'stable'.",
+      "response": {
+        "finding": "Your latest follow-up scan shows the previously identified meningioma is stable, with no change in size or appearance.",
+        "explanation_and_statistic": "'Stable' is the best possible news from a surveillance scan. It confirms the growth is not active and reinforces that the 'watch and wait' approach is the correct one for you. Many meningiomas will remain stable for a person's entire life.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Continuing with your current monitoring plan.",
+            "Scheduling your next scan, perhaps with a longer interval this time.",
+            "A quick review to ensure you have no new symptoms."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does a stable scan mean it will never grow?",
+            "How long do I need to keep getting follow-up scans?"
+          ]
+        },
+        "closing_statement": "This is a very reassuring result. It means you can have peace of mind that the current plan is working perfectly, and no action is needed at this time. This is a great outcome."
+      }
+    },
+    {
+      "id": "meningioma_011",
+      "topic": "brain_meningioma",
+      "instruction": "I have multiple small meningiomas. Is that common?",
+      "response": {
+        "finding": "The scan shows the presence of multiple, small dural-based nodules consistent with meningiomas.",
+        "explanation_and_statistic": "Yes, it is not uncommon for people to have more than one meningioma. This condition is called meningiomatosis. The management approach is usually the same as for a single one: if they are small and not causing symptoms, they are simply monitored over time.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan to monitor all of the spots with periodic scans.",
+            "A discussion on whether any of them are in a location that needs closer watch.",
+            "Sometimes, a possible link to a genetic condition like Neurofibromatosis Type 2 is considered."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does having more than one increase the risk in any way?",
+            "Should I be concerned about developing even more?"
+          ]
+        },
+        "closing_statement": "The plan is straightforward: we simply have a few more spots to watch. The approach remains calm and measured, focused on surveillance unless one of them shows signs of change."
+      }
+    },
+    {
+      "id": "meningioma_012",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'posterior fossa meningioma'?",
+      "response": {
+        "finding": "The scan reveals a growth in the posterior fossa, the lower compartment at the back of the skull, with features of a meningioma.",
+        "explanation_and_statistic": "The posterior fossa contains the cerebellum and brainstem, which control balance and vital functions. While this is a delicate area, meningiomas here are very treatable. The key is careful surgical planning to protect those important structures.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Consultation with a neurosurgeon with expertise in this specific region.",
+            "A detailed exam of your balance, coordination, and hearing.",
+            "A review of surgical approaches to this area."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the main risks associated with surgery in this location?",
+            "What is the likelihood of a complete recovery?"
+          ]
+        },
+        "closing_statement": "Your scan has pinpointed the issue with great precision. This allows your team to assemble the right specialists and create a meticulous plan to address the growth while prioritizing your safety."
+      }
+    },
+    {
+      "id": "meningioma_013",
+      "topic": "brain_meningioma",
+      "instruction": "The report suggests a 'foramen magnum meningioma'.",
+      "response": {
+        "finding": "The analysis shows a mass located at the foramen magnum, the opening at the base of the skull, consistent with a meningioma.",
+        "explanation_and_statistic": "This is where the brain connects to the spinal cord. It's a very complex location. Treatment requires a highly specialized team, but surgical outcomes have improved significantly with modern operating microscopes and monitoring techniques.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgical team at a major medical center.",
+            "A discussion about the specific surgical corridor they would use.",
+            "A review of potential risks to nerve function in your neck, throat, and tongue."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is your team's experience with this specific type of tumor?",
+            "What would my recovery process look like?"
+          ]
+        },
+        "closing_statement": "This is a challenging diagnosis, but you are being directed to the kind of superspecialist team that handles these rare cases. They have the specific expertise and technology to manage this delicate location."
+      }
+    },
+    {
+      "id": "meningioma_014",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows a 'recurrent meningioma' after my surgery years ago.",
+      "response": {
+        "finding": "Your new scan shows evidence of a recurrent meningioma in the area where you had a previous surgery.",
+        "explanation_and_statistic": "Recurrence means the tumor has grown back, which can happen with meningiomas, especially if it was not possible to remove every single cell during the first surgery. It's important to know there are very effective second-line treatments available.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about focused radiation (Stereotactic Radiosurgery) as a primary option.",
+            "The pros and cons of a second surgery.",
+            "A review of the pathology from your original tumor."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is radiation a better option than another surgery for me?",
+            "Is the tumor likely to be the same grade as before?"
+          ]
+        },
+        "closing_statement": "It's understandable to feel disheartened by a recurrence. However, your team has been monitoring for this, and there is a standard, well-established playbook for this exact situation. You have excellent options."
+      }
+    },
+    {
+      "id": "meningioma_015",
+      "topic": "brain_meningioma",
+      "instruction": "The scan mentions 'peritorcular' and 'tentorial' for my meningioma.",
+      "response": {
+        "finding": "The scan describes a meningioma in the peritorcular or tentorial region, a complex area deep within the back of the brain.",
+        "explanation_and_statistic": "The 'tentorium' is a shelf of tissue separating the upper and lower parts of the brain, and the 'torcular' is where major veins meet. These are challenging locations, but neurosurgeons have developed specific approaches to manage them safely, sometimes combining surgery with radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed review of your brain's venous anatomy with an MRV.",
+            "A discussion of a potential multi-stage treatment plan.",
+            "A consultation with both a neurosurgeon and a radiation oncologist."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes this location so challenging to treat?",
+            "What are the most significant risks I should be aware of?"
+          ]
+        },
+        "closing_statement": "The clarity of your scan allows your team to fully appreciate the complexity of the situation ahead of time. This enables them to assemble the right experts and create a careful, meticulous plan before taking any action."
+      }
+    },
+    {
+      "id": "meningioma_016",
+      "topic": "brain_meningioma",
+      "instruction": "What if my meningioma is 'anaplastic' or Grade 3?",
+      "response": {
+        "finding": "In the rare event a biopsy confirms an anaplastic (Grade 3) meningioma, the treatment approach would be more aggressive.",
+        "explanation_and_statistic": "Anaplastic or malignant meningiomas are the rarest type, making up only 1-3% of all cases. They are treated more like other cancers, with a combination of therapies. While this is a serious diagnosis, having a definitive grade allows doctors to use the most powerful treatments available.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for maximal surgical removal.",
+            "A course of radiation therapy after surgery.",
+            "A discussion about whether chemotherapy would be beneficial."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does this diagnosis change my long-term outlook?",
+            "Are there clinical trials for this rare type of tumor?"
+          ]
+        },
+        "closing_statement": "This is difficult news, but clarity is power. Knowing the exact nature of the tumor allows your team to move forward with a clear and aggressive plan, leaving no stone unturned to give you the best possible outcome."
+      }
+    },
+    {
+      "id": "meningioma_017",
+      "topic": "brain_meningioma",
+      "instruction": "My scan showed a 'ghost cell' meningioma.",
+      "response": {
+        "finding": "The pathology from your tumor indicates a 'ghost cell' meningioma, which is a very rare subtype.",
+        "explanation_and_statistic": "This is a technical term pathologists use to describe the appearance of the cells under a microscope. It is simply a descriptive variant and does not, by itself, change the grade or prognosis of the tumor. The tumor's grade (1, 2, or 3) remains the most important factor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation of the tumor's overall grade.",
+            "A review of the treatment plan based on that grade.",
+            "Reassurance that this rare name doesn't imply a worse outlook."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this subtype behave any differently than more common types?",
+            "What is the most important piece of information from my pathology report?"
+          ]
+        },
+        "closing_statement": "Don't be alarmed by the unusual name. It's a descriptor for the pathologist, but the important information for you is the tumor's grade, which will guide your care plan just like any other meningioma."
+      }
+    },
+    {
+      "id": "meningioma_018",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'pre-surgical embolization' for a meningioma?",
+      "response": {
+        "finding": "For your meningioma, which appears to have a rich blood supply, your doctor might discuss a pre-surgical embolization.",
+        "explanation_and_statistic": "Embolization is a procedure done by a neuroradiologist the day before surgery. They guide a tiny catheter to the arteries feeding the tumor and block them off. This can significantly reduce bleeding during surgery, making the operation safer and easier for the neurosurgeon.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with the interventional neuroradiologist who would perform the procedure.",
+            "The risks and benefits of embolization.",
+            "The logistics of scheduling the embolization and surgery back-to-back."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How much safer does this procedure make the main surgery?",
+            "What are the risks of the embolization procedure itself?"
+          ]
+        },
+        "closing_statement": "This is a perfect example of teamwork in modern medicine. By having a radiologist help prepare for the surgery, your neurosurgeon can have a safer, more controlled, and more successful operation."
+      }
+    },
+    {
+      "id": "meningioma_019",
+      "topic": "brain_meningioma",
+      "instruction": "My doctor wants to use Gamma Knife radiation for my meningioma.",
+      "response": {
+        "finding": "Given the size and location of your meningioma, your doctor is suggesting treatment with Gamma Knife, a type of Stereotactic Radiosurgery.",
+        "explanation_and_statistic": "Gamma Knife is not a real knife, but a very precise form of radiation therapy that focuses hundreds of tiny beams of radiation on the tumor in a single session. It is extremely effective for treating smaller meningiomas, with control rates exceeding 90% in many studies.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist.",
+            "The process of being fitted for the head frame.",
+            "The potential short-term and long-term side effects of the radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is Gamma Knife a better option for me than surgery?",
+            "What happens to the tumor after the radiation?"
+          ]
+        },
+        "closing_statement": "This is a powerful, non-invasive, and highly effective treatment option. It allows your team to target the tumor with incredible precision while protecting the healthy brain tissue around it."
+      }
+    },
+    {
+      "id": "meningioma_020",
+      "topic": "brain_meningioma",
+      "instruction": "I have a 'petroclival meningioma'. That sounds complicated.",
+      "response": {
+        "finding": "The scan reveals a petroclival meningioma, which is located in a very deep and central part of the skull base.",
+        "explanation_and_statistic": "This is one of the most challenging locations for a meningioma because it's surrounded by critical nerves and blood vessels. Treatment is complex and may involve a combination of surgery and radiation, requiring a highly specialized and experienced team.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Referral to a comprehensive skull base surgery center.",
+            "A discussion about the realistic goals of treatment.",
+            "A review of a multi-stage approach, potentially involving more than one surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the primary goal of surgery in this location - total removal or safe debulking?",
+            "What is the most common long-term side effect of treating a tumor here?"
+          ]
+        },
+        "closing_statement": "While this is a formidable location, it is a well-known challenge. You will be placed in the hands of a superspecialist team that has dedicated their careers to safely managing tumors in this exact spot."
+      }
+    },
+    {
+      "id": "meningioma_021",
+      "topic": "brain_meningioma",
+      "instruction": "My scan notes 'venous sinus invasion' by the meningioma.",
+      "response": {
+        "finding": "The analysis shows the meningioma is not just next to, but appears to be growing into, one of the major draining veins of the brain (a venous sinus).",
+        "explanation_and_statistic": "This is a critical detail for a surgeon. Attempting to remove a tumor from inside a major vein carries significant risk. This finding often shifts the treatment recommendation toward observation or radiation, which can control the tumor without disrupting the vein.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The pros and cons of partial surgical removal versus radiation.",
+            "A discussion about leaving the portion in the sinus and treating it with radiation.",
+            "A review of an MRV (venogram) to assess blood flow."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the vein completely blocked or just partially involved?",
+            "What are the risks of leaving part of the tumor behind?"
+          ]
+        },
+        "closing_statement": "This information is vital for ensuring your safety. It allows your surgeon to make a wise decision and avoid unnecessary risks, shifting the plan to other effective treatments like radiation. This is a sign of a careful and thoughtful approach."
+      }
+    },
+    {
+      "id": "meningioma_022",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'spinal meningioma'?",
+      "response": {
+        "finding": "Your scan shows a well-defined lesion on the lining of your spinal cord that is characteristic of a spinal meningioma.",
+        "explanation_and_statistic": "Meningiomas can also grow on the meninges that cover the spinal cord. Like those in the brain, they are almost always benign and slow-growing. They cause symptoms by pressing on the spinal cord or nerve roots.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon who specializes in spine surgery.",
+            "A discussion on how surgery can relieve the pressure on your spinal cord.",
+            "A review of the symptoms, such as pain, numbness, or weakness."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is surgery the only option for a spinal meningioma?",
+            "What is the recovery like after this type of spine surgery?"
+          ]
+        },
+        "closing_statement": "The good news is that spinal meningiomas are typically very treatable with surgery, and most patients experience a significant improvement in their symptoms once the pressure is removed."
+      }
+    },
+    {
+      "id": "meningioma_023",
+      "topic": "brain_meningioma",
+      "instruction": "The scan mentions my meningioma has 'cystic changes'.",
+      "response": {
+        "finding": "The scan shows that your meningioma has some cystic changes, meaning there are fluid-filled pockets within it.",
+        "explanation_and_statistic": "While most meningiomas are solid, some can have cystic components. This is a descriptive finding and doesn't necessarily change the nature of the tumor, but it is helpful information for a surgeon when planning their approach.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on how this might affect the surgical plan.",
+            "Confirmation that this doesn't automatically mean it's a higher grade.",
+            "A review of the solid portions of the tumor, which are the most important."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does having cysts make the tumor more complicated to remove?",
+            "What causes fluid to build up inside the tumor?"
+          ]
+        },
+        "closing_statement": "This is a structural detail that helps your surgeon prepare. The fundamental plan\u2014to observe or treat based on size and symptoms\u2014remains the same. Your team will just have a more detailed map."
+      }
+    },
+    {
+      "id": "meningioma_024",
+      "topic": "brain_meningioma",
+      "instruction": "My pathology report says 'transitional meningioma'.",
+      "response": {
+        "finding": "The pathology from your tumor has classified it as a 'transitional meningioma'.",
+        "explanation_and_statistic": "This is a term for a very common subtype of Grade 1 meningioma where the cells have features of two other subtypes (meningothelial and fibroblastic). It's simply a microscopic descriptor and is considered a standard, benign meningioma with an excellent prognosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a Grade 1, benign finding.",
+            "A discussion of the follow-up plan after surgery.",
+            "Reassurance that this name doesn't imply anything unusual or worrisome."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is there any significance at all to this subtype?",
+            "What is my risk of recurrence with this type?"
+          ]
+        },
+        "closing_statement": "You have a definitive, benign diagnosis. The specific subtype name is for the pathologists' classification, but the message for you is a reassuring one. You can be very confident in the positive outcome."
+      }
+    },
+    {
+      "id": "meningioma_025",
+      "topic": "brain_meningioma",
+      "instruction": "Scan shows a 'cavernous sinus meningioma'.",
+      "response": {
+        "finding": "The analysis shows a mass in the cavernous sinus, a complex space on the side of your pituitary gland, consistent with a meningioma.",
+        "explanation_and_statistic": "The cavernous sinus is a small area packed with critical nerves for eye movement and major arteries. Because of this, surgery is very risky and rarely attempted. The standard of care for these tumors is highly focused radiation, which has excellent long-term control rates.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist to discuss Stereotactic Radiosurgery.",
+            "A baseline exam by a neuro-ophthalmologist.",
+            "A discussion about why observation might be an option if you have no symptoms."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is surgery not a good option for this location?",
+            "What are the risks of radiation to the nerves in that area?"
+          ]
+        },
+        "closing_statement": "While this is an inoperable location, it's important to know there is a very effective, non-invasive treatment available. Your care will be managed by a team that specializes in radiation for this exact purpose."
+      }
+    },
+    {
+      "id": "meningioma_026",
+      "topic": "brain_meningioma",
+      "instruction": "I'm pregnant and they found a meningioma. What do I do?",
+      "response": {
+        "finding": "During your pregnancy, a scan has revealed a finding consistent with a meningioma.",
+        "explanation_and_statistic": "Meningiomas can sometimes grow faster during pregnancy due to hormonal changes. The management plan will be a careful collaboration between your neurosurgeon and your obstetrician to ensure the safety of both you and your baby.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan to monitor your symptoms and the tumor's size during pregnancy.",
+            "A discussion about the safest time to treat it (often, after delivery).",
+            "Use of medication if you develop symptoms from swelling."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the risk to my baby?",
+            "What symptoms would be a sign that we need to act before delivery?"
+          ]
+        },
+        "closing_statement": "You will have two sets of experts looking after you. The most common and safest approach is to monitor you closely and then create a treatment plan after your baby is safely delivered. Your health and your baby's health are equal priorities."
+      }
+    },
+    {
+      "id": "meningioma_027",
+      "topic": "brain_meningioma",
+      "instruction": "Post-op scan says 'gross total resection' of my meningioma.",
+      "response": {
+        "finding": "Your post-operative scan shows a 'gross total resection' of the meningioma.",
+        "explanation_and_statistic": "This is the best possible surgical outcome. It means that based on what the surgeon could see and what the scan shows, 100% of the visible tumor was removed. For benign (Grade 1) meningiomas, this is often considered a cure.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the very low chance of recurrence.",
+            "A plan for long-term surveillance with less frequent MRI scans.",
+            "A review of your recovery from the surgery."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What does 'gross total' mean versus 'microscopic'?",
+            "Do I need any other treatment now?"
+          ]
+        },
+        "closing_statement": "Congratulations on a successful surgery and an excellent result. You can be very optimistic about your future and feel confident that you have achieved the best possible outcome."
+      }
+    },
+    {
+      "id": "meningioma_028",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests an 'intraventricular meningioma'.",
+      "response": {
+        "finding": "The scan reveals a mass growing inside one of the brain's ventricles (fluid spaces), which has the classic appearance of an intraventricular meningioma.",
+        "explanation_and_statistic": "While most meningiomas grow on the outer surface, this rare type grows from a tissue called the choroid plexus inside the ventricle. They are almost always benign and can often be removed completely with surgery.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical consultation to discuss removal.",
+            "A discussion on the risk of hydrocephalus (fluid build-up).",
+            "A review of surgical approaches to access the ventricles."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the challenges of operating inside the ventricle?",
+            "What is the likelihood of curing it with surgery?"
+          ]
+        },
+        "closing_statement": "This is a rare but very treatable location for a meningioma. You will be referred to a skilled neurosurgeon who can navigate into these deep spaces and remove the growth effectively."
+      }
+    },
+    {
+      "id": "meningioma_029",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology report mentioned 'brain invasion' for my meningioma.",
+      "response": {
+        "finding": "The pathology report from your surgery notes that the meningioma showed signs of 'brain invasion' at the microscopic level.",
+        "explanation_and_statistic": "This is a key finding under the microscope. Even if a meningioma looks benign otherwise, any evidence of it invading the brain tissue automatically classifies it as an atypical (Grade 2) meningioma. This information is crucial as it indicates a higher risk of recurrence.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A strong recommendation for radiation therapy after your surgery.",
+            "A plan for closer follow-up with more frequent MRI scans.",
+            "Confirmation of the new, more accurate diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this mean it's cancer?",
+            "How much does radiation reduce the risk of it coming back?"
+          ]
+        },
+        "closing_statement": "The pathology report has given your team a vital piece of information that was impossible to know from the scan alone. This allows them to adjust your treatment plan to be more comprehensive, giving you the best defense against a possible recurrence."
+      }
+    },
+    {
+      "id": "meningioma_030",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'secretory meningioma'?",
+      "response": {
+        "finding": "The final pathology has identified your tumor as a 'secretory meningioma', a specific subtype.",
+        "explanation_and_statistic": "This is a benign (Grade 1) subtype known for causing a significant amount of swelling (edema) in the brain around it. The name comes from protein deposits the cells 'secrete'. The key takeaway is that it is benign, and the swelling typically resolves completely after the tumor is removed.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan to taper off your steroid medication.",
+            "Confirmation of the benign diagnosis and excellent prognosis.",
+            "A schedule for routine follow-up imaging."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why did this type cause so much swelling compared to others?",
+            "Is my risk of recurrence any different with this subtype?"
+          ]
+        },
+        "closing_statement": "This diagnosis neatly explains the significant symptoms you may have had from swelling. You can be very reassured that the cause was a benign process and that the prognosis is excellent."
+      }
+    },
+    {
+      "id": "meningioma_031",
+      "topic": "brain_meningioma",
+      "instruction": "Scan shows 'en plaque' meningioma.",
+      "response": {
+        "finding": "The scan demonstrates a growth pattern described as 'en plaque', which is a specific form of meningioma.",
+        "explanation_and_statistic": "'En plaque' means the tumor is growing as a flat, carpet-like sheet along the brain's lining (the dura), rather than a round ball. This growth pattern can make complete surgical removal challenging.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on the goals of surgery - is complete removal possible?",
+            "The role of radiation therapy, either instead of or after surgery.",
+            "A plan to manage any bone thickening (hyperostosis) the tumor has caused."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why does it grow in a sheet instead of a ball?",
+            "What is the best way to treat a tumor with this shape?"
+          ]
+        },
+        "closing_statement": "The specific shape of this growth is a key factor in planning. Your team will have a nuanced discussion with you about the best way to manage this pattern, weighing the benefits of different treatments."
+      }
+    },
+    {
+      "id": "meningioma_032",
+      "topic": "brain_meningioma",
+      "instruction": "I have an 'optic nerve sheath meningioma'.",
+      "response": {
+        "finding": "The scan shows a lesion encasing your optic nerve, which is characteristic of an optic nerve sheath meningioma.",
+        "explanation_and_statistic": "This is a rare meningioma that grows from the lining around the optic nerve itself. The primary concern is not the tumor, which is almost always benign, but the threat it poses to your vision by squeezing the nerve. Treatment is focused on preserving sight.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An urgent and detailed evaluation by a neuro-ophthalmologist.",
+            "A discussion about radiation therapy as the primary treatment.",
+            "A review of why surgery is often avoided to prevent damaging the nerve."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the current state of my vision in that eye?",
+            "What is the success rate of radiation for saving vision?"
+          ]
+        },
+        "closing_statement": "This is a delicate situation where the priority has a laser focus: protecting your vision. Your team will move quickly to get the best assessment of your eye health and initiate treatment designed to preserve it."
+      }
+    },
+    {
+      "id": "meningioma_033",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows 'hyperostosis' from a meningioma.",
+      "response": {
+        "finding": "In addition to the meningioma, the scan shows an area of 'hyperostosis,' which is a thickening of the skull bone adjacent to the tumor.",
+        "explanation_and_statistic": "This is a very common reaction of the skull bone to a slow-growing meningioma next to it. It's not a sign of the tumor being cancerous, but rather a sign it has been there a long time. The surgeon will need to address this thickened bone during surgery.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A surgical plan that includes drilling away the thickened bone.",
+            "A discussion on how the bone may be reconstructed (cranioplasty).",
+            "A review of a CT scan, which shows the bone in better detail."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does the bone need to be removed?",
+            "Are there tumor cells in the bone?"
+          ]
+        },
+        "closing_statement": "This finding is another piece of the puzzle that helps your surgeon plan the most complete and successful operation. Addressing the reactive bone change is a standard part of the procedure."
+      }
+    },
+    {
+      "id": "meningioma_034",
+      "topic": "brain_meningioma",
+      "instruction": "My meningioma has 'peritumoral edema'. What's that?",
+      "response": {
+        "finding": "The scan shows your meningioma is surrounded by 'peritumoral edema,' which is a zone of swelling in the brain tissue next to it.",
+        "explanation_and_statistic": "'Peri' means around, so this is swelling around the tumor. Some meningiomas cause more swelling than others, and it can be the source of your symptoms. This swelling responds very well to steroid medications.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The use of steroids (like dexamethasone) to reduce the swelling.",
+            "A discussion that the swelling will resolve after the tumor is treated.",
+            "A plan for surgery or radiation to address the source of the problem."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is my meningioma causing so much swelling?",
+            "Will I feel better once the swelling goes down?"
+          ]
+        },
+        "closing_statement": "Your team has a clear target: the swelling that is causing your symptoms. They can give you medication to help you feel better quickly while you and your doctor decide on the best way to treat the tumor itself."
+      }
+    },
+    {
+      "id": "meningioma_035",
+      "topic": "brain_meningioma",
+      "instruction": "Post-radiation scan for my meningioma shows 'no change'. Is that good?",
+      "response": {
+        "finding": "Your follow-up scan after radiation therapy shows the meningioma has not changed in size.",
+        "explanation_and_statistic": "Yes, this is an excellent result. The goal of radiation for a benign tumor like a meningioma is not to make it vanish, but to stop its growth permanently. A stable, unchanged tumor on a scan is the definition of successful treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that the radiation was successful.",
+            "A plan for long-term, less frequent monitoring.",
+            "A discussion of any late effects of radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Will the tumor ever shrink or will it always stay this size?",
+            "What is the chance of it ever growing again after this treatment?"
+          ]
+        },
+        "closing_statement": "Congratulations on completing your treatment. This stable scan is the proof that it worked as planned. You can be confident that the growth has been controlled."
+      }
+    },
+    {
+      "id": "meningioma_036",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology mentioned 'psammoma bodies' in my meningioma.",
+      "response": {
+        "finding": "The pathology report for your tumor notes the presence of numerous 'psammoma bodies'.",
+        "explanation_and_statistic": "Psammoma bodies are microscopic, layered balls of calcium that are a hallmark feature of meningiomas. Finding them helps the pathologist be 100% certain of the diagnosis. They are strongly associated with benign, slow-growing tumors.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a classic feature of a benign meningioma.",
+            "A review of your excellent long-term prognosis.",
+            "A standard follow-up plan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What do these calcium balls mean?",
+            "Is this the most reassuring feature on my pathology report?"
+          ]
+        },
+        "closing_statement": "This is a very positive microscopic finding that strongly supports your diagnosis of a benign meningioma. It is one of the classic clues that tells your team you are dealing with a standard, very treatable condition."
+      }
+    },
+    {
+      "id": "meningioma_037",
+      "topic": "brain_meningioma",
+      "instruction": "Can a CT scan diagnose a meningioma?",
+      "response": {
+        "finding": "Your CT scan shows a brightly enhancing, well-defined mass on the brain's surface, which is highly suspicious for a meningioma.",
+        "explanation_and_statistic": "Yes, meningiomas have a very classic appearance on CT scans, often appearing bright and sometimes showing calcification. While an MRI is usually done to get more detail, a CT scan can often make the diagnosis with a high degree of confidence.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "The next step of getting an MRI for better surgical planning.",
+            "A discussion of your options, which remain the same (observation, surgery, or radiation).",
+            "A referral to a neurosurgeon for consultation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why do I need an MRI if the CT is so clear?",
+            "What specific extra information will the MRI provide?"
+          ]
+        },
+        "closing_statement": "The CT scan has given your team a very clear initial diagnosis. The next steps are about refining that picture and gathering all the details needed to help you choose the best path forward."
+      }
+    },
+    {
+      "id": "meningioma_038",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests a meningioma, but the report says 'biopsy may be warranted'. I thought they were benign.",
+      "response": {
+        "finding": "While the scan shows a lesion with the typical appearance of a meningioma, the report notes a biopsy may be warranted due to some slightly unusual features.",
+        "explanation_and_statistic": "While over 85% are benign, a small fraction can be higher grade (atypical or malignant). If a scan shows features like very rapid growth, unclear borders, or significant swelling, your doctor may want a tissue sample to be absolutely certain of the grade before deciding on the best treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the specific features that are making the radiologist cautious.",
+            "The risks and benefits of a biopsy versus proceeding with treatment.",
+            "A discussion about how a biopsy result would change the plan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the likelihood this is a higher-grade tumor?",
+            "Can we treat it and only find out the grade after it's removed?"
+          ]
+        },
+        "closing_statement": "This recommendation is a sign of a very careful and thorough approach. Your team wants to have all possible information so they can advise you on a plan that is perfectly matched to the tumor's specific biology."
+      }
+    },
+    {
+      "id": "meningioma_039",
+      "topic": "brain_meningioma",
+      "instruction": "Post-op scan says 'subtotal resection' of my meningioma.",
+      "response": {
+        "finding": "The post-operative scan indicates a 'subtotal resection,' meaning a small, visible portion of the meningioma was intentionally left behind.",
+        "explanation_and_statistic": "This is a very common and often wise surgical decision. It means the tumor was stuck to a critical structure, like a nerve or major blood vessel, and your surgeon chose to leave a small piece behind to avoid causing a neurological injury. This is a sign of a safe and experienced surgeon.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist to treat the small remaining piece.",
+            "A review of the surgical report and where the residual tumor is located.",
+            "Confirmation that this was the safest approach for you."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What structure was the tumor stuck to?",
+            "What is the success rate for treating the leftover piece with radiation?"
+          ]
+        },
+        "closing_statement": "Your surgeon prioritized your safety and function above all else, which is the mark of excellent care. The plan was always a two-stage process, and now you can move on to the second stage to treat the small remnant non-invasively."
+      }
+    },
+    {
+      "id": "meningioma_040",
+      "topic": "brain_meningioma",
+      "instruction": "My meningioma has 'homogenous enhancement'. What does that mean?",
+      "response": {
+        "finding": "Your scan shows the suspected meningioma has 'homogenous enhancement,' which is a very typical feature.",
+        "explanation_and_statistic": "This is a radiological term meaning that when you received the contrast dye, the entire tumor lit up brightly and uniformly. This is a classic, reassuring sign of a standard, benign meningioma and makes the diagnosis more certain.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a classic, reassuring sign.",
+            "A review of your options (observation vs. treatment) based on size/symptoms.",
+            "A consultation with a neurosurgeon to discuss the finding."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What would it mean if it didn't enhance this way?",
+            "Does this feature tell us anything about how fast it's growing?"
+          ]
+        },
+        "closing_statement": "This is a positive technical detail in your report. It increases your doctor's confidence that you are dealing with a standard, run-of-the-mill meningioma, which is a very manageable condition."
+      }
+    },
+    {
+      "id": "meningioma_041",
+      "topic": "brain_meningioma",
+      "instruction": "Can a person have a meningioma and a glioma at the same time?",
+      "response": {
+        "finding": "In very rare situations, scans can show multiple tumors with different characteristics, raising the possibility of more than one tumor type, like a meningioma and a glioma.",
+        "explanation_and_statistic": "Having two different types of primary brain tumors at the same time is extremely rare, but not impossible. It often occurs in the setting of certain genetic syndromes. The management would require a very careful, individualized plan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A biopsy of both lesions, if safe, to confirm the diagnoses.",
+            "A consultation with a genetic counselor.",
+            "A treatment plan that prioritizes the more aggressive lesion first."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How do you approach treatment when there are two different problems?",
+            "What is the likelihood that I have a genetic syndrome?"
+          ]
+        },
+        "closing_statement": "This is a very complex and rare situation that will be managed at a major academic medical center. You will have a large team of experts collaborating to create a unique care plan just for you."
+      }
+    },
+    {
+      "id": "meningioma_042",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology says I have a 'fibroblastic meningioma'.",
+      "response": {
+        "finding": "The pathology results have identified your tumor as a 'fibroblastic meningioma'.",
+        "explanation_and_statistic": "This is a common, benign (Grade 1) subtype of meningioma that is named for its firm, fibrous texture under the microscope. It is treated exactly like other Grade 1 meningiomas and carries the same excellent prognosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a benign finding.",
+            "A discussion of your post-operative recovery and follow-up plan.",
+            "Reassurance that this is a standard and favorable diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does the 'fibrous' nature make it harder to remove?",
+            "Is my risk of recurrence different with this subtype?"
+          ]
+        },
+        "closing_statement": "You have a definitive, benign diagnosis with a name that simply describes its texture. The message for you is a positive one, and you can be confident in your excellent outlook."
+      }
+    },
+    {
+      "id": "meningioma_043",
+      "topic": "brain_meningioma",
+      "instruction": "Can a meningioma cause seizures?",
+      "response": {
+        "finding": "The scan has identified a meningioma located on the surface of your brain, which could be the source of your seizure activity.",
+        "explanation_and_statistic": "Yes, meningiomas are a common cause of new seizures in adults. By pressing on and irritating the surface of the brain (the cortex), they can trigger abnormal electrical activity. The good news is that treating the meningioma often leads to a significant improvement or resolution of the seizures.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Starting an anti-seizure medication to prevent further events.",
+            "A discussion about how removing the tumor could stop the seizures.",
+            "A consultation with an epileptologist (a seizure specialist)."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "If the tumor is removed, can I stop the seizure medication?",
+            "What is the chance the seizures will stop after surgery?"
+          ]
+        },
+        "closing_statement": "While a seizure is a frightening event, it has led you to a clear and treatable cause. Your team can now work on two fronts: controlling the seizures with medication while planning the best way to treat the tumor itself."
+      }
+    },
+    {
+      "id": "meningioma_044",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests a 'radiation-induced meningioma'.",
+      "response": {
+        "finding": "Given your history of prior radiation to your head, the new finding is suspicious for a radiation-induced meningioma.",
+        "explanation_and_statistic": "This is a known, though rare, long-term side effect of therapeutic radiation. These meningiomas can sometimes be more aggressive than spontaneous ones. The key is that your team is aware of this possibility from the start.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your prior radiation records.",
+            "A plan for surgical removal.",
+            "A discussion about the possibility that the tumor could be a higher grade."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How does the prior radiation affect the safety of a new surgery?",
+            "Are there any non-surgical options?"
+          ]
+        },
+        "closing_statement": "Your past medical history provides a critical context for this new finding. Your team will approach this with a heightened sense of caution and a comprehensive plan tailored to your unique situation."
+      }
+    },
+    {
+      "id": "meningioma_045",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'rhabdoid meningioma'?",
+      "response": {
+        "finding": "The pathology from the tumor has identified it as a 'rhabdoid meningioma'.",
+        "explanation_and_statistic": "This is a rare and aggressive subtype of meningioma that is automatically classified as Grade 3 (malignant). The name refers to the specific appearance of the cells. This diagnosis means your team will recommend the most aggressive treatment possible.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for maximal surgery followed by radiation therapy.",
+            "A discussion of potential chemotherapy or clinical trial options.",
+            "A referral to a major neuro-oncology center with experience in rare tumors."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes this subtype so aggressive?",
+            "What is the standard of care for this specific diagnosis?"
+          ]
+        },
+        "closing_statement": "Receiving a rare and serious diagnosis is very difficult. The one advantage you have is a clear diagnosis. Your team knows exactly what they are fighting and can bring the most powerful treatments to bear from the very beginning. You will have a dedicated team supporting you."
+      }
+    },
+    {
+      "id": "meningioma_046",
+      "topic": "brain_meningioma",
+      "instruction": "Can a meningioma go away on its own?",
+      "response": {
+        "finding": "Your scan shows a small lesion on the brain's lining, consistent with a meningioma, which will be monitored.",
+        "explanation_and_statistic": "Meningiomas do not go away on their own. However, many are so slow-growing that they never cause a problem or require any treatment in a person's lifetime. For these, a plan of 'watchful waiting' is the standard and safest approach.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirming the plan is to monitor with periodic scans.",
+            "A discussion about the extremely low likelihood of it causing problems.",
+            "A review of the reasons not to pursue unnecessary treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the definition of 'growth' that would make you want to treat it?",
+            "Can I live a completely normal life while we watch this?"
+          ]
+        },
+        "closing_statement": "The best approach for many of these is to acknowledge it's there and then safely ignore it with your doctor's supervision. You can have peace of mind knowing that no action is the right action for now."
+      }
+    },
+    {
+      "id": "meningioma_047",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows a 'clival meningioma'.",
+      "response": {
+        "finding": "The scan reveals a growth originating from the clivus, a bone deep in the center of the skull base, consistent with a clival meningioma.",
+        "explanation_and_statistic": "This is a very challenging location, as the clivus is surrounded by the brainstem and numerous critical nerves and arteries. Treatment is highly complex and requires a multidisciplinary team of skull base surgeons and radiation oncologists.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Referral to a specialized center for skull base surgery.",
+            "A discussion of the potential treatment approaches, including difficult surgery or radiation.",
+            "A detailed review of the risks to nearby cranial nerves."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the primary goal of treatment in such a difficult location?",
+            "What kind of team would be involved in my surgery?"
+          ]
+        },
+        "closing_statement": "This is a rare tumor that requires the highest level of surgical and medical expertise. You are being connected with a team that has the specific skills and technology required to manage these complex cases."
+      }
+    },
+    {
+      "id": "meningioma_048",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology mentions 'WHO Grade I' for my meningioma.",
+      "response": {
+        "finding": "The final pathology report has confirmed your tumor is a World Health Organization (WHO) Grade 1 meningioma.",
+        "explanation_and_statistic": "This is the best possible news. WHO Grade 1 is the official classification for a benign meningioma. It means the tumor is slow-growing, not cancerous, and has a very low risk of coming back after it has been fully removed.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A celebration of this definitive, benign diagnosis.",
+            "A discussion about your excellent long-term prognosis.",
+            "A plan for routine, long-term follow-up scans."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Now that we know it's Grade 1, what is the chance of it recurring?",
+            "What does my follow-up schedule look like?"
+          ]
+        },
+        "closing_statement": "You can be incredibly reassured by this diagnosis. You have the most common and least aggressive form of this tumor, and your outlook is excellent. This is wonderful news."
+      }
+    },
+    {
+      "id": "meningioma_049",
+      "topic": "brain_meningioma",
+      "instruction": "Pathology says 'WHO Grade II' meningioma.",
+      "response": {
+        "finding": "The pathology report has classified your tumor as a World Health Organization (WHO) Grade 2, or atypical, meningioma.",
+        "explanation_and_statistic": "This means that while the tumor is not malignant (cancerous), its cells show a higher rate of growth than a Grade 1 tumor. This gives it a higher chance of recurring over time. Because of this, your team will likely recommend additional treatment after surgery.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist.",
+            "A discussion about the benefits of post-operative radiation to prevent recurrence.",
+            "A schedule for closer follow-up with more frequent MRIs."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How much does radiation decrease the risk of recurrence?",
+            "What were the specific features that made it Grade 2?"
+          ]
+        },
+        "closing_statement": "This diagnosis gives your team the critical information they need to be proactive. By recommending additional treatment now, they are doing everything possible to give you the best chance of a long-term cure and prevent the tumor from coming back."
+      }
+    },
+    {
+      "id": "meningioma_050",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'WHO Grade III' meningioma?",
+      "response": {
+        "finding": "The pathology has confirmed the tumor is a World Health Organization (WHO) Grade 3, also known as an anaplastic or malignant meningioma.",
+        "explanation_and_statistic": "This is the rarest and most aggressive type of meningioma (1-3% of cases). It is considered a cancerous tumor with a high likelihood of recurrence. The treatment plan will be aggressive and involve multiple types of therapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for surgery followed by a full course of radiation.",
+            "A discussion about the role of chemotherapy or other systemic drugs.",
+            "The importance of being treated at a major neuro-oncology center."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes this type malignant?",
+            "What is the most effective treatment protocol for Grade 3?"
+          ]
+        },
+        "closing_statement": "This is a serious and challenging diagnosis. Your team will approach it with the urgency and aggressiveness it deserves, using every tool available. You will have a large team of specialists dedicated to your care."
+      }
+    },
+    {
+      "id": "meningioma_051",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows a tiny 'extra-axial' lesion, maybe a meningioma.",
+      "response": {
+        "finding": "The scan identified a tiny 'extra-axial' lesion, which is a finding consistent with a small meningioma.",
+        "explanation_and_statistic": "'Extra-axial' is a radiological term meaning 'outside the brain tissue,' which is exactly where meningiomas grow\u2014from the brain's coverings. This term essentially confirms it's not growing from the brain itself, which is a reassuring feature.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirming a 'watch and wait' approach is appropriate.",
+            "Establishing a baseline for future comparison scans.",
+            "Reviewing any potential (but unlikely) symptoms to look for."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the difference between an 'extra-axial' and 'intra-axial' lesion?",
+            "How often should this be monitored?"
+          ]
+        },
+        "closing_statement": "The terminology in the report helps your doctor classify the finding, and in this case, it's reassuring. The plan will almost certainly be one of watchful waiting, allowing you to go about your life with just periodic check-ins."
+      }
+    },
+    {
+      "id": "meningioma_052",
+      "topic": "brain_meningioma",
+      "instruction": "I lost my sense of smell, and the scan showed an 'olfactory groove meningioma'.",
+      "response": {
+        "finding": "The scan has revealed a growth consistent with an olfactory groove meningioma, which appears to be the cause of your loss of smell.",
+        "explanation_and_statistic": "This type of meningioma grows right where the nerves for smell enter the skull. It's very common for the first and only symptom to be a change in your ability to smell. These are almost always benign and highly treatable with surgery.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a neurosurgeon to discuss removal.",
+            "A discussion on the likelihood of your sense of smell returning.",
+            "A formal smell test to document your current function."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance that surgery will bring back my sense of smell?",
+            "Are there any other risks with surgery in this location?"
+          ]
+        },
+        "closing_statement": "It's good that you now have a clear explanation for your symptom. This is a very treatable condition, and you can now have a focused conversation with a surgeon about the path to resolving it."
+      }
+    },
+    {
+      "id": "meningioma_053",
+      "topic": "brain_meningioma",
+      "instruction": "My pathology mentions a 'meningothelial meningioma'.",
+      "response": {
+        "finding": "The final pathology from your tumor has identified it as a 'meningothelial meningioma'.",
+        "explanation_and_statistic": "This is another very common, standard subtype of benign (Grade 1) meningioma. The name simply describes the way the cells are arranged in clusters. It is considered a routine finding and carries an excellent prognosis.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a Grade 1, non-cancerous tumor.",
+            "A review of your follow-up plan.",
+            "Reassurance that this is a very favorable diagnosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is this subtype different in any way from the 'fibroblastic' or 'transitional' types?",
+            "What is the expected long-term outcome?"
+          ]
+        },
+        "closing_statement": "You have a definitive, benign diagnosis. The specific name is for the pathologist's records, but the message for you is one of reassurance. You can feel very positive about this outcome."
+      }
+    },
+    {
+      "id": "meningioma_054",
+      "topic": "brain_meningioma",
+      "instruction": "The scan shows a 'recurrent atypical meningioma'.",
+      "response": {
+        "finding": "Your latest scan shows a recurrence of the tumor, which was previously identified as an atypical (Grade 2) meningioma.",
+        "explanation_and_statistic": "Atypical meningiomas have a known risk of recurrence, even after treatment. Discovering this recurrence is a clear signal to begin the next line of therapy. There are still excellent options available to control the tumor's growth.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about a second surgery versus radiation therapy.",
+            "A review of whether radiation was used after your first surgery.",
+            "The potential role for clinical trials or newer systemic therapies."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the tumor likely to be more aggressive this time?",
+            "What is the best course of action now?"
+          ]
+        },
+        "closing_statement": "It is frustrating to face this again. However, your team has been monitoring you for exactly this reason, and they have a plan ready. You have strong options to treat this recurrence effectively."
+      }
+    },
+    {
+      "id": "meningioma_055",
+      "topic": "brain_meningioma",
+      "instruction": "The doctor is considering 'fractionated stereotactic radiotherapy' for my meningioma.",
+      "response": {
+        "finding": "For your meningioma, which is located near a critical structure like the optic nerve, fractionated stereotactic radiotherapy is being considered.",
+        "explanation_and_statistic": "This is a form of highly precise radiation that is delivered in multiple smaller doses ('fractions') over several days or weeks, instead of one large dose. This approach is gentler on nearby sensitive tissues, like nerves, while still being highly effective at controlling the tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a radiation oncologist.",
+            "The process of creating a custom mask and treatment plan.",
+            "The schedule of treatments and potential side effects."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is giving the radiation in smaller doses safer for me?",
+            "Is this method as effective as single-dose radiosurgery?"
+          ]
+        },
+        "closing_statement": "This approach is a perfect example of how treatment is tailored to your specific anatomy. It allows your team to effectively control the tumor while taking every precaution to protect your important neurological functions."
+      }
+    },
+    {
+      "id": "meningioma_056",
+      "topic": "brain_meningioma",
+      "instruction": "I have headaches and the scan shows a 'small meningioma'. Are they related?",
+      "response": {
+        "finding": "The scan identified a small meningioma, and your doctor will work with you to determine if it could be the cause of your headaches.",
+        "explanation_and_statistic": "While meningiomas can cause headaches, it is very rare for a small one to be the cause. Headaches are extremely common from other causes like tension or migraines. Your doctor will likely want to rule out other, more common sources of your headaches first.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed review of your headache symptoms (timing, location, type of pain).",
+            "A plan to manage the headaches separately from the meningioma.",
+            "A strategy of observing the meningioma, as it is likely an incidental finding."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes you think the headaches are (or are not) from the meningioma?",
+            "Can we treat the headaches first and see if they get better?"
+          ]
+        },
+        "closing_statement": "The scan has given us two separate pieces of information. The most likely scenario is that you have a common headache syndrome and, separately, a common and benign incidental finding. Your team will help you address both appropriately."
+      }
+    },
+    {
+      "id": "meningioma_057",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests a 'Tuberculum sellae meningioma'.",
+      "response": {
+        "finding": "The scan indicates a growth on the tuberculum sellae, a small ridge of bone above the pituitary gland, which is a classic site for a meningioma.",
+        "explanation_and_statistic": "This location is directly below the optic nerves as they cross. Therefore, these tumors often present with vision loss. Surgical removal is the primary treatment, and surgeons often use a minimally invasive approach through the nose (endonasal) or eyebrow to remove them.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed visual field exam to map any vision loss.",
+            "A consultation with a skull base surgery team, which may include an ENT surgeon.",
+            "A discussion of different surgical approaches."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance of my vision improving after surgery?",
+            "What are the benefits of a minimally invasive approach?"
+          ]
+        },
+        "closing_statement": "This is a well-known surgical challenge with well-established solutions. You will be cared for by a team that specializes in these precise, minimally invasive techniques to remove the tumor and decompress your optic nerves."
+      }
+    },
+    {
+      "id": "meningioma_058",
+      "topic": "brain_meningioma",
+      "instruction": "Pathology shows a 'clear cell meningioma'.",
+      "response": {
+        "finding": "The final pathology has identified your tumor as a 'clear cell meningioma', which is a rare subtype.",
+        "explanation_and_statistic": "While many rare subtypes are Grade 1, clear cell meningioma is considered more aggressive and is classified as WHO Grade 2. It has a higher tendency to recur than typical meningiomas. This diagnosis is key because it changes the treatment plan.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A definitive classification as a Grade 2 tumor.",
+            "A discussion about recommending radiation therapy after surgery.",
+            "A plan for closer long-term surveillance."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What makes this subtype more aggressive?",
+            "Is this treated differently than an 'atypical' meningioma?"
+          ]
+        },
+        "closing_statement": "Getting this specific subtype diagnosis is crucial. It gives your team the information they need to be proactive and recommend a more comprehensive treatment plan to give you the best chance of preventing a recurrence."
+      }
+    },
+    {
+      "id": "meningioma_059",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows a meningioma is 'encasing the carotid artery'.",
+      "response": {
+        "finding": "The scan shows that the meningioma has grown around a portion of your carotid artery, one of the main blood supplies to the brain.",
+        "explanation_and_statistic": "This is a critical finding for a surgeon. 'Encasing' the artery makes it impossible to remove the tumor completely without risking a catastrophic stroke. In this situation, the safest plan is often to leave the portion on the artery and treat it with radiation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a 'subtotal' surgery to remove the bulk of the tumor safely.",
+            "A consultation with a radiation oncologist to plan treatment for the remainder.",
+            "A review of a CT angiogram (CTA) to see the artery in detail."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the risks of operating so close to the artery?",
+            "Is radiation effective at controlling the part of the tumor left behind?"
+          ]
+        },
+        "closing_statement": "Your surgeon's number one priority is your safety. The scan gives them the information they need to make the wise decision to not take unnecessary risks. The combination of safe surgery and precise radiation is a very effective and standard approach for this situation."
+      }
+    },
+    {
+      "id": "meningioma_060",
+      "topic": "brain_meningioma",
+      "instruction": "I have been diagnosed with Neurofibromatosis Type 2 (NF2) and now have meningiomas.",
+      "response": {
+        "finding": "As is common with Neurofibromatosis Type 2 (NF2), your scan shows the presence of multiple meningiomas.",
+        "explanation_and_statistic": "NF2 is a genetic condition that predisposes people to tumors of the nervous system, most commonly meningiomas and schwannomas. Management is a lifelong journey of surveillance and carefully timed treatments, coordinated by a specialized NF2 center.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A comprehensive management plan at a specialized NF2 clinic.",
+            "A strategy to prioritize which, if any, of the tumors need treatment now.",
+            "A discussion about medical therapies (like Avastin) that can be used for NF2."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How do we decide which tumor to treat first?",
+            "What is the role of medication versus surgery or radiation for me?"
+          ]
+        },
+        "closing_statement": "While managing NF2 is a marathon, not a sprint, you are not alone. You will have a dedicated team of experts in this specific condition who will partner with you for the long term to keep you healthy."
+      }
+    },
+    {
+      "id": "meningioma_061",
+      "topic": "brain_meningioma",
+      "instruction": "The scan notes 'minimal growth' of my meningioma.",
+      "response": {
+        "finding": "Your follow-up scan shows minimal growth of the meningioma when compared to your previous imaging.",
+        "explanation_and_statistic": "Minimal or very slow growth is not uncommon for meningiomas under observation. It does not necessarily mean you need treatment now, but it is a signal that the tumor is not completely dormant. This finding will prompt a thoughtful discussion about when might be the right time to act.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion on the rate of growth and what it means.",
+            "The pros and cons of intervening now versus continuing to watch.",
+            "A plan for a shorter interval to your next scan to watch it more closely."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "At what point does 'slow growth' become enough to warrant treatment?",
+            "What are the risks of waiting longer?"
+          ]
+        },
+        "closing_statement": "This is exactly why you have been undergoing surveillance scans. This information allows you and your doctor to make a proactive, unhurried decision about the next step, rather than being forced to react to sudden symptoms."
+      }
+    },
+    {
+      "id": "meningioma_062",
+      "topic": "brain_meningioma",
+      "instruction": "What is a 'papillary meningioma'?",
+      "response": {
+        "finding": "The pathology from your tumor has identified it as a 'papillary meningioma'.",
+        "explanation_and_statistic": "This is a very rare and aggressive subtype of meningioma, which is automatically classified as WHO Grade 3. Its name comes from the finger-like projections the cells form under the microscope. This diagnosis indicates a need for aggressive, multi-modal therapy.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for aggressive treatment, including surgery and radiation.",
+            "A discussion about the high risk of recurrence.",
+            "A consideration for systemic chemotherapy or clinical trials."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the standard treatment for this specific rare diagnosis?",
+            "Should I get a second opinion at a major cancer center?"
+          ]
+        },
+        "closing_statement": "Receiving a rare and aggressive diagnosis is extremely difficult. The one advantage is that it provides certainty. Your team knows what you are facing and will create the most comprehensive and powerful treatment plan possible."
+      }
+    },
+    {
+      "id": "meningioma_063",
+      "topic": "brain_meningioma",
+      "instruction": "I have a tiny, calcified meningioma. Does it need treatment?",
+      "response": {
+        "finding": "The scan shows a tiny, heavily calcified lesion on the brain's lining, consistent with a benign meningioma.",
+        "explanation_and_statistic": "It is extremely unlikely that a lesion with these features would require treatment. 'Tiny' means it's not causing pressure, and 'calcified' suggests it is ancient and not growing. The standard of care for a finding like this is to simply note its presence and not pursue any treatment or even intensive follow-up.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Reassurance that this is a benign and incidental finding.",
+            "A discussion that no treatment is necessary.",
+            "A recommendation for maybe one follow-up scan in a few years, or none at all."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is it possible this has been there my whole life?",
+            "Is there any reason at all to worry about this finding?"
+          ]
+        },
+        "closing_statement": "This is great news. Think of this as a freckle on the inside\u2014a common, benign feature that requires no action. You can be very reassured and put this finding out of your mind."
+      }
+    },
+    {
+      "id": "meningioma_064",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests a 'clinoid meningioma'.",
+      "response": {
+        "finding": "The scan reveals a growth arising from the anterior clinoid process, a small knuckle of bone near your optic nerve, consistent with a clinoid meningioma.",
+        "explanation_and_statistic": "This is a subtype of skull base meningioma where the primary concern is its relationship to the optic nerve and carotid artery. Treatment is highly technical and aimed at preserving vision while controlling the tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed evaluation by a neuro-ophthalmologist.",
+            "A consultation with a skull base surgeon to discuss the formidable surgical challenge.",
+            "A review of focused radiation as a potential primary or adjuvant treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How do you safely remove a tumor from that small, crowded area?",
+            "What is the biggest risk to my vision?"
+          ]
+        },
+        "closing_statement": "This is a complex problem with highly specialized solutions. You are being referred to an expert team that uses advanced techniques to safely manage tumors in this very delicate and specific location."
+      }
+    },
+    {
+      "id": "meningioma_065",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology mentions 'atypical features' but it's still Grade 1 meningioma.",
+      "response": {
+        "finding": "The pathology report for your meningioma notes some 'atypical features' but classifies it overall as WHO Grade 1.",
+        "explanation_and_statistic": "This can be confusing. It means that while the tumor is benign overall, the pathologist saw some features that are more commonly seen in Grade 2 tumors, but not enough to change the diagnosis. It might just mean your doctor will want to watch you a little more closely after treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about why it didn't meet the threshold for Grade 2.",
+            "A plan for slightly more frequent follow-up scans as a precaution.",
+            "Reassurance that the official diagnosis is still benign."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this put me in a 'gray area' between Grade 1 and 2?",
+            "What is my personal risk of recurrence?"
+          ]
+        },
+        "closing_statement": "This is a nuanced pathological diagnosis. Your team is being extra careful by noting these features, and their recommendation for slightly closer follow-up is a sign of their diligence. The overall diagnosis, however, remains a positive one."
+      }
+    },
+    {
+      "id": "meningioma_066",
+      "topic": "brain_meningioma",
+      "instruction": "Do I need to change my diet for a meningioma?",
+      "response": {
+        "finding": "Your scan shows a small, stable finding consistent with a benign meningioma.",
+        "explanation_and_statistic": "There is no scientific evidence that any specific diet, food, or supplement can affect the growth of a meningioma. The most important thing you can do for your overall brain health is to follow a standard healthy lifestyle.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that no dietary changes are needed.",
+            "A focus on general wellness: balanced diet, regular exercise, and good sleep.",
+            "A review of the plan to simply monitor the finding with scans."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is there any research at all about diet and meningiomas?",
+            "What is the best thing I can do for my health right now?"
+          ]
+        },
+        "closing_statement": "It's great that you are thinking about proactive ways to stay healthy. While there's no magic diet for this specific finding, embracing a healthy lifestyle is the best investment you can make in your long-term well-being."
+      }
+    },
+    {
+      "id": "meningioma_067",
+      "topic": "brain_meningioma",
+      "instruction": "What is 'Simpson Grade' resection for a meningioma?",
+      "response": {
+        "finding": "After your surgery, your neurosurgeon will describe the 'Simpson Grade' of the resection.",
+        "explanation_and_statistic": "The Simpson Grade is a scale from 1 to 5 that a surgeon uses to describe how complete the removal of a meningioma was, including the removal of its dural attachment and any affected bone. A lower grade (like Simpson Grade 1) means a more complete removal and predicts a lower chance of the tumor recurring.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of your operative report to see what Simpson Grade was achieved.",
+            "How that grade impacts your specific risk of recurrence.",
+            "Whether the grade suggests you might need follow-up radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What Simpson Grade was my resection?",
+            "What prevented you from getting a Grade 1 resection, if that was the case?"
+          ]
+        },
+        "closing_statement": "This grading system gives you and your team a very clear, objective measure of the completeness of your surgery. This information is a powerful predictor of your future and helps guide the next steps in your care."
+      }
+    },
+    {
+      "id": "meningioma_068",
+      "topic": "brain_meningioma",
+      "instruction": "I have ringing in my ears and they found a 'cerebellopontine angle meningioma'.",
+      "response": {
+        "finding": "The scan reveals a growth in the cerebellopontine angle, the small space near your inner ear, which appears to be a meningioma.",
+        "explanation_and_statistic": "This is a common location for tumors, and your symptoms of ringing in the ears (tinnitus) or hearing loss are classic for a lesion here. While another tumor called a schwannoma is more common in this spot, meningiomas are found here as well and are very treatable.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A hearing and balance test (audiogram).",
+            "A consultation with a neurosurgeon and possibly an ENT surgeon.",
+            "A discussion of surgery versus stereotactic radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How can you tell if it's a meningioma or a schwannoma on the scan?",
+            "What are the risks to my hearing with treatment?"
+          ]
+        },
+        "closing_statement": "You now have a clear reason for your symptoms. This is a well-understood medical problem with excellent treatment options. Your team will focus on controlling the tumor while preserving your hearing and balance."
+      }
+    },
+    {
+      "id": "meningioma_069",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows 'equivocal features' and can't distinguish a meningioma from a metastasis.",
+      "response": {
+        "finding": "The scan shows a dural-based lesion with some 'equivocal features,' meaning the radiologist cannot be certain if it represents a meningioma or a metastasis.",
+        "explanation_and_statistic": "This uncertainty arises when a lesion doesn't have the classic textbook appearance of a meningioma. If you have a history of another cancer, the possibility of a metastasis (a spread of that cancer) must be considered. A biopsy is often the only way to tell the difference for sure.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A thorough review of your overall health and cancer history.",
+            "A full body scan (like a PET/CT) to look for cancer elsewhere.",
+            "A plan to get a tissue sample via biopsy or surgical removal."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What features make it look like a meningioma, and what makes it look like a metastasis?",
+            "What is the most important next step to get a certain answer?"
+          ]
+        },
+        "closing_statement": "It's wise for your team to be cautious and consider all possibilities. The next steps will be a logical process of investigation to provide you with a definitive answer so you can get the correct treatment."
+      }
+    },
+    {
+      "id": "meningioma_070",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology says 'microcystic meningioma'.",
+      "response": {
+        "finding": "The final pathology from your tumor has identified it as a 'microcystic meningioma'.",
+        "explanation_and_statistic": "This is a benign (WHO Grade 1) subtype of meningioma. Its name comes from the small, cyst-like spaces seen under the microscope. It is known for sometimes causing a surprising amount of swelling, but it is a benign entity with a great prognosis after removal.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that this is a benign, non-cancerous finding.",
+            "A review of your excellent prognosis.",
+            "A standard schedule for follow-up imaging."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this subtype explain the symptoms I was having?",
+            "Is the risk of recurrence any different for this subtype?"
+          ]
+        },
+        "closing_statement": "You can be very reassured by this diagnosis. The specific name simply describes its appearance, but the key message is that this is a benign condition with an excellent outlook following your treatment."
+      }
+    },
+    {
+      "id": "meningioma_071",
+      "topic": "brain_meningioma",
+      "instruction": "I have double vision and they found a meningioma near my eye.",
+      "response": {
+        "finding": "The scan shows a meningioma in the area behind your eye, which is likely pressing on the nerves that control eye movement and causing your double vision.",
+        "explanation_and_statistic": "Double vision is a classic symptom of a tumor in this location (like the cavernous sinus or sphenoid wing). The goal of treatment will be to relieve the pressure on these nerves. Both precision radiation and surgery can be effective options.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A detailed exam by a neuro-ophthalmologist.",
+            "A consultation with a skull base tumor team.",
+            "A discussion of the pros and cons of surgery versus radiation for your specific case."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the chance my double vision will get better after treatment?",
+            "Which treatment offers the best chance to improve my vision safely?"
+          ]
+        },
+        "closing_statement": "It's good that your scan has provided a clear mechanical reason for your vision problems. Your team will focus on a plan designed to decompress those nerves and give you the best possible chance of visual recovery."
+      }
+    },
+    {
+      "id": "meningioma_072",
+      "topic": "brain_meningioma",
+      "instruction": "Scan shows 'hemorrhagic meningioma'.",
+      "response": {
+        "finding": "The scan shows a finding consistent with a meningioma that has a hemorrhagic component, meaning it has bled.",
+        "explanation_and_statistic": "Bleeding from a meningioma is very rare, but it can happen. This is a serious event that requires urgent attention. Your doctors will focus on managing the effects of the bleed while also planning to treat the underlying tumor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Urgent consultation with a neurosurgeon.",
+            "A plan to manage any pressure caused by the blood.",
+            "A discussion about why the tumor may have bled."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the bleeding an ongoing emergency?",
+            "Does a bleed mean the tumor is more likely to be a higher grade?"
+          ]
+        },
+        "closing_statement": "The bleed has created an urgent situation, but it has also clearly unmasked the underlying problem. Your team will act quickly to ensure you are safe and then create a plan to treat the meningioma to prevent this from happening again."
+      }
+    },
+    {
+      "id": "meningioma_073",
+      "topic": "brain_meningioma",
+      "instruction": "Pathology showed a 'chordoid meningioma'.",
+      "response": {
+        "finding": "The pathology report has identified your tumor as a 'chordoid meningioma', which is a rare subtype.",
+        "explanation_and_statistic": "Chordoid meningioma is considered an atypical (WHO Grade 2) diagnosis due to its higher rate of recurrence. Its name comes from its microscopic appearance, resembling a tissue from early development called the notochord. This diagnosis indicates a need for close follow-up.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about its Grade 2 classification.",
+            "A recommendation for post-operative radiation therapy.",
+            "In rare cases, it can be associated with a systemic condition, which your doctor may discuss."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the expected recurrence rate for this subtype?",
+            "Why is this subtype considered Grade 2?"
+          ]
+        },
+        "closing_statement": "Getting this specific rare diagnosis is the key to getting the right care. It allows your team to be proactive with treatments like radiation to give you the best possible long-term control."
+      }
+    },
+    {
+      "id": "meningioma_074",
+      "topic": "brain_meningioma",
+      "instruction": "My scan suggests a 'subfrontal meningioma'.",
+      "response": {
+        "finding": "The scan reveals a growth beneath the frontal lobe of your brain, consistent with a subfrontal meningioma.",
+        "explanation_and_statistic": "This is a very common location for meningiomas. Depending on their size, they can cause subtle changes in personality or planning (executive function), or no symptoms at all. They are typically benign and very amenable to treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of any subtle cognitive or personality changes.",
+            "A consultation with a neurosurgeon to discuss surgical options.",
+            "A discussion of observation if it is small and asymptomatic."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Could this have been affecting my mood or personality?",
+            "What is the recovery like from a frontal approach surgery?"
+          ]
+        },
+        "closing_statement": "This is a very common and treatable finding. You have excellent options, and you can work with your doctor to decide whether to treat it now or simply keep a close eye on it."
+      }
+    },
+    {
+      "id": "meningioma_075",
+      "topic": "brain_meningioma",
+      "instruction": "What is 'post-radiation necrosis' vs. recurrence for a meningioma?",
+      "response": {
+        "finding": "Your scan shows a new enhancing area where your meningioma was radiated, and your team will work to determine if it is post-radiation necrosis or tumor recurrence.",
+        "explanation_and_statistic": "Radiation necrosis is inflammation and scar tissue that is a delayed reaction to successful radiation, and it can look identical to a recurring tumor on a standard MRI. Differentiating the two is a common challenge, and advanced imaging can often provide the answer.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "An advanced scan like an MR Perfusion or PET scan.",
+            "A discussion on how necrosis is often a sign of effective treatment.",
+            "A plan to manage the inflammation if it is necrosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How will the advanced scan tell the difference?",
+            "What happens if it is just scar tissue?"
+          ]
+        },
+        "closing_statement": "It's good that your team is carefully considering this possibility. It is very common to have this type of reaction after radiation, and it's a sign that your team is being diligent to avoid any unnecessary further treatment."
+      }
+    },
+    {
+      "id": "meningioma_076",
+      "topic": "brain_meningioma",
+      "instruction": "My meningioma has 'heterogeneous enhancement'. What does that mean?",
+      "response": {
+        "finding": "The scan shows that your suspected meningioma has 'heterogeneous enhancement'.",
+        "explanation_and_statistic": "This means that when you received contrast dye, the tumor lit up in a non-uniform, mixed pattern. While classic benign meningiomas often light up uniformly (homogenously), a mixed pattern can sometimes be a subtle sign of a higher grade or a more complex internal structure. It suggests a need for careful evaluation.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion that this may be a reason to lean towards treatment over observation.",
+            "The importance of getting a tissue diagnosis to understand the mixed pattern.",
+            "A consultation with a neurosurgeon to review the images."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Does this mixed pattern make you more suspicious of a higher grade?",
+            "Could this pattern be caused by anything else, like old bleeds?"
+          ]
+        },
+        "closing_statement": "This is a subtle radiological clue that prompts your team to be more cautious. It provides a good reason to investigate further to ensure you are getting a treatment plan that matches the tumor's true biology."
+      }
+    },
+    {
+      "id": "meningioma_077",
+      "topic": "brain_meningioma",
+      "instruction": "Can I take hormone replacement therapy (HRT) if I have a meningioma?",
+      "response": {
+        "finding": "Your scan shows a small, stable meningioma, and you are asking about hormone replacement therapy (HRT).",
+        "explanation_and_statistic": "This is an excellent question. Meningiomas have receptors for hormones like progesterone, and there is evidence that they can sometimes grow in response to hormonal therapies. This is a complex decision that you will make with your neurosurgeon and your gynecologist.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion of the risks and benefits of HRT in your specific situation.",
+            "A plan for closer monitoring of the meningioma if you decide to start HRT.",
+            "A consultation with your gynecologist or endocrinologist."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the actual risk that HRT would make my meningioma grow?",
+            "Are there non-hormonal options to manage my menopausal symptoms?"
+          ]
+        },
+        "closing_statement": "You are asking a very important and insightful question. This requires a collaborative decision between your specialists, weighing the quality-of-life benefits of HRT against the small potential risk to the meningioma. Together, you will find the right answer for you."
+      }
+    },
+    {
+      "id": "meningioma_078",
+      "topic": "brain_meningioma",
+      "instruction": "The scan shows a meningioma with 'arterial encasement'.",
+      "response": {
+        "finding": "The scan shows the meningioma is 'encasing' or surrounding a major artery in your brain.",
+        "explanation_and_statistic": "This is a critical finding for surgical planning. A surgeon cannot safely remove the part of the tumor that is fused to a major artery. This almost always means that a complete surgical removal is not the safest goal.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan for a partial removal, followed by focused radiation on the remaining piece.",
+            "A discussion about using radiation as the only treatment to avoid surgical risk.",
+            "A detailed review of an angiogram to see the vessel clearly."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What would happen if the artery was injured during surgery?",
+            "How effective is radiation at treating the part stuck to the artery?"
+          ]
+        },
+        "closing_statement": "The scan has given your surgeon a clear warning sign, allowing them to prioritize your safety above all else. The combination of safe surgery and precise radiation is a very powerful and standard way to manage this exact situation."
+      }
+    },
+    {
+      "id": "meningioma_079",
+      "topic": "brain_meningioma",
+      "instruction": "I was told I have a 'brain tumor' but the specialist says it's a meningioma and that's good news. Why?",
+      "response": {
+        "finding": "Your scan shows a growth that is characteristic of a meningioma.",
+        "explanation_and_statistic": "This is good news because a meningioma is not technically a 'brain tumor'\u2014it's a tumor of the brain's *coverings*. It doesn't grow from the brain cells themselves, but rather presses on the brain from the outside. The vast majority are benign, slow-growing, and very treatable, often with surgery alone.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of why this is a more favorable diagnosis than a tumor of the brain tissue (like a glioma).",
+            "A discussion of your excellent prognosis.",
+            "A clear plan for observation, surgery, or radiation."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is the distinction between 'in the brain' and 'on the brain' so important?",
+            "What is the chance this will ever become a serious problem?"
+          ]
+        },
+        "closing_statement": "It's a huge relief to learn that the specifics of your diagnosis point to a much more manageable and treatable condition. You can feel very optimistic about the options and outlook you have."
+      }
+    },
+    {
+      "id": "meningioma_080",
+      "topic": "brain_meningioma",
+      "instruction": "The pathology report mentioned 'hemangiopericytoma' but said it's now considered a type of meningioma.",
+      "response": {
+        "finding": "The pathology from your tumor has identified it as a 'solitary fibrous tumor/hemangiopericytoma'.",
+        "explanation_and_statistic": "This is a rare tumor that used to be considered separate, but is now classified by the WHO as a high-grade tumor that can occur within the spectrum of meningiomas. It is more aggressive than a typical meningioma and has a higher chance of recurrence.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A clear diagnosis of this rare, higher-grade entity.",
+            "A plan for aggressive treatment, including surgery and radiation.",
+            "A need for long-term, close surveillance."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "How is this different from an atypical or anaplastic meningioma?",
+            "Does this tumor have a tendency to spread elsewhere?"
+          ]
+        },
+        "closing_statement": "Getting this precise, albeit rare, diagnosis is critical. It ensures you receive the correct, more aggressive treatment plan from the beginning, which is necessary to manage this specific tumor type effectively."
+      }
+    },
+    {
+      "id": "meningioma_081",
+      "topic": "brain_meningioma",
+      "instruction": "I have a 'foraminal' spinal meningioma.",
+      "response": {
+        "finding": "The scan shows a meningioma growing in one of the neural foramina of your spine.",
+        "explanation_and_statistic": "The foramen is the small bony window where a nerve root exits your spinal canal. A tumor here causes symptoms by pinching that specific nerve. Surgery is aimed at unpinching the nerve and has a very high success rate.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A consultation with a spine neurosurgeon.",
+            "A review of which nerve is being compressed and what symptoms it's causing.",
+            "A discussion about minimally invasive surgical options."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Will my nerve pain go away after the surgery?",
+            "What is the recovery process like for this type of spine surgery?"
+          ]
+        },
+        "closing_statement": "Your scan has found a clear, mechanical cause for your nerve pain. There is a straightforward surgical solution to decompress the nerve, which should provide you with significant relief."
+      }
+    },
+    {
+      "id": "meningioma_082",
+      "topic": "brain_meningioma",
+      "instruction": "What is the Simpson Grade 2 resection of my meningioma?",
+      "response": {
+        "finding": "Your surgeon has reported a Simpson Grade 2 resection of your meningioma.",
+        "explanation_and_statistic": "This is an excellent surgical outcome. It means the surgeon removed all the visible tumor and also cauterized (burned) the dural attachment it grew from. This significantly lowers the chance of recurrence compared to just removing the tumor alone. For a benign (WHO Grade 1) tumor, this often is curative.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A review of the operative report.",
+            "Confirmation that this is considered a form of 'gross total resection.'",
+            "A discussion about your favorable long-term prognosis."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the statistical chance of recurrence after a Simpson 2 resection?",
+            "Does this mean I won't need radiation?"
+          ]
+        },
+        "closing_statement": "Congratulations on a very successful and thorough surgery. Your surgeon was able to perform a very complete removal, which gives you the best possible chance for a long-term cure. This is wonderful news."
+      }
+    },
+    {
+      "id": "meningioma_083",
+      "topic": "brain_meningioma",
+      "instruction": "Does a meningioma have a genetic cause?",
+      "response": {
+        "finding": "Your scan shows a finding consistent with a single, 'sporadic' meningioma.",
+        "explanation_and_statistic": "This is a great question. The vast majority of single meningiomas are 'sporadic,' meaning they happen by chance and are not caused by a gene you can pass on to your children. The only major exception is the rare genetic syndrome Neurofibromatosis Type 2 (NF2), which causes multiple tumors.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that a single tumor is not a sign of a genetic syndrome.",
+            "Reassurance that your family members are not at increased risk.",
+            "A focus on the management of your specific tumor."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the known risk factors for developing a meningioma?",
+            "Is there any reason at all to consider genetic testing?"
+          ]
+        },
+        "closing_statement": "You can be reassured that this is almost certainly just a random event, not a reflection of your underlying genetics. The focus can remain squarely on the best plan for you, without worrying about your family."
+      }
+    },
+    {
+      "id": "meningioma_084",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows 'slight increase in size' of my meningioma.",
+      "response": {
+        "finding": "The comparison with your prior scan shows a slight increase in the size of the meningioma.",
+        "explanation_and_statistic": "Discovering slow growth is not a cause for alarm, but it is an important piece of new information. It suggests the tumor is active and will likely continue to grow over time. This finding will prompt a thoughtful discussion about the timing of a potential treatment.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about the pros and cons of treating now versus waiting longer.",
+            "A review of your treatment options (surgery or radiation).",
+            "Potentially shortening the time until your next follow-up scan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Is the rate of growth concerning?",
+            "What would be the benefit of treating it now while it's still small?"
+          ]
+        },
+        "closing_statement": "This is precisely why we monitor these findings. This information gives you and your doctor the power to make a proactive decision from a position of control, rather than waiting for the tumor to cause problems."
+      }
+    },
+    {
+      "id": "meningioma_085",
+      "topic": "brain_meningioma",
+      "instruction": "I have a tiny meningioma and I'm a scuba diver.",
+      "response": {
+        "finding": "The scan shows a tiny, incidental meningioma, and you are asking about the safety of scuba diving.",
+        "explanation_and_statistic": "This is an important question. The main concern with any stable structure inside the head is the theoretical risk of seizure. While the risk with a tiny, stable meningioma is extremely low, a seizure underwater is a catastrophic event. This is a decision you will need to make after a careful discussion with your doctor.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A frank discussion of the very small, but real, risks.",
+            "A review of guidelines from diving medical societies.",
+            "Documentation of your understanding of the risks if you choose to continue diving."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is my personal, statistical risk of having a first-time seizure?",
+            "Would you be able to sign the medical clearance form for me?"
+          ]
+        },
+        "closing_statement": "This is a complex decision where a medical risk intersects with your lifestyle and passions. Your doctor will provide you with all the information they can, but the final decision about what level of risk you are willing to accept will be yours."
+      }
+    },
+    {
+      "id": "meningioma_086",
+      "topic": "brain_meningioma",
+      "instruction": "Can you explain the pathology term 'angioblastic meningioma'?",
+      "response": {
+        "finding": "Your pathology report has identified the tumor with the term 'angioblastic meningioma'.",
+        "explanation_and_statistic": "This is an older term that is no longer used in the official WHO classification. It used to describe meningiomas with a lot of blood vessels. Today, these tumors are reclassified based on their actual cell type, most often as a 'solitary fibrous tumor/hemangiopericytoma', which is a higher-grade lesion.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A clarification of the modern, correct diagnosis for your tumor.",
+            "A review of the treatment plan, which will be based on the new classification.",
+            "Understanding that this is likely a higher-grade tumor requiring aggressive treatment."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the official WHO grade and diagnosis now?",
+            "Why has the classification system changed?"
+          ]
+        },
+        "closing_statement": "Medical classifications are always being updated as we learn more. It's good that your case is being interpreted using the most modern and accurate system, as this ensures you will receive the correct and most effective care."
+      }
+    },
+    {
+      "id": "meningioma_087",
+      "topic": "brain_meningioma",
+      "instruction": "I have headaches and my scan is normal except for a tiny meningioma.",
+      "response": {
+        "finding": "Your scan was normal except for the discovery of a tiny, incidental meningioma.",
+        "explanation_and_statistic": "It is overwhelmingly likely that this tiny meningioma has nothing to do with your headaches. Small meningiomas do not cause pain. This means you have two separate issues: a very common headache syndrome, and a very common, benign incidental finding.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A plan to treat your headaches, likely with a neurologist.",
+            "A plan to simply monitor the meningioma with a follow-up scan in a year or so.",
+            "Reassurance that the serious causes of headache have been ruled out."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Are you certain the meningioma is not causing my pain?",
+            "What is the next step for treating my headaches?"
+          ]
+        },
+        "closing_statement": "The scan has provided very good news. It has ruled out a dangerous cause for your headaches and found something minor and unrelated that can be safely monitored. You can now focus on getting the right treatment for your headaches."
+      }
+    },
+    {
+      "id": "meningioma_088",
+      "topic": "brain_meningioma",
+      "instruction": "After surgery for my meningioma, my scan is 'clear'.",
+      "response": {
+        "finding": "Your first post-operative scan after the removal of your meningioma is clear, with no evidence of any residual tumor.",
+        "explanation_and_statistic": "This is the best possible news you can receive after surgery. It confirms a 'gross total resection' and means that, for a benign meningioma, you are very likely cured. Your long-term prognosis is excellent.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A celebration of the successful outcome.",
+            "A discussion of the very low risk of recurrence.",
+            "A long-term plan for surveillance with periodic, but infrequent, MRI scans."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What is the actual percentage chance of this coming back?",
+            "Can I go back to all my normal activities?"
+          ]
+        },
+        "closing_statement": "Congratulations on navigating your surgery so successfully. This clear scan is the result you and your team were hoping for, and you can be very confident and optimistic about your future."
+      }
+    },
+    {
+      "id": "meningioma_089",
+      "topic": "brain_meningioma",
+      "instruction": "I have an 'asymptomatic' meningioma. What does that mean?",
+      "response": {
+        "finding": "The scan shows a meningioma that is described as 'asymptomatic'.",
+        "explanation_and_statistic": "Asymptomatic simply means the meningioma is not causing any symptoms or problems for you. It was likely found by chance. The vast majority of small meningiomas are asymptomatic and are managed with observation alone, as the risks of treatment would outweigh any benefit.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "Confirmation that no treatment is needed at this time.",
+            "A plan for 'active surveillance' with a follow-up scan in about a year.",
+            "A review of what symptoms would be a reason to call your doctor."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "What are the chances I will develop symptoms in the future?",
+            "Is it safe to just leave it alone?"
+          ]
+        },
+        "closing_statement": "This is a very common and reassuring situation. The safest and best plan is to do nothing at all, other than to keep a watchful eye on it with your doctor. You can continue your life as normal."
+      }
+    },
+    {
+      "id": "meningioma_090",
+      "topic": "brain_meningioma",
+      "instruction": "My meningioma appears to be getting its blood supply from the 'external carotid artery'.",
+      "response": {
+        "finding": "An angiogram shows that your meningioma receives its blood supply primarily from the external carotid artery.",
+        "explanation_and_statistic": "This is good news for a surgeon or radiologist. The external carotid artery supplies the face and scalp, and is much less critical than the internal carotid, which supplies the brain. This blood supply makes a pre-surgical embolization procedure much safer and easier to perform.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about proceeding with a pre-operative embolization.",
+            "Confirmation that this makes surgery safer.",
+            "A review of the surgical plan."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why is it better that the blood supply comes from this artery?",
+            "Does this change the risk of the surgery itself?"
+          ]
+        },
+        "closing_statement": "This is a favorable anatomical detail that can make your treatment safer. It allows the team to use tools like embolization to their full advantage, setting you up for a more successful and less risky surgery."
+      }
+    },
+    {
+      "id": "meningioma_091",
+      "topic": "brain_meningioma",
+      "instruction": "My scan shows a 'recurrent Grade 1 meningioma'. I thought Grade 1 didn't come back.",
+      "response": {
+        "finding": "The scan shows a recurrence of what was previously a Grade 1, benign meningioma.",
+        "explanation_and_statistic": "While it's true that Grade 1 meningiomas have a low rate of recurrence, it is not zero, especially if the original surgery could not achieve a complete (Simpson Grade 1) resection. The good news is that the recurrence is almost certain to be benign and slow-growing as well, and you have excellent options to treat it.",
+        "appointment_topics": {
+          "heading": "Topics for your next appointment:",
+          "items": [
+            "A discussion about treating the recurrence, most likely with focused radiation.",
+            "A review of your original operative and pathology reports.",
+            "Reassurance that this does not mean you have a more aggressive cancer."
+          ]
+        },
+        "doctor_questions": {
+          "heading": "Questions you could ask your doctor:",
+          "items": [
+            "Why did my benign tumor come back?",
+            "What is the best way to make sure it doesn't come back a third time?"
+          ]
+        },
+        "closing_statement": "It is frustrating to have to deal with this again. However, you are still dealing with a benign process. The plan is straightforward, and modern radiation techniques are extremely effective at providing durable, long-term control for recurrent benign meningiomas."
+      }
+    }
+  ]
+}
